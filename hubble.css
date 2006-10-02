@@ -1,0 +1,36 @@
+body {position: relative; margin: 0; padding: 0;}
+
+div#content {position: absolute; top: 26px; left: 161px; right: 25px;
+   color: #EED; font: 100% Verdana, sans-serif; padding: 10px; border: solid #FFCC99;}
+div#links {position: absolute; top: 52px; left: 0; width: 160px; height: 700px; font: 16px Verdana, sans-serif;}
+
+body {background: black url(images/goods.png) 0 0 repeat fixed;}div#content {background: #468;}
+div#links a {background: transparent url(images/goods-fade.png) 0 0 repeat fixed;}div#links a:hover {background: transparent url(images/goods-wash.png) 0 0 repeat fixed;}
+
+h1 {height: 69px; margin: -9px -9px 0.5em; padding: 15px 0 5px;
+    text-align: center; vertical-align: middle; white-space: nowrap;
+    letter-spacing: 0.15em; font: bold 250% Verdana, sans-serif; 
+    background: #ACE url(images/metal.png); color: black;}
+dt {font-weight: bold;}
+dd {margin-bottom: 0.66em;}
+code, pre {color: #EDC; font: 110% monospace;}
+address {font: 80% sans-serif;}
+
+div#content p {margin: 0 1em 1em;}
+div#content h3 {margin-bottom: 0.25em;}
+div#content a:link {color: white;}
+div#content a:visited {color: #BBC;}
+div#content a:link:hover {color: #FF0;}
+div#content a:visited:hover {color: #CC0;}
+
+div#links a {display: block; text-align: center; font: bold 120% sans-serif; 
+   padding: 5px 10px; margin: 0 0 2px; border-width: 0; 
+   text-decoration: none; color: #FFC;}
+div#links a:hover {color: #411;}
+
+div#links a span {display: none;}
+div#links a:hover span {display: block;
+   position: absolute; top: 300px; left: 0; width: 125px;
+   padding: 5px; margin: 10px; z-index: 100;
+   color: #AAA; background: black;
+   font: 10px Verdana, sans-serif; text-align: center;}
