@@ -1,0 +1,34 @@
+#def $Id$
+#def title: Cosmology Seminars
+#def content
+    
+    <P ALIGN="center">
+    For seminars and other local announcements, please subscribe to
+    <A HREF="MAILTO:sfu-cosmo-request@sfu.ca?subject=subscribe">sfu-cosmo mailing list</A>.
+    </P>
+    <HR>
+    
+    <H3 ALIGN=center>Next Seminar:</H3>
+    <H3 ALIGN=center>$next.date in room $next.room</H3>
+    <BLOCKQUOTE>
+        <H2>$next.speaker ($next.affiliation)</H2>
+        <H3>$next.title</H3>
+        
+        $next.abstract
+    </BLOCKQUOTE>
+    
+    <H3 ALIGN=center>Previous Seminars:</H3>
+    <TABLE>
+        #for $s in $SEMINARS
+        <TR>
+            <TD>$s.date</TD>
+            <TD>$s.speaker</TD>
+            <TD>$s.affiliation</TD>
+            <TD>$s.title</TD>
+        </TR>
+        
+        #end for
+    </TABLE>
+    
+#end def
+#include 'layout.tmpl'
