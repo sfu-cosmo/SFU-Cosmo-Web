@@ -1,0 +1,114 @@
+1 February 2007, 13:00 in room P8445B
+Dr. Adam Moss (UBC)
+Dark Energy and the Rubber Band
+
+There is now strong evidence for an unknown form of dark energy
+pervading the universe. However, the microphyical explanation of this
+dark energy remains a mystery. The dark energy cannot be a normal fluid,
+as this leads to instabilities on the smallest scales. In this talk I
+discuss the possibilty that the dark energy takes the form of an elastic
+medium. I explain the theoretical framework and cosmological signatures
+of such a model, and also discuss the possibility that the microphyical
+origin is a tangled network of cosmic strings and domain walls.
+
+
+16 January 2007, 14:00 in room SSB7109
+Dr. Bojan Losic (University of Alberta)
+Aspects of nonlinear perturbation theory in cosmology
+
+I will review recent suggestions that nonlinear cosmological
+perturbations are important in slow-roll inflation models. Closely
+related issues in pure de Sitter spacetime will also be discussed,
+with the upshot that a reasonable notion of perturbative consistency
+directly implies a disturbing absence of nontrivial dynamics in de
+Sitter spacetime. The scope of the talk will be introductory.
+
+
+11 January 2007, 13:00 in room P8445B
+Prof. Krzysztof Sliwa (Tufts University)
+Supersymmetry for particle physicists
+
+The idea of Supersymmetry, together with the theoretical motivations for
+its introduction, is presented in a way that puts an emphasis on the
+main concepts rather than the technical details. The observational
+consequences of Supersymmetry, past searches, existing limits and
+prospects for possible observation of Supersymmetric particles in
+experiments at Large Hadron Collider at CERN are summarized.
+
+
+5 December 2006, 13:00 in room P8445B
+Dr. Jasper Wall (UBC)
+Submillimetre galaxies and star-formation in the early Universe
+
+Submm galaxies recently have been discovered in significant numbers
+using SCUBA, the sub-millimetre common-user bolometer array on the James
+Clerk Maxwell Telescope, Hawaii. Their spectra closely resemble 30-40K
+black-body; they are believed to be dust-shrouded progenitor galaxies
+with the dust heated by UV radiation from early generations of stars. If
+this is so, then star-forming rates in each pre-galaxy must be
+prodigious, say 1000 solar masses per year. The present day equivalents
+are suggested to be the so-called ULIRGs, ultra-luminous IR galaxies,
+such as NGC 6240 or Arp 220, whose enormous star-formation rates are
+attributed to major galaxy mergers. At last we have a completely
+identified sample of 35 submm galaxies, and my talk will describe how
+this sample - despite its small size - has enabled us to learn much
+about the cosmic space distribution and evolution of this key population
+of proto-galaxies.
+
+
+30 November 2006, 14:00 in room P8445B
+Dr. Marco Peloso (University of Minnesota)
+The role of SUSY flat directions in reheating
+
+Reheating after inflation describes all the particle physics processes
+occurring from the decay of the inflaton up to the establishment of
+thermal equilibrium. Due to the strong model dependence, it is one of
+the most unknown stages in the history of the universe. There is ongoing
+effort to determine the reheating temperature within different scenarios
+(from this quantity, one can then determine the amount of baryons and of
+unwanted relics, such as gravitinos, produced by the thermal bath). It
+has been argued that SUSY flat directions are naturally excited during
+inflation, and that they slow down thermalization, by providing a large
+effective mass to the fields they are coupled to. We discuss a
+nonperturbative decay channel for the flat directions which has been
+generally overlooked in the literature. It typically leads to a quick
+decay of the flat directions, and, arguably, to a suppression of their
+delaying effect for thermalization.
+
+
+22 November 2006, 12:45 in room P8445B
+Dr. Ingrid Stairs (UBC)
+Relativistic Binary Pulsars
+
+Radio pulsars in double-neutron-star systems provide the best tests of
+strong-field gravitational theories. I will present recent observations
+of PSR B1534+12 and the double-pulsar system J0737-3039A/B. In both
+cases, the pulsar timing observations are sensitive to multiple
+relativistic corrections to the basic Keplerian orbit, and therefore
+yield multiple tests of general relativity, with the double pulsar
+providing the strongest test to date. I will also discuss observations
+of geodetic precession and implications for the formation of the two
+systems.
+
+
+4 October 2006, 12:45 in room P8445A
+Dr. Serge Winitzki (Ludwig Maximilians University, Munich)
+Predictions in Eternally Inflating Universe
+
+In generic models of cosmological inflation, quantum fluctuations
+strongly influence the spacetime metric and produce infinitely many
+regions where the end of inflation (reheating) is delayed until
+arbitrarily late times. The geometry of the resulting spacetime is
+highly inhomogeneous on scales of many Hubble sizes. The recently
+developed string-theoretic picture of the "landscape" presents a similar
+structure, where an infinite number of de Sitter and anti-de Sitter
+universes are nucleated via gravitational quantum tunneling. Since
+observers on the Earth have no information about their position within
+the eternally inflating landscape, the main question in this context is
+to obtain statistical predictions for quantities observed at a random
+location within the landscape. I describe the problems arising within
+this statistical framework, in particular, the need for a volume cut-off
+and the dependence of certain cut-off schemes on time slicing and on the
+initial conditions. I review the existing proposals for extracting
+predictions and give examples of their applications, in particular, to
+the cosmological constant problem.
