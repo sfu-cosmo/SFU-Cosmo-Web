@@ -1,4 +1,18 @@
-1 February 2007, 13:00 in room P8445B
+Feb 23, 2007, 2:30 pm in B9200
+Dr. Ira Wasserman (Cornell)
+"The Neutron Star in 1930 -- and Today"
+
+Department colloquium, co-hosted by the cosmology group
+
+
+Feb 23, 2007, 12:30 in P8445B
+Dr. Ira Wasserman (Cornell)
+"Dynamics of the r mode instability of neutron stars"
+
+TBA
+
+
+1 February 2007, 13:00 in P8445B
 Dr. Adam Moss (UBC)
 Dark Energy and the Rubber Band
 
@@ -12,7 +26,7 @@ of such a model, and also discuss the possibility that the microphyical
 origin is a tangled network of cosmic strings and domain walls.
 
 
-16 January 2007, 14:00 in room SSB7109
+16 January 2007, 14:00 in SSB7109
 Dr. Bojan Losic (University of Alberta)
 Aspects of nonlinear perturbation theory in cosmology
 
@@ -24,7 +38,7 @@ directly implies a disturbing absence of nontrivial dynamics in de
 Sitter spacetime. The scope of the talk will be introductory.
 
 
-11 January 2007, 13:00 in room P8445B
+11 January 2007, 13:00 in P8445B
 Prof. Krzysztof Sliwa (Tufts University)
 Supersymmetry for particle physicists
 
@@ -36,7 +50,7 @@ prospects for possible observation of Supersymmetric particles in
 experiments at Large Hadron Collider at CERN are summarized.
 
 
-5 December 2006, 13:00 in room P8445B
+5 December 2006, 13:00 in P8445B
 Dr. Jasper Wall (UBC)
 Submillimetre galaxies and star-formation in the early Universe
 
@@ -56,7 +70,7 @@ about the cosmic space distribution and evolution of this key population
 of proto-galaxies.
 
 
-30 November 2006, 14:00 in room P8445B
+30 November 2006, 14:00 in P8445B
 Dr. Marco Peloso (University of Minnesota)
 The role of SUSY flat directions in reheating
 
@@ -76,7 +90,7 @@ decay of the flat directions, and, arguably, to a suppression of their
 delaying effect for thermalization.
 
 
-22 November 2006, 12:45 in room P8445B
+22 November 2006, 12:45 in P8445B
 Dr. Ingrid Stairs (UBC)
 Relativistic Binary Pulsars
 
@@ -91,7 +105,7 @@ of geodetic precession and implications for the formation of the two
 systems.
 
 
-4 October 2006, 12:45 in room P8445A
+4 October 2006, 12:45 in P8445A
 Dr. Serge Winitzki (Ludwig Maximilians University, Munich)
 Predictions in Eternally Inflating Universe
 

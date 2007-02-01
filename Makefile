@@ -3,19 +3,21 @@
 # Makefile for SFU Cosmology website
 ################################################################
 
-CHEETAH = cheetah
+FILL = PYTHONPATH=.:$(PYTHONPATH) cheetah fill
+
 
 ################################################################
 # Dependencies
 ################################################################
 
 # Files
-htmls = $(addsuffix .html, index people visitors mug)
+htmls = $(addsuffix .html, index people seminars visitors mug)
 
 
 # Targets
 all: $(htmls)
 
+seminars.html: seminars.txt seminars.py
 
 ################################################################
 # Implicit rules
@@ -23,4 +25,4 @@ all: $(htmls)
 
 # Production rules
 %.html: %.tmpl layout.tmpl
-	$(CHEETAH) fill $<
+	$(FILL) $<

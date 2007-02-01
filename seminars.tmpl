@@ -1,6 +1,7 @@
 #def $Id$
 #def title: Cosmology Seminars
 #def content
+#import seminars
     
     <P ALIGN="center">
     For seminars and other local announcements, please subscribe to
@@ -8,27 +9,53 @@
     </P>
     <HR>
     
-    <H3 ALIGN=center>Next Seminar:</H3>
-    <H3 ALIGN=center>$next.date in room $next.room</H3>
+    #if $seminars.next
+        #set s = seminars.next
+        <H3 ALIGN=center>Next Seminar:</H3>
+    #else
+        #set s = seminars.last
+        <H3 ALIGN=center>Last Seminar:</H3>
+    #end if    
+    <H3 ALIGN=center>$s.date.strftime('%A, %-d %B %Y, %R') in room $s.place</H3>
     <BLOCKQUOTE>
-        <H2>$next.speaker ($next.affiliation)</H2>
-        <H3>$next.title</H3>
+        <H2>$s.speaker ($s.affiliation)</H2>
+        <H3>$s.title</H3>
         
-        $next.abstract
+        $s.abstract
     </BLOCKQUOTE>
     
-    <H3 ALIGN=center>Previous Seminars:</H3>
+    <H3 ALIGN=center>Seminar Schedule:</H3>
+    #if $seminars.future
+    <BLOCKQUOTE>
+    <H2 ALIGN=center>Upcoming Seminars:</H2>
     <TABLE>
-        #for $s in $SEMINARS
+        #for $s in $seminars.future
         <TR>
-            <TD>$s.date</TD>
-            <TD>$s.speaker</TD>
-            <TD>$s.affiliation</TD>
-            <TD>$s.title</TD>
+            <TD>$s.date.strftime('%F %R')</TD>
+            <TD>$s.place</TD>
+            <TD><B>$s.speaker ($s.affiliation):</B> $s.title</TD>
         </TR>
         
         #end for
     </TABLE>
+    </BLOCKQUOTE>
+    #end if
+    
+    #if $seminars.past
+    <BLOCKQUOTE>
+    <H2 ALIGN=center>Past Seminars:</H2>
+    <TABLE>
+        #for $s in $seminars.past
+        <TR>
+            <TD>$s.date.strftime('%F %R')</TD>
+            <TD>$s.place</TD>
+            <TD><B>$s.speaker ($s.affiliation):</B> $s.title</TD>
+        </TR>
+        
+        #end for
+    </TABLE>
+    </BLOCKQUOTE>
+    #end if
     
 #end def
 #include 'layout.tmpl'

@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-import re, operator, datetime; from dateutil import parser as datetime
+import re, operator, datetime
+today = datetime.datetime.today()
 
 class seminar:
     pass
@@ -20,11 +21,13 @@ class src(file):
         return t.strip()
 
 def parse(fp):
+    from dateutil import parser as datetime
+    
     while True:
         try:
             s = seminar()
             
-            s.date, s.place = re.match('(.*)\s+in room\s+(.*)', fp.line()).groups()
+            s.date, s.place = re.match('(.*)\s+in\s+(.*)', fp.line()).groups()
             s.speaker, s.affiliation = re.match('(.*)\s+\((.*)\)', fp.line()).groups()
             s.title = fp.line().strip('"')
             s.abstract = fp.block()
@@ -37,3 +40,16 @@ def parse(fp):
 
 all = list(parse(src('seminars.txt')))
 all.sort(key=operator.attrgetter('date'))
+
+def infuture(s): return s.date >= today
+def inpast(s): return s.date < today
+
+future = filter(infuture, all)
+past = filter(inpast, all)
+past.reverse()
+
+if future: next = future[0]
+else: next = None
+
+if past: last = past[0]
+else: last = None
