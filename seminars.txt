@@ -17,12 +17,12 @@ Dr. Adam Moss (UBC)
 Dark Energy and the Rubber Band
 
 There is now strong evidence for an unknown form of dark energy
-pervading the universe. However, the microphyical explanation of this
+pervading the universe. However, the microphysical explanation of this
 dark energy remains a mystery. The dark energy cannot be a normal fluid,
 as this leads to instabilities on the smallest scales. In this talk I
-discuss the possibilty that the dark energy takes the form of an elastic
+discuss the possibility that the dark energy takes the form of an elastic
 medium. I explain the theoretical framework and cosmological signatures
-of such a model, and also discuss the possibility that the microphyical
+of such a model, and also discuss the possibility that the microphysical
 origin is a tangled network of cosmic strings and domain walls.
 
 
@@ -39,7 +39,7 @@ Sitter spacetime. The scope of the talk will be introductory.
 
 
 11 January 2007, 13:00 in P8445B
-Prof. Krzysztof Sliwa (Tufts University)
+Dr. Krzysztof Sliwa (Tufts University)
 Supersymmetry for particle physicists
 
 The idea of Supersymmetry, together with the theoretical motivations for
