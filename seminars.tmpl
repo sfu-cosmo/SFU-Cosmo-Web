@@ -11,12 +11,12 @@
     
     #if $seminars.next
         #set s = seminars.next
-        <H3 ALIGN=center>Next Seminar:</H3>
+        <H3 ALIGN="center">Next Seminar:</H3>
     #else
         #set s = seminars.last
-        <H3 ALIGN=center>Last Seminar:</H3>
+        <H3 ALIGN="center">Last Seminar:</H3>
     #end if    
-    <H3 ALIGN=center>$s.date.strftime('%A, %-d %B %Y, %R') in room $s.place</H3>
+    <H3 ALIGN="center">$s.date.strftime('%A, %-d %B %Y, %R') in room $s.place</H3>
     <BLOCKQUOTE>
         <H2>$s.speaker ($s.affiliation)</H2>
         <H3>$s.title</H3>
@@ -24,10 +24,10 @@
         $s.abstract
     </BLOCKQUOTE>
     
-    <H3 ALIGN=center>Seminar Schedule:</H3>
+    <H3 ALIGN="center">Seminar Schedule:</H3>
     #if $seminars.future
     <BLOCKQUOTE>
-    <H2 ALIGN=center>Upcoming Seminars:</H2>
+    <H2 ALIGN="center">Upcoming Seminars:</H2>
     <TABLE>
         #for $s in $seminars.future
         <TR>
@@ -43,7 +43,7 @@
     
     #if $seminars.past
     <BLOCKQUOTE>
-    <H2 ALIGN=center>Past Seminars:</H2>
+    <H2 ALIGN="center">Past Seminars:</H2>
     <TABLE>
         #for $s in $seminars.past
         <TR>
