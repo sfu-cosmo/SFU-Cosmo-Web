@@ -11,7 +11,7 @@ FILL = PYTHONPATH=.:$(PYTHONPATH) cheetah fill
 ################################################################
 
 # Files
-htmls = $(addsuffix .html, index people seminars visitors jobs mug)
+htmls = $(addsuffix .html, index people seminars visitors jobs contact links mug)
 
 
 # Targets
