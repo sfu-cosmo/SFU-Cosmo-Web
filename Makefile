@@ -17,6 +17,9 @@ htmls = $(addsuffix .html, index people seminars visitors jobs mug)
 # Targets
 all: $(htmls)
 
+clean:
+	rm -f *~ *.bak *.pyc
+
 seminars.html: seminars.txt seminars.py
 
 ################################################################
