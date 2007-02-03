@@ -1,12 +1,12 @@
-Feb 23, 2007, 2:30 pm in B9200
-Dr. Ira Wasserman (Cornell)
-"The Neutron Star in 1930 -- and Today"
+Feb 23, 2007, 2:30 pm in AQ3182
+Prof. Ira Wasserman (Cornell)
+"The Neutron Star in 1930 -- and Today (colloquium)"
 
 Department colloquium, co-hosted by the cosmology group
 
 
 Feb 23, 2007, 12:30 in P8445B
-Dr. Ira Wasserman (Cornell)
+Prof. Ira Wasserman (Cornell)
 "Dynamics of the r mode instability of neutron stars"
 
 TBA
@@ -39,7 +39,7 @@ Sitter spacetime. The scope of the talk will be introductory.
 
 
 11 January 2007, 13:00 in P8445B
-Dr. Krzysztof Sliwa (Tufts University)
+Prof. Krzysztof Sliwa (Tufts University)
 Supersymmetry for particle physicists
 
 The idea of Supersymmetry, together with the theoretical motivations for
@@ -51,7 +51,7 @@ experiments at Large Hadron Collider at CERN are summarized.
 
 
 5 December 2006, 13:00 in P8445B
-Dr. Jasper Wall (UBC)
+Prof. Jasper Wall (UBC)
 Submillimetre galaxies and star-formation in the early Universe
 
 Submm galaxies recently have been discovered in significant numbers
@@ -71,7 +71,7 @@ of proto-galaxies.
 
 
 30 November 2006, 14:00 in P8445B
-Dr. Marco Peloso (University of Minnesota)
+Prof. Marco Peloso (University of Minnesota)
 The role of SUSY flat directions in reheating
 
 Reheating after inflation describes all the particle physics processes
@@ -91,7 +91,7 @@ delaying effect for thermalization.
 
 
 22 November 2006, 12:45 in P8445B
-Dr. Ingrid Stairs (UBC)
+Prof. Ingrid Stairs (UBC)
 Relativistic Binary Pulsars
 
 Radio pulsars in double-neutron-star systems provide the best tests of

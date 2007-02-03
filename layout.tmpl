@@ -3,34 +3,35 @@
 
 #import datetime
 #set $today = datetime.datetime.today()
+#set $root = $getVar('root', '')
 
 <HTML>
 <HEAD>
   <meta name="generator" content="Bluefish 1.0.7">
   
   <TITLE>SFU Cosmology Group</TITLE>
-  <LINK rel="stylesheet" title="Hubble Theme" href="hubble.css" type="text/css" media="screen">
+  <LINK rel="stylesheet" title="Hubble Theme" href="${root}hubble.css" type="text/css" media="screen">
 </HEAD>
 
 <BODY>
   <DIV id="links">
-    <A href=".">Home</A>
-    <A href="people.html">People</A>
-    <A href="research.html">Research</A>
-    <A href="seminars.html">Seminars</A>
-    <A href="visitors.html">Visitor Info</A>
-    <A href="jobs.html">Available Jobs</A>
-    <A href="contact.html">Contact Us</A>
-    <A href="links.html">Resources</A>
+    <A href="${root}.">Home</A>
+    <A href="${root}people.html">People</A>
+    <A href="${root}research.html">Research</A>
+    <A href="${root}seminars/">Seminars</A>
+    <A href="${root}visitors.html">Visitor Info</A>
+    <A href="${root}jobs.html">Available Jobs</A>
+    <A href="${root}contact.html">Contact Us</A>
+    <A href="${root}links.html">Resources</A>
   </DIV>
   
   <DIV id="content">
     <H1>
         <TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0">
             <TR>
-                <TD><IMG SRC="images/crest.png" WIDTH="47" HEIGHT="64" BORDER="0" HSPACE="16" VSPACE="2" ALT=""></TD>
+                <TD><IMG SRC="${root}images/crest.png" WIDTH="47" HEIGHT="64" BORDER="0" HSPACE="16" VSPACE="2" ALT=""></TD>
                 <TD WIDTH="100%" ALIGN="center">$title</TD>
-                <TD><IMG SRC="images/logo.png" WIDTH="82" HEIGHT="64" BORDER="0" HSPACE="16" VSPACE="0" ALT=""></TD>
+                <TD><IMG SRC="${root}images/logo.png" WIDTH="82" HEIGHT="64" BORDER="0" HSPACE="16" VSPACE="0" ALT=""></TD>
             </TR>
         </TABLE>
     </H1>

@@ -28,7 +28,7 @@ def parse(fp):
             s = seminar()
             
             s.date, s.place = re.match('(.*)\s+in\s+(.*)', fp.line()).groups()
-            s.speaker, s.affiliation = re.match('(.*)\s+\((.*)\)', fp.line()).groups()
+            s.prefix, s.speaker, s.affiliation = re.match('(Mr\.\s+|Dr\.\s+|Prof\.\s+|)(.*)\s+\((.*)\)', fp.line()).groups()
             s.title = fp.line().strip('"')
             s.abstract = fp.block()
             
@@ -37,19 +37,14 @@ def parse(fp):
             yield s
         except: break
 
-
 all = list(parse(src('seminars.txt')))
 all.sort(key=operator.attrgetter('date'))
 
-def infuture(s): return s.date >= today
-def inpast(s): return s.date < today
-
-future = filter(infuture, all)
-past = filter(inpast, all)
+future = filter(lambda s: s.date >= today, all)
+past = filter(lambda s: s.date < today, all)
 past.reverse()
 
-if future: next = future[0]
-else: next = None
+next = future[0:1]
+last = past[0:1]
 
-if past: last = past[0]
-else: last = None
+def on(date): return filter(lambda s: s.date.strftime('%F') == date, all)

@@ -1,7 +1,8 @@
 #def $Id$
-#def title: <IMG SRC="images/title/seminars.png" WIDTH="536" HEIGHT="37" BORDER="0" VSPACE="13" ALT="Cosmology Seminars">
+#attr $root = '../'
+#def title: <IMG SRC="${root}images/title/seminars.png" WIDTH="536" HEIGHT="37" BORDER="0" VSPACE="13" ALT="Cosmology Seminars">
 #def content
-#import seminars
+#import seminars, os
     
     <P ALIGN="center">
     For seminars and other local announcements, please subscribe to
@@ -9,20 +10,30 @@
     </P>
     <HR>
     
-    #if $seminars.next
-        #set s = seminars.next
-        <H3 ALIGN="center">Next Seminar:</H3>
+    #set date = os.environ.get('SEMINAR')
+    #if $date == 'index'
+        #if $seminars.next
+            #set idx = seminars.next
+            #set label = 'Next Seminar:'
+        #else
+            #set idx = seminars.last
+            #set label = 'Last Seminar:'
+        #end if
     #else
-        #set s = seminars.last
-        <H3 ALIGN="center">Last Seminar:</H3>
-    #end if    
+        #set idx = seminars.on(date)
+        #set label = ''
+    #end if
+    <H3 ALIGN="center">$label</H3>
+    #for $s in $idx    
     <H3 ALIGN="center">$s.date.strftime('%A, %-d %B %Y, %R') in room $s.place</H3>
     <BLOCKQUOTE>
-        <H2>$s.speaker ($s.affiliation)</H2>
+        <H2>$s.prefix$s.speaker ($s.affiliation)</H2>
         <H3>$s.title</H3>
         
         $s.abstract
     </BLOCKQUOTE>
+    
+    #end for
     
     <H3 ALIGN="center">Seminar Schedule:</H3>
     #if $seminars.future
@@ -31,9 +42,8 @@
     <TABLE>
         #for $s in $seminars.future
         <TR>
-            <TD>$s.date.strftime('%F %R')</TD>
-            <TD>$s.place</TD>
-            <TD><B>$s.speaker ($s.affiliation):</B> $s.title</TD>
+            <TD>$s.date.strftime('%F %R') in&nbsp;$s.place</TD>
+            <TD>- <A HREF="${s.date.strftime('%F')}.html"><B>$s.speaker ($s.affiliation):</B> $s.title</A></TD>
         </TR>
         
         #end for
@@ -47,9 +57,8 @@
     <TABLE>
         #for $s in $seminars.past
         <TR>
-            <TD>$s.date.strftime('%F %R')</TD>
-            <TD>$s.place</TD>
-            <TD><B>$s.speaker ($s.affiliation):</B> $s.title</TD>
+            <TD>$s.date.strftime('%F %R') in&nbsp;$s.place</TD>
+            <TD>- <A HREF="${s.date.strftime('%F')}.html"><B>$s.speaker ($s.affiliation):</B> $s.title</A></TD>
         </TR>
         
         #end for

@@ -21,16 +21,10 @@
     #if $seminars.future
     <BLOCKQUOTE>
     <H2 ALIGN="center">Next Seminar:</H2>
-    <TABLE>
-        #for $s in $seminars.future[0:1]
-        <TR>
-            <TD>$s.date.strftime('%F %R')</TD>
-            <TD>$s.place</TD>
-            <TD><A HREF="seminars.html"><B>$s.speaker ($s.affiliation):</B> $s.title</A></TD>
-        </TR>
-        
-        #end for
-    </TABLE>
+    #for $s in $seminars.next
+        $s.date.strftime('%F %R') in&nbsp;$s.place -
+        <A HREF="seminars/"><B>$s.speaker ($s.affiliation):</B> $s.title</A>
+    #end for
     </BLOCKQUOTE>
     #end if
     

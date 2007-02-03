@@ -30,6 +30,7 @@ div#content a:link:hover {color: #FF0;}
 div#content a:visited:hover {color: #CC0;}
 div#content h2 a {text-decoration: none;}
 div#content h3 a {text-decoration: none;}
+div#content blockquote a {text-decoration: none;}
 div#content h2 a:link {color: #EED;}
 div#content h2 a:visited {color: #EED;}
 

@@ -11,21 +11,22 @@ FILL = PYTHONPATH=.:$(PYTHONPATH) cheetah fill
 ################################################################
 
 # Files
-htmls = $(addsuffix .html, index people seminars visitors jobs contact links mug)
+htmls = $(shell spyder.py)
 
 
 # Targets
-all: $(htmls)
+all: index.html $(htmls)
 
 clean:
 	rm -f *~ *.bak *.pyc
 
-seminars.html: seminars.txt seminars.py
 
 ################################################################
 # Implicit rules
 ################################################################
 
-# Production rules
+seminars/%.html: seminars.tmpl layout.tmpl seminars.txt seminars.py
+	SEMINAR=$(basename $(@F)) $(FILL) -p $< > $@
+
 %.html: %.tmpl layout.tmpl
 	$(FILL) $<
