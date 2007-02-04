@@ -39,7 +39,7 @@
     #if $seminars.future
     <BLOCKQUOTE>
     <H2 ALIGN="center">Upcoming Seminars:</H2>
-    <TABLE>
+    <TABLE CLASS="index">
         #for $s in $seminars.future
         <TR>
             <TD>$s.date.strftime('%F %R') in&nbsp;$s.place</TD>
@@ -54,7 +54,7 @@
     #if $seminars.past
     <BLOCKQUOTE>
     <H2 ALIGN="center">Past Seminars:</H2>
-    <TABLE>
+    <TABLE CLASS="index">
         #for $s in $seminars.past
         <TR>
             <TD>$s.date.strftime('%F %R') in&nbsp;$s.place</TD>

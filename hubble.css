@@ -21,6 +21,7 @@ dt {font-weight: bold;}
 dd {margin-bottom: 0.66em;}
 code, pre {color: #EDC; font: 110% monospace;}
 blockquote {font: 90% sans-serif; font-style: italic; padding: 9px 9px 1em; border: 1px solid #234;}
+table.index {font: 90% sans-serif;}
 address {font: 80% sans-serif;}
 
 div#content p {margin: 0 1em 1em;}
