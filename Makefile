@@ -20,6 +20,8 @@ all: index.html $(htmls)
 clean:
 	rm -f *~ *.bak *.pyc
 
+preprints.html: preprints.txt preprints.py
+
 
 ################################################################
 # Implicit rules

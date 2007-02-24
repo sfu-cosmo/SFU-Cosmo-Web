@@ -1,0 +1,19 @@
+#def $Id$
+#def title: <IMG SRC="images/title/preprints.png" WIDTH="237" HEIGHT="35" BORDER="0" VSPACE="14" ALT="Preprints">
+#def content
+#import preprints
+    
+    <DL>
+    #set y = None
+    #for $p in $preprints.all
+    #if $y != $p.year
+        #set y = p.year
+        <BR><H2 ALIGN="center">$p.year</H2>
+    #end if
+        <DT>$p.id</DT>
+        <DD>$p.authors: <A HREF="http://www.arxiv.org/abs/$p.arxiv"><I>$p.title</I></A>.</DD>
+    #end for
+    </DL>
+    
+#end def
+#include 'layout.tmpl'
