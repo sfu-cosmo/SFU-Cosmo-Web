@@ -18,8 +18,28 @@ TBA
 
 March 8, 2007, 13:00 in P8445B
 Dr. Catherine Heymans (UBC)
-TBA
-TBA
+Probing Dark Matter and Dark Energy with weak gravitational lensing
+
+Cosmology is the scientific study of the Universe, striving to answer the most
+fundamental questions about its origin, history and future.  Already we know
+that only a small fraction of our Universe is made up of the material that we
+are familiar with on Earth.  The rest is made up of an unknown Dark Matter
+component that surrounds all galaxies, and an unknown Dark Energy component that
+is responsible for the accelerating expansion of the Universe.  Measuring the
+exact quantities of each of our Universe's components is the great achievement
+of modern day Cosmology, revealing a rather sad fate for the Universe; it will
+simply expand forever becoming colder and emptier.  That we have no grasp of the
+nature and origin of dark matter or dark energy however remains rather
+unsatisfactory!
+
+<BR><BR>
+In this talk I will describe a new technique, called `weak gravitational
+lensing', that can not only detect dark matter but also has the great promise of
+being able to measure the properties of dark energy.  I will discuss the physics
+that underpins this method and present maps of the distribution of dark matter
+across an area of sky the size of the full moon. I will also describe an
+exciting future NASA mission that will utilize this lensing technique to uncover
+the origin of the mysterious dark energy.
 
 
 Nov 23, 2006, 14:00 in P8445B
