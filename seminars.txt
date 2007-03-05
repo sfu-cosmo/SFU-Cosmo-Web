@@ -12,8 +12,36 @@ TBA
 
 Apr 12, 2007, 13:00 in P8445B
 Dr. David Rapetti (KIPAC/Stanford)
-TBA
-TBA
+X-ray galaxy clusters as cosmological probes
+
+Late-time cosmic acceleration is currently one of the most
+intriguing questions in cosmology. The standard
+cosmological model now consists of a present-day Universe filled with
+approximately 4 per cent of normal baryonic matter, 23 per cent of
+cold dark matter (CDM) and 73 per cent of quantum vacuum energy (the
+cosmological constant, &Lambda;) that provides the late-time cosmic
+acceleration. However, any departure from this standard &Lambda;CDM
+model would suggest either a new energy component of the
+Universe, so-called dark energy, or a modified gravity theory,
+so-called dark gravity. Using X-ray galaxy clusters we have
+developed two independent and complementary experiments to constrain
+cosmic acceleration. Our first experiment measures distances to the
+largest and most relaxed X-ray galaxy clusters using their gas mass
+fraction f<SUB>gas</SUB>. This allows us to reconstruct cosmic expansion
+up to z ~ 1. This experiment also provides one of the most
+precise measurements of the mean matter density of the Universe.
+Combining this experiment with supernovae type Ia and cosmic
+microwave background data we obtain tight constraints on departures
+around the concordance &Lambda;CDM paradigm. Furthermore we use two
+different and complementary theoretical frameworks to explore
+departures from &Lambda;CDM. We find that &Lambda;CDM is still a
+robust description of current data at about the 1&sigma; level. Our
+second experiment measures the growth of structure which is a strong
+function of cosmological parameters. We count X-ray galaxy clusters
+above both a flux and a luminosity threshold at different redshifts
+(z &lt; 0.7) and compare this with precise theoretical predictions of the
+mass function. We obtain the tightest constraints to date for a single
+experiment on the equation of state of dark energy.
 
 
 Apr 3, 2007, 14:00 in SSB7109
