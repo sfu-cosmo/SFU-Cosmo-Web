@@ -82,9 +82,9 @@ Veselin Filev (University of Southern California)
 Guest string theory seminar hosted by the cosmology group
 
 
-Feb 23, 2007, 2:30 pm in AQ3182
+Mar 23, 2007, 12:30 pm in P8445B
 Prof. Ira Wasserman (Cornell)
-"The Neutron Star in 1930 -- and Today (colloquium) - <FONT COLOR="red">CANCELLED</FONT>"
+"The Neutron Star in 1930 -- and Today (colloquium) - <FONT COLOR="red">RESCHEDULED</FONT>"
 
 The neutron had not yet been discovered in 1930, but it might have been.
 To understand neutron stars simply it is fun to ask how much could have
@@ -94,14 +94,10 @@ today, where some of the issues remain the same as we could have deduced
 in 1930, but others are more subtle -- and potentially revealing about
 high density nuclear physics.
 
-(Department colloquium, co-hosted by the cosmology group)
 
-<BR><BR><FONT COLOR="red">POSTPONED: Speaker's flight cancelled due to bad weather.</FONT>
-
-
-Feb 23, 2007, 12:30 in P8445B
+Mar 22, 2007, 13:00 in P8445B
 Prof. Ira Wasserman (Cornell)
-"Dynamics of the r mode instability of neutron stars - <FONT COLOR="red">CANCELLED</FONT>"
+"Dynamics of the r mode instability of neutron stars - <FONT COLOR="red">RESCHEDULED</FONT>"
 
 One of the most important questions in high energy astrophysics is what
 sets the fastest possible rotational frequencies of neutron stars.
@@ -116,8 +112,6 @@ radiation is detectable from neutron stars suffering from this
 instability. Moreover, the question of whether the instability is ``too
 strong'' will also be discussed -- and what that might mean for neutron
 star physics.
-
-<BR><BR><FONT COLOR="red">POSTPONED: Speaker's flight cancelled due to bad weather.</FONT>
 
 
 1 February 2007, 13:00 in P8445B
