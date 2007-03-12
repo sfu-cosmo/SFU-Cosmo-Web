@@ -1,7 +1,15 @@
 Mar 27, 2007, 14:00 in SSB7109
 Prof. Shinji Mukohyama (University of Tokyo)
-TBA
-TBA
+Cosmology with warped flux compactification
+
+Inflation in the early universe and the accelerated expansion of the
+late-time universe are two major quasi de Sitter phases in the history
+of our universe. Thus, any candidates for the unified theory of nature
+must allow 4-dimensional de Sitter or/and quasi de Sitter solutions.
+It is only recent that a consistent 4-dimensional de Sitter solution
+was found in string theory by using warped flux compactification and
+branes. In this talk I would like to discuss cosmological applications
+of models of warped flux compactification.
 
 
 Apr 19, 2007, 13:00 in P8445B
