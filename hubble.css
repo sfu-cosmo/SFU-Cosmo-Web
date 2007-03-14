@@ -20,7 +20,7 @@ h3 {margin: -9px -9px 0.5em; padding: 5px 9px 5px;}
 dt {font-weight: bold;}
 dd {margin-bottom: 0.66em;}
 code, pre {color: #EDC; font: 110% monospace;}
-blockquote {font: 90% sans-serif; font-style: italic; padding: 9px 9px 1em; border: 1px solid #234;}
+blockquote {font: 90% sans-serif; padding: 9px 9px 1em; border: 1px solid #234;}
 table.index {font: 90% sans-serif;}
 address {font: 80% sans-serif;}
 
