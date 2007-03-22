@@ -60,8 +60,15 @@ experiment on the equation of state of dark energy.
 
 Apr 3, 2007, 14:00 in SSB7109
 Prof. Christian Armendariz-Picon (Syracuse)
-TBA
-TBA
+Do quantum excitations of the inflaton decay?
+
+The properties of the primordial perturbations seeded during a stage of
+inflation are determined by the quantum state of the inflaton.  This state is
+usually assumed to be the "vacuum", since one expects excited states to decay
+into the state of lowest energy. In the talk I discuss whether this assumption
+holds in the presence of a short-distance cut-off. I describe the calculation of
+transition probabilities between excited states and the vacuum, and discuss the
+implications of the results that I obtain.
 
 
 March 8, 2007, 13:00 in P8445B
