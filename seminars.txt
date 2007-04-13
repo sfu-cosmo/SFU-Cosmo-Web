@@ -26,8 +26,22 @@ of models of warped flux compactification.
 
 Apr 19, 2007, 13:00 in P8445B
 Dr. Eric Peng (HIA/DAO, Victoria)
-TBA
-TBA
+Globular Cluster Systems and the Early Evolution of Galaxies
+
+Globular clusters are among the oldest stellar populations in the
+local Universe, thus providing a unique window onto the earliest
+epochs of galaxy formation. As markers of the most intense periods of
+star formation, these old, massive star clusters are intricately
+entwined with the formation of the galaxies that host them. Some of
+their properties, but not all, mirror those of their host galaxies,
+and it is from both the similarities and differences that we can gain
+insight on galaxy evolution. I will present a view of globular
+cluster systems in 100 early-type galaxies from the ACS Virgo Cluster
+Survey, the most comprehensive and homogeneous data set of its type
+to date. I will describe some of the main results of the survey,
+including the metallicities and specific frequencies of our surveyed
+globular cluster systems, and discuss their implications for early
+galaxy formation.
 
 
 Apr 12, 2007, 13:00 in P8445B
