@@ -6,8 +6,20 @@ TBA
 
 Apr 24, 2007, 14:00 in SSB7109
 Dr. Evgeny Sorkin (UBC)
-TBA
-TBA
+The pinching black strings
+
+I discuss the black holes with various horizon topologies, that exist
+in the spacetimes with extra compactified dimensions, and the phase
+transitions between them. In this talk I particularize to the
+spacetime with a single compact dimension. The relevant black objects
+are the black string, whose horizon wraps the extra-dimensions, and
+the localized black hole. The uniform string becomes  unstable if 'too
+thin', and decays into a nonuniform state which apparently evolves
+until it pinches off and a localized black hole is formed. Currently,
+the dynamical evolution remains elusive, thus we are set to construct
+the phase diagram of the static solutions. In particular, the
+extremely non-uniform black strings are numerically constructed, and
+the local geometry near the pinch off is explored.
 
 
 Mar 27, 2007, 14:00 in SSB7109
