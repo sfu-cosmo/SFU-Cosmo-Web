@@ -16,8 +16,8 @@
             #set idx = seminars.next
             #set label = 'Next Seminar:'
         #else
-            #set idx = seminars.last
-            #set label = 'Last Seminar:'
+            #set idx = ()
+            #set label = '<BR>No Seminar Is Currently Scheduled<BR>'
         #end if
     #else
         #set idx = seminars.on(date)
@@ -35,7 +35,10 @@
     
     #end for
     
+    <BR>
+    #if $idx
     <H3 ALIGN="center">Seminar Schedule:</H3>
+    #end if
     #if $seminars.future
     <BLOCKQUOTE>
     <H2 ALIGN="center">Upcoming Seminars:</H2>
