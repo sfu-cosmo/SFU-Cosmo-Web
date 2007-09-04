@@ -1,7 +1,11 @@
 SCG-2006-01 [astro-ph/0611321]
 R.~Bean, D.~Bernat, L.~Pogosian, A.~Silvestri and M.~Trodden
-Dynamics of Linear Perturbations in f(R) Gravity
+Dynamics of linear perturbations in f(R) gravity
 
 SCG-2006-02 [astro-ph/0611573]
 L.~Pogosian and A.~Vilenkin
 Anthropic predictions for vacuum energy and neutrino masses in the light of WMAP-3
+
+SCG-2007-01 [0709.0296]
+L.~Pogosian and A.~Silvestri
+The pattern of growth in viable f(R) cosmologies
