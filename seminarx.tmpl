@@ -1,0 +1,26 @@
+#def $Id$
+#attr $root = '../'
+#def title: <IMG SRC="${root}images/title/seminars.png" WIDTH="536" HEIGHT="37" BORDER="0" VSPACE="13" ALT="Cosmology Seminars">
+#def content
+#import seminars
+    
+    <P ALIGN="center">[ <A HREF="index.html">Return to current seminar schedule</A> ]</P>
+    <HR>
+    
+    #for $y in reversed($seminars.years)
+    <BLOCKQUOTE>
+    <H2 ALIGN="center">$y</H2>
+    <TABLE CLASS="index">
+        #for $s in reversed($seminars.year($y))
+        <TR>
+            <TD>$s.date.strftime('%F %R') in&nbsp;$s.place</TD>
+            <TD>- <A HREF="${s.date.strftime('%F')}.html"><B>$s.speaker ($s.affiliation):</B> $s.title</A></TD>
+        </TR>
+        
+        #end for
+    </TABLE>
+    </BLOCKQUOTE>
+    #end for
+    
+#end def
+#include 'layout.tmpl'

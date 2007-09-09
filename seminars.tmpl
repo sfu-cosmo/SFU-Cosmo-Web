@@ -2,7 +2,7 @@
 #attr $root = '../'
 #def title: <IMG SRC="${root}images/title/seminars.png" WIDTH="536" HEIGHT="37" BORDER="0" VSPACE="13" ALT="Cosmology Seminars">
 #def content
-#import seminars, os
+#import seminars, os, dateutil.parser
     
     <P ALIGN="center">
     For seminars and other local announcements, please subscribe to
@@ -12,17 +12,13 @@
     
     #set date = os.environ.get('SEMINAR')
     #if $date == 'index'
-        #if $seminars.next
-            #set idx = seminars.next
-            #set label = 'Next Seminar:'
-        #else
-            #set idx = ()
-            #set label = '<BR>Regular Seminars Will Resume in the Fall<BR>'
-        #end if
+        #set l = [('Next Seminar:' if seminars.next else '<BR><P>Regular Seminars Will Resume in the Fall</P>', seminars.next)]
+        #set date = seminars.today
     #else
-        #set idx = seminars.on(date)
-        #set label = ''
+        #set l = [('', seminars.on(date))]
+        #set date = dateutil.parser.parse(date)
     #end if
+    #for $label,$idx in $l
     <H3 ALIGN="center">$label</H3>
     #for $s in $idx    
     <H3 ALIGN="center">$s.date.strftime('%A, %-d %B %Y, %R') in room $s.place</H3>
@@ -34,16 +30,21 @@
     </BLOCKQUOTE>
     
     #end for
+    #end for
     
-    <BR>
+    <HR>
+    #set year = seminars.ayear(date)
+    #if $year == seminars.ayear(seminars.today)
+        #set l = [('Upcoming Seminars:', seminars.future), ('Past Seminars:', seminars.past)]
+    #else
+        #set l = [('Seminars in '+str(year)+':', seminars.year(year))]
+    #end if
+    #for $label,$idx in $l
     #if $idx
-    <H3 ALIGN="center">Seminar Schedule:</H3>
-    #end if
-    #if $seminars.future
     <BLOCKQUOTE>
-    <H2 ALIGN="center">Upcoming Seminars:</H2>
+    <H2 ALIGN="center">$label</H2>
     <TABLE CLASS="index">
-        #for $s in $seminars.future
+        #for $s in $idx
         <TR>
             <TD>$s.date.strftime('%F %R') in&nbsp;$s.place</TD>
             <TD>- <A HREF="${s.date.strftime('%F')}.html"><B>$s.speaker ($s.affiliation):</B> $s.title</A></TD>
@@ -53,21 +54,9 @@
     </TABLE>
     </BLOCKQUOTE>
     #end if
+    #end for
     
-    #if $seminars.past
-    <BLOCKQUOTE>
-    <H2 ALIGN="center">Past Seminars:</H2>
-    <TABLE CLASS="index">
-        #for $s in $seminars.past
-        <TR>
-            <TD>$s.date.strftime('%F %R') in&nbsp;$s.place</TD>
-            <TD>- <A HREF="${s.date.strftime('%F')}.html"><B>$s.speaker ($s.affiliation):</B> $s.title</A></TD>
-        </TR>
-        
-        #end for
-    </TABLE>
-    </BLOCKQUOTE>
-    #end if
+    <P ALIGN="center">[ <A HREF="arxives.html">See complete seminar archives</A> ]</P>
     
 #end def
 #include 'layout.tmpl'

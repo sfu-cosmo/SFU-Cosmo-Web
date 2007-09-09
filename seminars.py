@@ -40,11 +40,16 @@ def parse(fp):
 all = list(parse(src('seminars.txt')))
 all.sort(key=operator.attrgetter('date'))
 
-future = filter(lambda s: s.date >= today, all)
-past = filter(lambda s: s.date < today, all)
+def ayear(d): return d.year-1 if d.month < 9 else d.year
+def year(year): return filter(lambda s: ayear(s.date) == year, all)
+def on(date): return filter(lambda s: s.date.strftime('%F') == date, all)
+
+years = sorted(set(map(lambda s: ayear(s.date), all)))
+
+current = filter(lambda s: ayear(s.date) == ayear(today), all)
+future = filter(lambda s: s.date >= today, current)
+past = filter(lambda s: s.date < today, current)
 past.reverse()
 
 next = future[0:1]
 last = past[0:1]
-
-def on(date): return filter(lambda s: s.date.strftime('%F') == date, all)
