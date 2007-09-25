@@ -11,7 +11,7 @@ FILL = PYTHONPATH=.:$(PYTHONPATH) cheetah fill
 ################################################################
 
 # Files
-htmls = $(shell spyder.py)
+htmls = $(shell spyder.py|grep \.html)
 
 
 # Targets
