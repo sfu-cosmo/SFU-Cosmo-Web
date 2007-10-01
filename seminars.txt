@@ -14,9 +14,19 @@ TBA
 
 October 23, 2007, 14:00 in P8445B
 Dr. Wan-Il Park (KAIST)
-TBA
+A scenario of baryogenesis compatible with thermal inflation, and preheating
 
-TBA
+Most of models of baryogenesis are incompatible with thermal inflation
+which is the most compelling solution of cosmological moduli problem. We
+propose a simple model in which the MSSM plus neutrino mass term (LHu)^2
+is supplemented by a minimal flaton sector to drive the thermal
+inflation. Under two very plausible assumptions, this model leads to
+thermal inflation followed by Affleck-Dine type leptogenesis along the
+LHu flat direction. The conservation of generated asymmetry in this
+model is non-trivial since Hubble parameter is negligible at the time of
+our Affleck-Dine leptogenesis. We demonstrate numerically that
+preheating does efficiently damp the amplitude of the Affleck-Dine field
+and that the lepton number is conserved as the result. 
 
 
 May 3, 2007, 13:00 in P8445B
