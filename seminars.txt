@@ -1,3 +1,24 @@
+October 5, 2007, 14:30 in K9500
+Prof. Douglas Scott (UBC)
+The Standard Cosmological Model (physics colloquium)
+
+All empirical evidence relating to our Universe is currently well
+explained through a fairly simple model, composed of only a few key
+ingredients. The background is described by homogeneous and isotropic
+solutions within General Relativity, in which there is domination by
+vacuum energy and cold dark matter in a flat expanding geometry. On top
+of this background are fluctuations in density which were laid down at
+early times and are nearly scale-invariant, adiabatic and Gaussian.
+From these low amplitude seeds all of today's structure grew through
+gravitational instability. Within this "Standard Model" the Universe in
+which we live is described by fewer than 10 numbers, most of which are
+now known to at least the first digit. So what is left to do? How well
+should we determine the cosmological parameters? Where did these values
+come from? Are there more numbers that we haven't thought of yet? Is
+this Cosmological Standard Model anything like the Standard Model of
+Particle Physics?
+
+
 March 18, 2008, 14:00 in P8445B
 Prof. John Beacom (Ohio State University)
 TBA
