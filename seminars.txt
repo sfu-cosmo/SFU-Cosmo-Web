@@ -1,8 +1,17 @@
-October 30, 2007, 14:00 in P8445B
+October 30, 2007, 14:30 in SSB7172
 Alessandra Silvestri (Syracuse University)
-TBA
+Scale-dependent growth of structure in viable f(R) theories
 
-TBA
+f(R) theories are an alternative approach at the phenomenon of cosmic
+acceleration, in which the Einstein-Hilbert action for gravity is modified
+by adding a function of the Ricci scalar, f(R). While at the background
+level viable f(R) models must closely mimic LCDM, the difference in their
+prediction for the growth of large scale structures can be sufficiently
+large to leave detectable signatures in future surveys. In this talk,
+after reviewing the conditions for the background viability of f(R)
+theories, I will focus on scalar perturbations. I will present in some
+details the dynamics of linear perturbations, showing what are the
+characteristic imprints of f(R) models in the large scale structure.
 
 
 October 5, 2007, 14:30 in K9500
@@ -26,7 +35,7 @@ this Cosmological Standard Model anything like the Standard Model of
 Particle Physics?
 
 
-March 18, 2008, 14:00 in P8445B
+March 18, 2008, 14:30 in SSB7172
 Prof. John Beacom (Ohio State University)
 TBA
 
@@ -40,7 +49,7 @@ TBA
 TBA
 
 
-October 23, 2007, 14:00 in P8445B
+October 23, 2007, 14:30 in SSB7172
 Dr. Wan-Il Park (KAIST)
 A scenario of baryogenesis compatible with thermal inflation, and preheating
 
