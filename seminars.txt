@@ -1,8 +1,30 @@
 November 13, 2007, 14:30 in SSB7172
 Dr. Gong-Bo Zhao (SFU)
-TBA
+Dark Energy perturbation and its application on cosmology
 
-TBA
+Dark Energy (DE) is amongst the biggest enigma in modern cosmology. The
+nature of dark energy dominates the fate of our universe and the
+perturbation of DE plays a crucial role in theoretical study as well as in
+the determination of cosmological parameters. 
+The latest astronomical observations, including supernova type Ia (SN Ia),
+cosmic microwave background (CMB) and large scale structure (LSS), mildly
+favor the equation of state w of DE crossing over the cosmological boundary
+during evolution. However, there exists divergence in perturbation equation
+when w crosses over -1, which gives rise to the classical difficulty in
+global fit of cosmological parameters. In this talk, I will firstly study
+the dark energy perturbation in theory and propose a strategy to handle the
+perturbation in parameter fitting based on Quintom model. Then I will
+investigate the correlations of dynamical dark energy with inflation
+parameters, neutrino mass and curvature of space-time. 
+The nature of neutrino is another challenge to modern physics. The mass of
+neutrino, which is beyond the standard model of particle physics, is of
+great significance theoretically. With the latest astronomical data, I will
+study the correlation between neutrino mass and inflationary parameters and
+the cosmological constraints of mass varying neutrinos. I will show that the
+neutrino mass limit can be relaxed dramatically if neutrino mass varies and
+mass varying neutrinos are favored at about 3 sigma for some data
+combination. This discovery challenges the fundamental particle physics and
+cosmology to a great extent.
 
 
 November 26, 2007, 15:00 in ASB10940
