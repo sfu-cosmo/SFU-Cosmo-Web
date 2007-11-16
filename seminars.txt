@@ -29,9 +29,17 @@ cosmology to a great extent.
 
 November 26, 2007, 15:00 in ASB10940
 Mustafa Amin (Stanford/KIPAC)
-TBA
+A framework for probing gravity and dark energy on cosmological scales
 
-TBA
+Departures from the flat-LCDM model can occur in the geometry, expansion
+history and the growth of structure. In addition, the relationship between
+the non-relativistic matter distribution and metric perturbations depends
+on the theory of gravity and any additional fields that are present. This
+provides another means of distinguishing the alternatives to LCDM. I will
+briefly discuss kinematic constraints on the expansion history. I will
+then concentrate on our attempt to develop a framework for probing
+the matter-metric relationship on linear, sub-horizon scales in a
+scale-dependent manner.
 
 
 January 24, 2008, 13:00 in P8445B
