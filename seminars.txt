@@ -95,9 +95,18 @@ TBA
 
 November 29, 2007, 13:00 in P8445B
 Prof. Henk Hoekstra (University of Victoria)
-TBA
+Weak Lensing by Large Scale Structure
 
-TBA
+Intervening structures in the universe give rise to small distortions
+in the shapes of distant galaxies. By measuring this tiny coherent
+signal, we can study the mass distribution in the universe directly,
+without relying on baryonic tracers. This makes weak lensing by
+large-scale structures a powerful probe of cosmology. I will review
+the topic of "cosmic shear" and discuss how the signal is extracted
+from the data. I will present results from recent surveys, most
+notably the CFHT Legacy Survey. Finally I will discuss what will be
+required to significantly improve constraints on the properties of
+dark energy.
 
 
 October 23, 2007, 14:30 in SSB7172
