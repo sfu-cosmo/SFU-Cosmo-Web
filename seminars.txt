@@ -1,3 +1,32 @@
+November 26, 2007, 15:00 in ASB10940
+Mustafa Amin (Stanford/KIPAC)
+<FONT COLOR="red">POSTPONED</FONT>
+
+<P>
+<STRONG>A framework for probing gravity and dark energy on cosmological scales</STRONG>
+
+<P>
+Departures from the flat-LCDM model can occur in the geometry, expansion
+history and the growth of structure. In addition, the relationship between
+the non-relativistic matter distribution and metric perturbations depends
+on the theory of gravity and any additional fields that are present. This
+provides another means of distinguishing the alternatives to LCDM. I will
+briefly discuss kinematic constraints on the expansion history. I will
+then concentrate on our attempt to develop a framework for probing
+the matter-metric relationship on linear, sub-horizon scales in a
+scale-dependent manner.
+
+<P>
+<FONT COLOR="red">This talk has been POSTPONED until next term.</FONT>
+
+
+January 24, 2008, 13:00 in P8445B
+Prof. John Moffat (University of Toronto/Perimeter)
+TBA
+
+TBA
+
+
 February 8, 2008, 14:30 in K9500
 Prof. Scott Dodelson (Fermilab)
 TBA (physics colloquium)
@@ -32,28 +61,6 @@ neutrino mass limit can be relaxed dramatically if neutrino mass varies and
 mass varying neutrinos are favored at about 3 sigma for some data
 combination. This discovery challenges the fundamental particle physics and
 cosmology to a great extent.
-
-
-November 26, 2007, 15:00 in ASB10940
-Mustafa Amin (Stanford/KIPAC)
-A framework for probing gravity and dark energy on cosmological scales
-
-Departures from the flat-LCDM model can occur in the geometry, expansion
-history and the growth of structure. In addition, the relationship between
-the non-relativistic matter distribution and metric perturbations depends
-on the theory of gravity and any additional fields that are present. This
-provides another means of distinguishing the alternatives to LCDM. I will
-briefly discuss kinematic constraints on the expansion history. I will
-then concentrate on our attempt to develop a framework for probing
-the matter-metric relationship on linear, sub-horizon scales in a
-scale-dependent manner.
-
-
-January 24, 2008, 13:00 in P8445B
-Prof. John Moffat (University of Toronto/Perimeter)
-TBA
-
-TBA
 
 
 October 30, 2007, 14:30 in SSB7172
