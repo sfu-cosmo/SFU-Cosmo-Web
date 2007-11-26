@@ -34,6 +34,19 @@ TBA (physics colloquium)
 TBA
 
 
+February 22, 2008, 14:30 in K9500
+Prof. Mark Trodden (Syracuse University)
+Gravitational Approaches to Cosmic Acceleration (physics colloquium)
+
+Among the possible explanations for the observed acceleration of the universe,
+perhaps the boldest is the idea that new gravitational physics might be the culprit.
+In this colloquium I will discuss some of the challenges of constructing a sensible
+phenomenological extension of General Relativity, give examples of some candidate
+models of modified gravity and survey existing observational constraints on this approach.
+I will conclude by discussing how we might hope to distinguish between modifications of
+General Relativity and dark energy as competing hypotheses to explain cosmic acceleration. 
+
+
 November 13, 2007, 14:30 in SSB7172
 Dr. Gong-Bo Zhao (SFU)
 Dark Energy perturbation and its application on cosmology
