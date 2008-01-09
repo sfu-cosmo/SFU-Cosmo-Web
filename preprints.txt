@@ -13,3 +13,7 @@ The pattern of growth in viable f(R) cosmologies
 SCG-2007-02 [0711.0747]
 L.~Pogosian and M.~Wyman
 B-modes from cosmic strings
+
+SCG-2007-03 [0712.2277]
+G.~B.~Zhao, D.~Huterer and X.~Zhang
+High-resolution temporal constraints on the dynamics of dark energy
