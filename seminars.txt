@@ -12,14 +12,10 @@ TBA
 TBA
 
 
-November 26, 2007, 15:00 in IRMACS
+January 15, 2008, 12:30 in SSB7172
 Mustafa Amin (Stanford/KIPAC)
-<FONT COLOR="red">POSTPONED</FONT>
+A framework for probing gravity and dark energy on cosmological scales
 
-<P>
-<STRONG>A framework for probing gravity and dark energy on cosmological scales</STRONG>
-
-<P>
 Departures from the flat-LCDM model can occur in the geometry, expansion
 history and the growth of structure. In addition, the relationship between
 the non-relativistic matter distribution and metric perturbations depends
@@ -29,9 +25,6 @@ briefly discuss kinematic constraints on the expansion history. I will
 then concentrate on our attempt to develop a framework for probing
 the matter-metric relationship on linear, sub-horizon scales in a
 scale-dependent manner.
-
-<P>
-<FONT COLOR="red">This talk has been POSTPONED until next term.</FONT>
 
 
 January 24, 2008, 13:30 in SSB7172
