@@ -1,18 +1,46 @@
-March 18, 2008, 12:30 in SSB7172
+March 18, 2008, 12:30 in IRMACS
 Prof. John Beacom (Ohio State University)
 TBA
 
 TBA
 
 
-January 22, 2008, 12:30 in SSB7172
+January 22, 2008, 12:30 in IRMACS
 Dr. Richard Battye (University of Manchester)
 Constraints on inflation models which predict cosmic strings
 
 TBA
 
 
-January 15, 2008, 12:30 in SSB7172
+January 31, 2008, 13:30 in SSB7172
+Prof. Saurya Das (University of Lethbridge)
+Black Holes and the Problem of Information Loss (CAP Lecture)
+
+Starting from two fundamental principles of physics, namely the maximum
+speed of propagation of signals (speed of light) and reference frame
+independence of this speed, we arrive at the notion of spacetime continuum
+and the metric. When we try to incorporate acceleration or gravity in this
+picture, we show that spacetime must be curved. The amount of curvature
+depends on the matter content of the spacetime, and is governed by the
+Einstein equations. These equations also predict the existence of black
+holes - highly dense gravitating objects, from which (classically) nothing
+can escape, not even light. When quantum mechanics is taken into consideration,
+black holes are predicted to emit small amounts of thermal radiation and
+have large amounts of entropy. This also gives rise to the so-called
+'information loss problem', which says that information entering a
+black hole maybe lost forever, in apparent violation of quantum mechanics.
+We explore possible microscopic origins of black hole entropy and
+possible resolutions of the information loss problem.
+
+<BR><BR>
+<FONT SIZE="-1"><I>
+This talk is a part of the <A HREF="https://www.cap.ca/edu/lect.html">CAP Lecture Tour</A> series,
+and should be accessible to a wide audience of non-specialists.
+Undergraduate students are encouraged to attend. 
+</I></FONT>
+
+
+January 15, 2008, 12:30 in IRMACS
 Mustafa Amin (Stanford/KIPAC)
 A framework for probing gravity and dark energy on cosmological scales
 
