@@ -9,7 +9,12 @@ January 22, 2008, 12:30 in IRMACS
 Dr. Richard Battye (University of Manchester)
 Constraints on inflation models which predict cosmic strings
 
-TBA
+Most of the "best motivated" models of inflation predict the formation of a
+network of cosmic strings. This network can lead to a sub-dominant, but
+important contribution to the observed microwave anisotropies. We will discuss
+two models which fall into this category, SUSY hybrid inflation and brane
+inflation, and the constraints imposed on these models by the recent 3-year
+results from WMAP.
 
 
 January 31, 2008, 13:30 in SSB7172
