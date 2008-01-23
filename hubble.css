@@ -3,6 +3,7 @@ body {position: relative; margin: 0; padding: 0;}
 div#content {position: absolute; top: 25px; left: 162px; right: 25px;
    color: #EED; font: 100% Verdana, sans-serif; padding: 9px; border: 1px solid #EEE;}
 div#links {position: absolute; top: 25px; left: 2px; width: 158px; height: 300px; font: 16px Verdana, sans-serif;}
+div#calendar {position: absolute; top: 400px; left: 2px; width: 158px; height: 150px; font: 10px Verdana, sans-serif;}
 
 body {background: black url(images/bg/goods.png) 0 0 repeat fixed;}
 div#content {background: #468;}
@@ -21,7 +22,7 @@ dt {font-weight: bold;}
 dd {margin-bottom: 0.66em;}
 code, pre {color: #EDC; font: 110% monospace;}
 blockquote {font: 90% sans-serif; padding: 9px 9px 1em; border: 1px solid #234;}
-table.index {font: 90% sans-serif;}
+table.index {font: 70% sans-serif;}
 address {font: 80% sans-serif;}
 
 div#content p {margin: 0 1em 1em;}
