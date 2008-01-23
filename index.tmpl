@@ -7,7 +7,7 @@
     <BLOCKQUOTE>
     <H2 ALIGN="center">Next Seminar:</H2>
     #for $s in $seminars.next
-        $s.date.strftime('%F %R') in&nbsp;$s.place -
+        $s.date.strftime('%F&nbsp;%R')&nbsp;in&nbsp;$s.place -
         <A HREF="seminars/"><B>$s.speaker ($s.affiliation):</B> $s.title</A>
     #end for
     </BLOCKQUOTE>
