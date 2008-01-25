@@ -12,11 +12,17 @@ TBA
 TBA
 
 
-February 8, 2008, 14:30 in AQ3181
+February 7, 2008, 13:30 in SSB7172
 Prof. Scott Dodelson (Fermilab)
-TBA (physics colloquium)
+Fundamental Physics from Space (special colloquium)
 
-TBA
+The Standard Model of particle physics has been remarkably
+successful in explaining a wide variety of microscopic phenomena. This
+success is almost too good: we are searching for any hints of physics
+beyond the Standard Model. Over the last decade, evidence for new
+physics has come from an unlikely source: astrophysical
+observations. I describe some of these observations and explain how they
+are changing our view of the laws and constituents of the Universe.
 
 
 February 5, 2008, 12:30 in IRMACS
