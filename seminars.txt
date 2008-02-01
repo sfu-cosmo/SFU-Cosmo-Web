@@ -29,7 +29,18 @@ February 5, 2008, 12:30 in IRMACS
 Dr. Aaron Berndsen (SFU)
 Long-lived relics in warped reheating
 
-TBA
+The success of the inflationary paradigm has prompted numerous efforts
+seeking to realize inflation within the context of string theory.
+Warped inflation has, arguably, received the plupart of attention, and
+it results in several unique features. The reheating scenario is one
+of those features, resulting from a sequence of intermediary steps as
+opposed to a direct coupling between the inflaton and standard model
+particles. This talk will (briefly) review this unique framework for
+inflation and the process of reheating in brane inflation. The focus
+will be on the possibility of long-lived relics, and a means of
+accommodating their decay. The results are intriguing, and I will end
+the talk by breaking supersymmetry, and placing new constraints on the
+parameters of these constructions.
 
 
 January 22, 2008, 12:30 in IRMACS
