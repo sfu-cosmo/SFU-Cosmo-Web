@@ -21,7 +21,7 @@
     #for $label,$idx in $l
     <H3 ALIGN="center">$label</H3>
     #for $s in $idx    
-    <H3 ALIGN="center">$s.date.strftime('%A, %-d&nbsp;%B&nbsp;%Y, %R')&nbsp;in&nbsp;room&nbsp;$s.place</H3>
+    <H3 ALIGN="center">$s.date.strftime('%A, %-d&nbsp;%B&nbsp;%Y, %R')&nbsp;in&nbsp;$s.place</H3>
     <BLOCKQUOTE>
         <H2>$s.prefix$s.speaker ($s.affiliation)</H2>
         <H3>$s.title</H3>
