@@ -12,6 +12,22 @@ TBA
 TBA
 
 
+February 22, 2008, 14:30 in AQ3181
+Prof. Andrei Frolov (SFU)
+Simulating the Big Bang (physics colloquium)
+
+The idea of inflation (a period of rapid quasi-exponential expansion
+of the Universe) neatly solves several issues in cosmology. But while
+the Universe is inflating, its contents is cold. Eventually, inflation
+has to end and the field driving the inflation has to decay, depositing
+its energy into high-energy particles. This process, known as reheating,
+starts the hot big bang as we know it. I will discuss basic models of
+resonant and tachyonic preheating, show recent numerical simulations
+of the inflaton decay (which turns out to be quite non-linear and violent),
+and explore how gravitational waves are produced in the process. If observed,
+they could allow a glimpse of physics at energies we know very little about.
+
+
 February 7, 2008, 10:30 in IRMACS
 Prof. Scott Dodelson (Fermilab)
 Dark Matter vs. Modified Gravity
@@ -123,19 +139,6 @@ solutions to the field equations of MOG are obtained that show excellent
 agreement with the data from the scale of the solar system to cosmological
 scales. With no undetermined free parameters, the theory can be used to
 make firm predictions that may be verifiable in the foreseeable future.
-
-
-February 22, 2008, 14:30 in AQ3181
-Prof. Mark Trodden (Syracuse University)
-Gravitational Approaches to Cosmic Acceleration (physics colloquium)
-
-Among the possible explanations for the observed acceleration of the universe,
-perhaps the boldest is the idea that new gravitational physics might be the culprit.
-In this colloquium I will discuss some of the challenges of constructing a sensible
-phenomenological extension of General Relativity, give examples of some candidate
-models of modified gravity and survey existing observational constraints on this approach.
-I will conclude by discussing how we might hope to distinguish between modifications of
-General Relativity and dark energy as competing hypotheses to explain cosmic acceleration. 
 
 
 November 13, 2007, 14:30 in SSB7172
