@@ -18,6 +18,6 @@ SCG-2007-03 [0712.2277]
 G.~B.~Zhao, D.~Huterer and X.~Zhang
 High-resolution temporal constraints on the dynamics of dark energy
 
-SCG-2007-04 [????.????]
+SCG-2007-04 [0803.1031]
 C.~Gooding and A.~V.~Frolov
 Five-dimensional black hole capture cross-sections
