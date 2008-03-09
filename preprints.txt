@@ -21,3 +21,7 @@ High-resolution temporal constraints on the dynamics of dark energy
 SCG-2007-04 [0803.1031]
 C.~Gooding and A.~V.~Frolov
 Five-dimensional black hole capture cross-sections
+
+SCG-2008-01 [????.????]
+A.~V.~Frolov
+Yet Another Problem with F(R) Dark Energy
