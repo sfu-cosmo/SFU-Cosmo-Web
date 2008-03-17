@@ -22,6 +22,10 @@ SCG-2007-04 [0803.1031]
 C.~Gooding and A.~V.~Frolov
 Five-dimensional black hole capture cross-sections
 
-SCG-2008-01 [????.????]
+SCG-2008-01 [0803.2500]
 A.~V.~Frolov
-Yet Another Problem with F(R) Dark Energy
+A Singularity Problem with f(R) Dark Energy
+
+SCG-2008-02 [????.????]
+A.~V.~Frolov
+DEFROST: A New Code for Simulating Preheating after Inflation
