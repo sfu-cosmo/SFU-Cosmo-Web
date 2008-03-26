@@ -1,8 +1,20 @@
 April 1, 2008, 12:30 in IRMACS
 Dr. James Zibin (UBC)
-TBA
+Restraining Void Models for Cosmological Acceleration
 
-TBA
+The last decade has seen the compilation of strong evidence that
+the expansion of the Universe is currently accelerating.  The source
+for this acceleration is still a mystery, although probably the
+simplest view is that it is caused by a cosmological constant.  One
+alternative explanation which requires no new matter fields or
+modifications of gravity, but discards the Copernican Principle,
+involves a large nonlinear underdensity centred near us.  It is known
+that such a void can mimic some of the data by replacing increasing
+expasion rate in time with increasing expansion rate towards the void
+centre.  I discuss the difficulties that void models face, from the
+philosophical to the observational.  I also lay out a general
+relativistic framework for the evolution of linear perturbations on a
+spherical void background aimed at confronting with data.
 
 
 March 28, 2008, 14:30 in AQ3181
