@@ -24,8 +24,12 @@ Five-dimensional black hole capture cross-sections
 
 SCG-2008-01 [0803.2500]
 A.~V.~Frolov
-A Singularity Problem with f(R) Dark Energy
+A singularity problem with f(R) dark energy
 
 SCG-2008-02 [????.????]
 A.~V.~Frolov
-DEFROST: A New Code for Simulating Preheating after Inflation
+DEFROST: A new code for simulating preheating after inflation
+
+SCG-2008-03 [0804.0810]
+L.~Pogosian, S.~H.~Tye, I.~Wasserman and M.~Wyman
+Cosmic strings as the source of small-scale microwave background anisotropy
