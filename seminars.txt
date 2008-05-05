@@ -1,3 +1,17 @@
+May 13, 2008, 12:30 in IRMACS
+Dr. Mark Wyman (Perimeter Institute)
+N-body Degravitation
+
+A possible resolution to the cosmological constant problem may
+come from the graviton having a small mass or width. In this picture, the
+graviton carries extra polarizarions. Its helicity-0 or scalar mode is
+suppressed in regions of high density but becomes important on
+cosmological distance scales. We are solving the equations for this scalar
+component numerically as a part of an N-body simulation. This will allow
+us to quantify the impact of massive/resonance gravity on the formation of
+large scale structure for the first time.
+
+
 April 1, 2008, 12:30 in IRMACS
 Dr. James Zibin (UBC)
 Restraining Void Models for Cosmological Acceleration
