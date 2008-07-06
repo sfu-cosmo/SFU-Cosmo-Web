@@ -33,3 +33,7 @@ DEFROST: A new code for simulating preheating after inflation
 SCG-2008-03 [0804.0810]
 L.~Pogosian, S.~H.~Tye, I.~Wasserman and M.~Wyman
 Cosmic strings as the source of small-scale microwave background anisotropy
+
+SCG-2008-04 [0805.1118]
+H.~Li, J.~Q.~Xia, G.~B.~Zhao, Z.~H.~Fan and X.~Zhang
+On using the WMAP distance priors in constraining the time evolving equation of state of dark energy
