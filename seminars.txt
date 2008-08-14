@@ -5,11 +5,15 @@ TBA (physics colloquium)
 TBA
 
 
-September 9, 2008, 11:00 in P8445B
-Dr. Sourish Dutta (Vanderbilt University)
-TBA
+August 14, 2008, 11:00 in SSB7109
+Dr. Prashanth Jaikumar (Institute of Mathematical Sciences, CIT, India)
+Astrophysics of dense quark matter
 
-TBA
+I will discuss the nature and possible consequences of phases of dense
+quark matter in neutron stars. After a brief summary of recent theoretical
+advances in this field, I will emphasize connections to observations of
+neutrino cooling, r-mode instabilities (gravitational waves) and
+heavy-element nucleosynthesis.
 
 
 May 13, 2008, 11:00 in P8445B
