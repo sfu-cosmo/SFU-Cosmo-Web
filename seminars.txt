@@ -2,7 +2,13 @@ September 25, 2008, 14:00 in IRMACS
 Prof. Dmitri Korotkin (Concordia University)
 Canonical quantization of Einstein-Rosen gravitational waves with two polarizations
 
-TBA
+We shall discuss the canonical quantization of the essentially nonlinear
+midisuperspace model describing cylindrically symmetric gravitational
+waves with two polarizations.  This model is a sufficiently complicated
+toy model of quantum gravity. Our approach provides a non-linear
+generalization of the quantization of the collinearly polarized
+Einstein-Rosen gravitational waves. The main technical tool we use is the
+theory of quantum integrable systems and quantum groups.
 
 
 November 14, 2008, 14:30 in AQ3181
