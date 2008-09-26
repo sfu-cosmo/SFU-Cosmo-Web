@@ -1,3 +1,18 @@
+October 2, 2008, 14:00 in IRMACS
+Prof. Andrei Frolov (SFU)
+A Singularity Problem with f(R) Dark Energy
+
+I will talk about a curvature singularity problem appearing on
+non-linear level that generally plagues f(R) models that modify Einstein
+gravity in the infrared. It is caused by the fact that for the effective
+scalar degree of freedom, the curvature singularity is at a finite field
+value and energy level, and can be easily accessed by the field dynamics
+in the presence of matter. Consequences for observational viability are
+grave: regular static solutions for neutron stars do not exist in many
+IR-modified f(R) models. I will discuss whether the theory can be saved
+by an UV-completion.
+
+
 September 25, 2008, 14:00 in IRMACS
 Prof. Dmitri Korotkin (Concordia University)
 Canonical quantization of Einstein-Rosen gravitational waves with two polarizations
