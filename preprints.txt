@@ -42,3 +42,6 @@ SCG-2008-05 [0807.3878]
 J.~Q.~Xia, H.~Li, G.~B.~Zhao and X.~Zhang
 Determining Cosmological Parameters with Latest Observational Data
 
+SCG-2008-06 [0809.3791]
+G.~B.~Zhao, L.~Pogosian, A.~Silvestri and J.~Zylberberg
+Searching for modified growth patterns with tomographic surveys
