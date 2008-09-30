@@ -26,7 +26,7 @@ SCG-2008-01 [0803.2500]
 A.~V.~Frolov
 A singularity problem with f(R) dark energy
 
-SCG-2008-02 [????.????]
+SCG-2008-02 [0809.4904]
 A.~V.~Frolov
 DEFROST: A new code for simulating preheating after inflation
 
