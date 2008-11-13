@@ -1,3 +1,18 @@
+November 14, 2008, 14:30 in AQ3181
+Prof. Robert Brandenberger (McGill University)
+String theory and the very early universe (physics colloquium)
+
+The inflationary universe scenario is the current paradigm of early
+universe cosmology. However, current realizations of inflation suffer
+from some serious conceptual problems. Superstring theory provides the
+framework for developing a new theory of the very early universe. I will
+discuss a new cosmological model ("string gas cosmology") which is based
+on a number of key ingredients of superstring theory. According to this
+model, the universe began not with a phase of inflation, but as a hot
+string soup, and the cosmological inhomogeneities we can measure today
+were seeded by thermal fluctuations of this gas of strings.
+
+
 October 2, 2008, 14:00 in IRMACS
 Prof. Andrei Frolov (SFU)
 A Singularity Problem with f(R) Dark Energy
@@ -24,13 +39,6 @@ toy model of quantum gravity. Our approach provides a non-linear
 generalization of the quantization of the collinearly polarized
 Einstein-Rosen gravitational waves. The main technical tool we use is the
 theory of quantum integrable systems and quantum groups.
-
-
-November 14, 2008, 14:30 in AQ3181
-Prof. Robert Brandenberger (McGill University)
-TBA (physics colloquium)
-
-TBA
 
 
 August 14, 2008, 11:00 in SSB7109
