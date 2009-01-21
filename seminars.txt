@@ -1,11 +1,11 @@
-March 10, 2009, 11:30 in ASB10940
+March 10, 2009, 14:00 in P8445A
 Prof. Phil Gregory (UBC)
 Bayesian Inference in Astronomy
 
 TBA
 
 
-March 3, 2009, 11:30 in ASB10940
+March 3, 2009, 14:00 in P8445A
 Dr. John Ward (University of Victoria)
 TBA
 
@@ -19,18 +19,38 @@ TBA (physics colloquium)
 TBA
 
 
-February 3, 2009, 11:30 in ASB10940
+February 3, 2009, 14:00 in P8445A
 Dr. Subinoy Das (UBC)
 TBA
 
 TBA
 
 
-January 27, 2009, 11:30 in ASB10940
+January 27, 2009, 14:00 in P8445A
 Dr. Edward Chapin (UBC)
 Detecting massive star-forming galaxies at z>1 using BLAST and SCUBA-2 submillimetre wavelength surveys
 
-TBA
+We currently believe that we live in a Universe whose mass
+distribution is dominated by cold dark matter. This model does a
+remarkable job of explaining how the mild inhomogeneities in the
+primordial plasma, imprinted on the Cosmic Microwave Background,
+evolved into the complex web of large-scale structures observed in the
+local Universe. However, we are only just beginning to understand the
+details of how smaller objects such as stars, galaxies and clusters
+formed and evolved within the gravitational potential of dark matter.
+A crucial step in this process is to map out the distribution of
+light-emitting matter with redshift. While optical surveys using the
+Hubble Space Telescope and ground-based optical telescopes in the
+1990's made great progress detecting "normal" galaxies to high
+redshifts (z>1), it has become clear during the last decade that
+longer wavelength studies in the IR--mm regime are required to detect
+galaxies in their earliest stages, as they are often optically
+obscured by dust, and hence absent from even the deepest optical
+images. I will discuss some recent Balloon-borne Large Aperture
+Submillimeter Telescope (BLAST) results from our 2006 campaign from
+McMurdo, Antarctica. I will also cover future surveys with the SPIRE
+camera for the Herschel Satellite, and the SCUBA-2 camera that will
+operate on the 15-m James Clerk Maxwell Telescope in Hawaii.
 
 
 November 14, 2008, 14:30 in AQ3181
