@@ -18,7 +18,7 @@ htmls = $(shell spyder.py|grep \.html)
 all: index.html $(htmls)
 
 clean:
-	rm -f *~ *.bak *.pyc
+	rm -f `find . -type f -name '*~' -or -name '*.bak' -or -name '*.pyc'`
 
 preprints.html: preprints.txt preprints.py
 
