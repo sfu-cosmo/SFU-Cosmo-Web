@@ -1,8 +1,17 @@
 January 23, 2009, 14:30 in P8445B
 Prof. Fotini Markopoulou (Perimeter)
-TBA
+Two ways to derive a spacetime in quantum gravity
 
-TBA
+I will give a short introduction to the problem of quantum gravity
+and will discuss two approaches to solving it. Both of these
+approaches can be seen as problems in statistical / condensed matter
+physics, where the task is to derive general relativity as the
+effective theory. The first, causal dynamical triangulations, is a
+new universality class of statistical systems with microscopic
+causality whose properties lead to a dynamical derivation of the four
+dimensions of our spacetime. The second, quantum graphity, is an
+extension of the Levin-Wen string network condensation to a model of
+emergent locality and matter.
 
 
 March 10, 2009, 14:00 in P8445A
