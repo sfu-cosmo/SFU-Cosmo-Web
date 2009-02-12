@@ -28,11 +28,26 @@ TBA
 TBA
 
 
-February 20, 2009, 14:30 in AQ3182
-Prof. Mark Trodden (Syracuse University)
-TBA (physics colloquium)
+February 24, 2009, 14:00 in P8445A
+Prof. Adam Ritz (University of Victoria)
+TBA
 
 TBA
+
+
+February 20, 2009, 14:30 in AQ3182
+Prof. Mark Trodden (Syracuse University)
+Gravitational approaches to cosmic acceleration (physics colloquium)
+
+Among the possible explanations for the observed acceleration of the
+universe, perhaps the boldest is the idea that new gravitational
+physics might be the culprit. In this colloquium I will discuss some
+of the challenges of constructing a sensible phenomenological extension
+of General Relativity, give examples of some candidate models of
+modified gravity and survey existing observational constraints on
+this approach. I will conclude by discussing how we might hope to
+distinguish between modifications of General Relativity and dark energy
+as competing hypotheses to explain cosmic acceleration.
 
 
 February 3, 2009, 14:00 in P8445A
