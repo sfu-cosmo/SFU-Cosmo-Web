@@ -30,9 +30,21 @@ TBA
 
 February 24, 2009, 14:00 in P8445A
 Prof. Adam Ritz (University of Victoria)
-TBA
+Probing pseudoscalar perturbations with CMB polarization
 
-TBA
+I'll discuss the use of CMB polarization as a probe of new light
+pseudoscalar degrees of freedom weakly coupled to photons. The
+stochastic pseudoscalar fluctuations generated during inflation
+provide a mechanism for converting E-mode polarization to B-mode
+during photon propagation from the surface of last scattering.
+The efficiency of this conversion process is controlled by the
+dimensionless ratio H/(2&pi; f<SUB>a</SUB>), where H is the Hubble
+scale during inflation, and f<SUB>a</SUB><SUP>-1</SUP> is the
+strength of the pseudoscalar coupling to photons. The current
+observational limits on the B-mode constrain this ratio to be
+less than 0.07, which in many models of inflation translates
+to a sensitivity to values of f<SUB>a</SUB> in excess of
+10<SUP>14</SUP> GeV, surpassing the sensitivity of other tests. 
 
 
 February 20, 2009, 14:30 in AQ3182
