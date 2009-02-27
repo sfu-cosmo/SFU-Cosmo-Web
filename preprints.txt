@@ -49,3 +49,11 @@ Searching for modified growth patterns with tomographic surveys
 SCG-2008-07 [0811.3919]
 D.~Baumann <I>et al.</I>
 CMBPol Mission Concept Study: Probing Inflation with CMB Polarization
+
+SCG-2009-01 [0902.????]
+J.~R.~Bond, A.~V.~Frolov, Z.~Huang and L.~Kofman
+Non-Gaussian Spikes from Chaotic Billiards in Inflation Preheating
+
+SCG-2009-02 [0902.4759]
+E. Komatsu <I>et al.</I>
+Non-Gaussianity as a Probe of the Physics of the Primordial Universe and the Astrophysics of the Low Redshift Universe
