@@ -23,9 +23,17 @@ TBA
 
 March 3, 2009, 14:00 in P8445A
 Dr. John Ward (University of Victoria)
-TBA
+Gravitational wave constraints on multi-brane inflation
 
-TBA
+The vanilla model of DBI-inflation has essentially been
+ruled out by the WMAP 5 year data. The generation of large
+non-Gaussianities and a detectable level of tensor perturbations are
+incompatible.
+In this talk I will discuss a phenomenological class of non-canonical
+inflationary models that could yield both a large level of
+non-Gaussian perturbations and a detectable tensor spectrum. I will
+then discuss how this model can be realised in a string theory
+setting.
 
 
 February 24, 2009, 14:00 in P8445A
