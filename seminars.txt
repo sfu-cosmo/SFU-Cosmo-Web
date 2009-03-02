@@ -16,9 +16,27 @@ emergent locality and matter.
 
 March 10, 2009, 14:00 in P8445A
 Prof. Phil Gregory (UBC)
-Bayesian Inference in Astronomy
+Mining for Extra-solar Planets with a Bayesian MCMC Kepler Periodogram
 
-TBA
+Are we on the threshold of discovering life elsewhere in the
+universe? With the mounting discoveries of extra-solar planets there
+is a sense that we are well underway. Astronomers searching for the
+small signals induced by planets inevitably face significant
+statistical challenges.  This talk illustrates how a Bayesian
+re-analysis of published radial velocity data sets is providing strong
+evidence for additional planetary candidates. The Bayesian nonlinear
+model fitting is accomplished with a new hybrid Markov chain Monte Carlo
+(HMCMC) algorithm which incorporates parallel tempering, simulated
+annealing and  the genetic algorithm. Each of these components facilitate
+the detection of a global minimum in &chi;<SUP>2</SUP>. By combining all
+three, the HMCMC greatly increase the probability of realizing this goal
+in a blind search of the parameter space. When applied to the Kepler
+problem it acts as a powerful multi-planet Kepler periodogram for both
+parameter estimation and model selection. The algorithm is embedded in
+a unique two stage adaptive control system that automates the tuning
+of the MCMC proposal distribution parameters through an annealing
+operation. The HMCMC algorithm is very general and applicable to many
+other nonlinear model fitting problems.
 
 
 March 3, 2009, 14:00 in P8445A
