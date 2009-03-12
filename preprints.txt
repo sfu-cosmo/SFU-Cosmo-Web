@@ -55,5 +55,13 @@ J.~R.~Bond, A.~V.~Frolov, Z.~Huang and L.~Kofman
 Non-Gaussian Spikes from Chaotic Billiards in Inflation Preheating
 
 SCG-2009-02 [0902.4759]
-E. Komatsu <I>et al.</I>
+E.~Komatsu <I>et al.</I>
 Non-Gaussianity as a Probe of the Physics of the Primordial Universe and the Astrophysics of the Low Redshift Universe
+
+SCG-2009-03 [0902.3796]
+S.~Dodelson <I>et al.</I>
+The Origin of the Universe as Revealed Through the Polarization of the Cosmic Microwave Background
+
+SCG-2009-04 [0903.0902]
+J.~Aguirre <I>et al.</I>
+Observing the Evolution of the Universe
