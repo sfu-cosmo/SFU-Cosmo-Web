@@ -50,7 +50,7 @@ SCG-2008-07 [0811.3919]
 D.~Baumann <I>et al.</I>
 CMBPol Mission Concept Study: Probing Inflation with CMB Polarization
 
-SCG-2009-01 [0902.????]
+SCG-2009-01 [0903.3407]
 J.~R.~Bond, A.~V.~Frolov, Z.~Huang and L.~Kofman
 Non-Gaussian Spikes from Chaotic Billiards in Inflation Preheating
 
