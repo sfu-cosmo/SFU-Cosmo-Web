@@ -1,8 +1,29 @@
 March 27, 2009, 14:30 in AQ3182
 Prof. Suzanne Staggs (Princeton University)
-Going nonlinear with the cosmic microwave background and ACT (physics colloquium)
+The impact of the last 13 billion years and of the first 10<SUP>-35</SUP> seconds on the CMB (physics colloquium)
 
-TBA
+Beyond its revelations to date on the structure, dynamics
+and contents of the universe, the cosmic microwave background
+(CMB) radiation has more physical data to be mined. We describe
+two experimental approaches designed to complement the reach of
+the WMAP and Planck satellites. The first is the Atacama
+Cosmology Telescope (ACT) project. ACT is mapping the CMB sky
+in three frequency bands (145, 215 and 265 GHz) with a resolution
+5-10 times better than that of those satellites. The fine-scale
+anisotropy of the CMB reflects the primordial power spectrum of
+density fluctuations, but also encodes details of its interactions
+with the rest of the universe in its 13-billion-year flight.
+Moreover, these details depend on fundamental quantiites of
+the universe including the mass of the neutrino, the equation of
+state of the dark energy, and the nature of the dark matter.
+The second experimental approach we describe is measurement of
+the large-scale polarization anisotropy of the CMB; we will
+mention both the QUI ExperimenT (QUIET) and the Atacama
+B-mode Search (ABS). Gravitational waves generated during any
+inflationary epoch (in the first 10 atto-attoseconds) can
+give rise to a specific pattern in the tensor field of the
+CMB polarization observed on the celestial sphere, dubbed
+B-modes, which has no other primordial source.
 
 
 January 23, 2009, 14:30 in P8445B
