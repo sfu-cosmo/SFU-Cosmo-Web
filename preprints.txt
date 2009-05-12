@@ -65,3 +65,7 @@ The Origin of the Universe as Revealed Through the Polarization of the Cosmic Mi
 SCG-2009-04 [0903.0902]
 J.~Aguirre <I>et al.</I>
 Observing the Evolution of the Universe
+
+SCG-2009-05 [0905.1326]
+G.~B.~Zhao, L.~Pogosian, A.~Silvestri and J.~Zylberberg
+Cosmological tests of GR -- a look at the principals
