@@ -1,3 +1,17 @@
+July 21, 2009, 14:00 in P8455B
+Dr. Daniele Steer (APC, Paris)
+Multi-field DBI inflation: primordial perturbations and non-Gaussianities
+
+In this talk I discuss some aspects of multiple-field inflation, and more
+specifically so-called Dirac-Born-Infeld (DBI)  inflation. DBI inflation
+emerges when one tries to embed inflation in a string-theory setting, and is
+based on the motion of a brane in a higher dimensional space-time: the
+directions in which the brane can move correspond to the different
+inflationary fields. We discuss the (correct!) action for DBI-inflation and
+then calculate some of its observational cosmological consequences,
+particularly for non-gaussianities in the CMB.
+
+
 May 5, 2009, 14:00 in P8455B
 Prof. Justin Khoury (University of Pennsylvania)
 Cascading Gravity
