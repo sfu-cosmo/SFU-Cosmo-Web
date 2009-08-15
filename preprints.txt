@@ -69,3 +69,8 @@ Observing the Evolution of the Universe
 SCG-2009-05 [0905.1326]
 G.~B.~Zhao, L.~Pogosian, A.~Silvestri and J.~Zylberberg
 Cosmological tests of GR -- a look at the principals
+
+SCG-2009-06 [0908.1568]
+G.~B.~Zhao and X.~Zhang
+Probing Dark Energy Dynamics from Current and Future Cosmological Observations
+
