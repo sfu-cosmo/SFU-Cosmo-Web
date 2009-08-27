@@ -1,3 +1,15 @@
+September 29, 2009, 14:00 in P8455B
+Dr. Yifu Cai (IHEP, China)
+An alternative to inflation: matter bounce cosmology
+
+In this talk, I will introduce the basic idea of matter bounce and its
+specific realization by applying a Lee-Wick scalar in the early universe.
+As an alternative to inflation, matter bounce can give a scale-invariant
+spectrum required by CMB observations as inflation did. Moreover, it
+predicts large and negative non-gaussianities which are expected to be
+detected or ruled out by near future observations.
+
+
 July 21, 2009, 14:00 in P8455B
 Dr. Daniele Steer (APC, Paris)
 Multi-field DBI inflation: primordial perturbations and non-Gaussianities
