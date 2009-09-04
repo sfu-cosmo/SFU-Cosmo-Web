@@ -74,3 +74,7 @@ SCG-2009-06 [0908.1568]
 G.~B.~Zhao and X.~Zhang
 Probing Dark Energy Dynamics from Current and Future Cosmological Observations
 
+SCG-2009-06 [0908.4252]
+A.~Berndsen, J.~E.~Lidsey and J.~Ward
+Non-relativistic Matrix Inflation
+
