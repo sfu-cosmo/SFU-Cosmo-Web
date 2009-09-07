@@ -10,6 +10,19 @@ predicts large and negative non-gaussianities which are expected to be
 detected or ruled out by near future observations.
 
 
+September 11, 2009, 14:30 in AQ3153
+Prof. Maxim Pospelov (University of Victoria/Perimeter)
+Dark Forces (physics colloquium)
+
+Physics of dark matter and dark energy, discovered via their gravitational
+interaction, may hide further surprises. In my talk, I will review recent
+developments with direct and indirect searches of dark matter that perhaps
+give us a hint on the existence of "dark forces".The search for dark forces at
+the new luminosity frontier will become an important part of modern particle
+physics. I will discuss some of the recent theoretical and experimental
+developments in this field.
+
+
 July 21, 2009, 14:00 in P8455B
 Dr. Daniele Steer (APC, Paris)
 Multi-field DBI inflation: primordial perturbations and non-Gaussianities
