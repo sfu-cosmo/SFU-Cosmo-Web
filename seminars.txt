@@ -1,25 +1,20 @@
 October 8, 2009, 14:00 in P8455B
 Dr. Niayesh Afshordi (Perimeter Institute)
-Stellar black holes and the origin of cosmic acceleration
+Stellar black holes, and the origin of cosmic acceleration
 
-The discovery of cosmic acceleration has presented a unique challenge
-for cosmologists. As observational cosmology forges ahead, theorists
-have struggled to make sense of a standard model that requires extreme
-fine tuning. This challenge is known as the cosmological constant problem.
-The theory of gravitational aether is an alternative to general relativity
-that does not suffer from this fine-tuning problem, as it decouples the
-quantum field theory vacuum from geometry, while remaining consistent
-with other tests of gravity. In this paper, we study static black hole
-solutions in this theory and show that it manifests a UV-IR coupling:
-Aether couples the spacetime metric close to the black hole horizon,
-to metric at infinity. We then show that using the Trans-Planckian ansatz
-(as a quantum gravity effect) close to the black hole horizon, leads to an
-accelerating cosmological solution, far from the horizon. Interestingly,
-this acceleration matches current observations for stellar mass black
-holes. Based on our current understanding of the black hole accretion
-history in the Universe, we then make a prediction for how the effective
-dark energy density should evolve with redshift, which can be tested with
-future dark energy probes.
+The cosmological constant problem is arguably the deepest gap in our
+understanding of modern physics. The discovery of cosmic acceleration
+in the past decade and its surprising coincidence with cosmic structure
+formation has added an extra layer of complexity to the problem. I will
+describe how revisiting/revising some standard assumptions in the theory
+of gravity can decouple the quantum vacuum from geometry, which can
+potentially solve the cosmological constant problem. I will then argue
+that a possible fascinating outcome of such a theory is to relate black
+hole formation to cosmic acceleration, providing a possible solution to
+the cosmic coincidence. A diverse range of experimental/observational
+probes over the next decade will tell us whether we are close to the
+end of this century-old mystery, which in turn could shed light on the
+nature of quantum gravity and black holes.
 
 
 September 29, 2009, 14:00 in P8455B
