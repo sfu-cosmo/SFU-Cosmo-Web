@@ -1,4 +1,4 @@
-October 8, 2009, 14:00 in P8455B
+October 8, 2009, 14:00 in P8445B
 Dr. Niayesh Afshordi (Perimeter Institute)
 Stellar black holes, and the origin of cosmic acceleration
 
@@ -17,7 +17,7 @@ end of this century-old mystery, which in turn could shed light on the
 nature of quantum gravity and black holes.
 
 
-September 29, 2009, 14:00 in P8455B
+September 29, 2009, 14:00 in P8445B
 Dr. Yifu Cai (IHEP, China)
 An alternative to inflation: matter bounce cosmology
 
@@ -42,7 +42,7 @@ physics. I will discuss some of the recent theoretical and experimental
 developments in this field.
 
 
-July 21, 2009, 14:00 in P8455B
+July 21, 2009, 14:00 in P8445B
 Dr. Daniele Steer (APC, Paris)
 Multi-field DBI inflation: primordial perturbations and non-Gaussianities
 
@@ -56,7 +56,7 @@ then calculate some of its observational cosmological consequences,
 particularly for non-gaussianities in the CMB.
 
 
-May 5, 2009, 14:00 in P8455B
+May 5, 2009, 14:00 in P8445B
 Prof. Justin Khoury (University of Pennsylvania)
 Cascading Gravity
 
