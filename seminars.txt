@@ -1,8 +1,14 @@
 October 20, 2009, 14:00 in P8445B
 Alkistis Pourtsidou (University of Nottingham)
-Cosmic strings with junctions (tentative)
+Cosmic strings with junctions
 
-TBA
+If cosmic superstrings are formed, they necessarily come in two
+different types which can interact with each other and become entangled,
+thus forming Y-shaped junctions. This is a novel property, not present
+in the conventional cosmic string scenario, and an interesting question
+is how the presence of junctions affects the dynamics of a cosmic
+superstring network. We focus on the evolution and stability of cosmic
+strings with junctions, and we discuss potential observational consequences.
 
 
 October 8, 2009, 14:00 in P8445B
