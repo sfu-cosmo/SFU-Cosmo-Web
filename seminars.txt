@@ -1,3 +1,31 @@
+November 17, 2009, 14:00 in P8445B
+Dr. Adam Moss (UBC)
+TBA
+
+TBA
+
+
+November 3, 2009, 14:00 in P8445B
+Dr. Federico Urban (UBC)
+The QCD nature of Dark Energy
+
+The origin of the observed dark energy could be explained entirely
+within the standard model, with no new fields required. I will show
+how the low-energy sector of the chiral QCD Lagrangian, once embedded
+in a spacetime with non-trivial topology, gives rise to a cosmological
+vacuum energy density which can be can be presented entirely in terms
+of QCD parameters and the Hubble constant, and whose numerical value
+is astonishingly close to the observed value today. The QCD Veneziano
+ghost (responsible for the solution of the axial U(1) problem) plays
+a crucial role in the computation of the vacuum energy, because
+the ghost's properties at very large but finite distances slightly
+deviate from their infinite volume Minkowski values. After a
+(detailed) review of the mechanism in a non-expanding universe
+I will describe our attempts to understand the dynamics of the
+ghost field in a FLRW universe, and mention several possible ways
+(primarily cosmological) for this proposal to be tested.
+
+
 October 20, 2009, 14:00 in P8445B
 Alkistis Pourtsidou (University of Nottingham)
 Cosmic strings with junctions
