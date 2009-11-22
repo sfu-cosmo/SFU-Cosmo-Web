@@ -1,11 +1,29 @@
-November 17, 2009, 14:00 in P8445B
+December 3, 2009, 14:00 in P8445A
 Dr. Adam Moss (UBC)
 TBA
 
 TBA
 
 
-November 3, 2009, 14:00 in P8445B
+December 1, 2009, 14:00 in P8445A
+Dr. Neil Barnaby (CITA)
+Nongaussian Fluctuations from Particle Production During Inflation
+
+In a variety of inflation models, the motion of the inflaton may
+trigger the production of some iso-curvature particles during inflation,
+for example via parametric resonance or a phase transition. Inflationary
+particle production provides a new mechanism for generating cosmological
+perturbations (infra-red cascading) and can also slow the motion of the
+inflaton on a steep potential. Moreover, such models provide a novel
+example of non-decoupling of high scale physics during inflation.
+I will discuss the observational consequences of inflationary particle
+production, including the generation of features in the primordial power
+spectrum and large nongaussianities with a unique shape of bispectrum.
+Finally, I will discuss various realizations of this scenario in string
+theory and supersymmetry.
+
+
+November 3, 2009, 14:00 in P8445A
 Dr. Federico Urban (UBC)
 The QCD nature of Dark Energy
 
@@ -26,7 +44,7 @@ ghost field in a FLRW universe, and mention several possible ways
 (primarily cosmological) for this proposal to be tested.
 
 
-October 20, 2009, 14:00 in P8445B
+October 20, 2009, 14:00 in P8445A
 Alkistis Pourtsidou (University of Nottingham)
 Cosmic strings with junctions
 
@@ -39,7 +57,7 @@ superstring network. We focus on the evolution and stability of cosmic
 strings with junctions, and we discuss potential observational consequences.
 
 
-October 8, 2009, 14:00 in P8445B
+October 8, 2009, 14:00 in P8445A
 Dr. Niayesh Afshordi (Perimeter Institute)
 Stellar black holes, and the origin of cosmic acceleration
 
@@ -58,7 +76,7 @@ end of this century-old mystery, which in turn could shed light on the
 nature of quantum gravity and black holes.
 
 
-September 29, 2009, 14:00 in P8445B
+September 29, 2009, 14:00 in P8445A
 Dr. Yifu Cai (IHEP, China)
 An alternative to inflation: matter bounce cosmology
 
