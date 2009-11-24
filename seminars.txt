@@ -1,8 +1,19 @@
-December 3, 2009, 14:00 in P8445A
+December 3, 2009, 14:00 in P8445B
 Dr. Adam Moss (UBC)
-TBA
+Dark energy: Violations of Isotropy and Homogeneity
 
-TBA
+Dark energy is one of the biggest mysteries in cosmology. In this talk
+I discuss two alternatives, each with very different physical origins,
+which have the unusual properties that they break fundamental cosmological
+principles of isotropy and homogeneity. In the first model, I extend the
+fluid approximation used to model stress-energy components in cosmology,
+and treat dark energy as a stiff fluid. Such models are stable, even
+when the pressure is negative, making them natural candidates to describe
+the dark energy. I show how this model can be extended to the anisotropic
+case, in an attempt to explain usual features in the CMB maps. In the second,
+I discuss whether we can remove the need for dark energy altogether. In this
+case,  we have to sacrifice the Copernican principle and live near a large,
+non-linear, and close to spherical underdense region of the Universe.
 
 
 December 1, 2009, 14:00 in P8445A
