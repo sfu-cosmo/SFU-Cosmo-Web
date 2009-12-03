@@ -16,6 +16,25 @@ case,  we have to sacrifice the Copernican principle and live near a large,
 non-linear, and close to spherical underdense region of the Universe.
 
 
+December 3, 2009, 16:00 in P8445?
+Dr. Neil Barnaby (CITA)
+Nonlocal Inflation
+
+The inflationary paradigm has been extremely successful in accounting
+for cosmological observations, however, it still lacks a firm motivation
+from fundamental theory.  Attempts to embed inflation into theories of
+physics beyond the standard model, such as string theory, have been
+stymied by the difficulty of constructing flat scalar field potentials.
+I will discuss how this difficulty can be evaded by taking advantage of
+the higher derivative structure of string field theory. I will show that
+these nonlocal inflation models are predictive, they generically lead to
+nongaussian signatures in the CMB. At the formal level these theories
+have a rich mathematical structure. After discussing the complications
+that can arise when working with high derivative theories, I will describe
+recent progress in understanding the initial value problem for infinite
+order differential equations.
+
+
 December 1, 2009, 14:00 in P8445A
 Dr. Neil Barnaby (CITA)
 Nongaussian Fluctuations from Particle Production During Inflation
