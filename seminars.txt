@@ -1,3 +1,21 @@
+January 12, 2010, 13:30 in P8445A
+Prof. Levon Pogosian (SFU)
+Cosmological Tests of General Relativity - A Look At The Principals
+
+Future weak lensing surveys will allow us to trace the evolution of galaxy
+clustering and gravitational potentials through multiple epochs -- the
+cosmological equivalent of tomography. This will offer an exciting opportunity
+to test the validity of Einstein equations of General Relativity (GR) which
+set the relations between the lensing potential, matter inhomogeneities and
+curvature perturbations. We introduce two arbitrary functions of time and
+scale that describe a general modification of GR in the linear regime. We then
+use a Principal Component Analysis (PCA) to find the eigenmodes of these
+functions that surveys like DES and LSST, along with CMB and SN data, will
+constrain. PCA gives a model-independent forecast of how many parameters
+describing deviations from GR can be constrained, as well as the redshifts and
+scales on which data is most sensitive to the departures.
+
+
 December 3, 2009, 14:00 in P8445B
 Dr. Adam Moss (UBC)
 Dark energy: Violations of Isotropy and Homogeneity
