@@ -1,3 +1,14 @@
+February 9, 2010, 13:30 in P8445A
+Jun-Qi Guo (SFU)
+Dynamics of the Homogeneous Universe of the logarithmic f(R) model
+
+The universe is a dynamical system. In this talk, a short introduction to the
+dynamical analysis will be given. Its applications to cosmology that have been
+studied in some references will be briefly discussed. Then this method will be
+put on the homogeneous universe of the logarithmic f(R) model. The solutions
+give an expanding universe as we expected and a contracting one as well.
+
+
 January 12, 2010, 13:30 in P8445A
 Prof. Levon Pogosian (SFU)
 Cosmological Tests of General Relativity - A Look At The Principals
