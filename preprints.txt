@@ -85,3 +85,7 @@ Investigating dark energy experiments with principal components
 SCG-2009-09 [0912.4843]
 A.~Hojjati, L.~Pogosian and G.~B.~Zhao
 Detecting Features in the Dark Energy Equation of State: A Wavelet Approach
+
+SCG-2010-01 [1002.2382]
+L.~Pogosian, A.~Silvestri, K.~Koyama and G.~B.~Zhao
+How to optimally parametrize deviations from General Relativity in the evolution of cosmological perturbations?
