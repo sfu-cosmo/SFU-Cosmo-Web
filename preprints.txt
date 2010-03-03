@@ -89,3 +89,7 @@ Detecting Features in the Dark Energy Equation of State: A Wavelet Approach
 SCG-2010-01 [1002.2382]
 L.~Pogosian, A.~Silvestri, K.~Koyama and G.~B.~Zhao
 How to optimally parametrize deviations from General Relativity in the evolution of cosmological perturbations?
+
+SCG-2010-02 [1003.0001]
+G.~B.~Zhao, T.~Giannantonio, L.~Pogosian, A.~Silvestri, D.~J.~Bacon, K.~Koyama, R.~C.~Nichol and Y.~S.~Song
+Probing modifications of General Relativity using current cosmological observations
