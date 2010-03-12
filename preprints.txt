@@ -93,3 +93,7 @@ How to optimally parametrize deviations from General Relativity in the evolution
 SCG-2010-02 [1003.0001]
 G.~B.~Zhao, T.~Giannantonio, L.~Pogosian, A.~Silvestri, D.~J.~Bacon, K.~Koyama, R.~C.~Nichol and Y.~S.~Song
 Probing modifications of General Relativity using current cosmological observations
+
+SCG-2010-03 [1003.2214]
+A.~Berndsen, L.~Pogosian and M.~Wyman
+Correlations between 21 cm Radiation and the CMB from Active Sources
