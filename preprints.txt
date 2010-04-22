@@ -97,3 +97,7 @@ Probing modifications of General Relativity using current cosmological observati
 SCG-2010-03 [1003.2214]
 A.~Berndsen, L.~Pogosian and M.~Wyman
 Correlations between 21 cm Radiation and the CMB from Active Sources
+
+SCG-2010-04 [1004.3559]
+A.~V.~Frolov
+Non-linear Dynamics and Primordial Curvature Perturbations from Preheating
