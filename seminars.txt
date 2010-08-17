@@ -1,8 +1,23 @@
 September 23, 2010, 14:00 in P8445A
 Prof. Wolfgang Rau (Queen's University)
-TBA
+Dark Matter Search with CDMS and SuperCDMS
 
-TBA
+Even though we know about its existence since more than
+3/4 of a century, we have yet to unveil the nature of the
+Dark Matter which dominates the matter content of the
+Universe.
+The Cryogenic Dark Matter Search Experiment (CDMS) employs
+cryogenic germanium detectors to identify direct
+interactions of Weakly Interacting Massive dark matter
+Particles (WIMPs) with ordinary matter. These detectors
+are well adapted to discriminate the abundant background
+radiation from the rare nuclear recoils expected from
+WIMP interactions.
+After a short introduction we will discuss the latest
+results from CDMS as well as plans for the next phase,
+SuperCDMS, which started at the CDMS location in northern
+Minnesota, but is expected to eventually move to SNOLAB,
+the new Canadian underground laboratory near Sudbury, ON.
 
 
 September 14, 2010, 14:00 in P8445A
