@@ -22,9 +22,26 @@ the new Canadian underground laboratory near Sudbury, ON.
 
 September 14, 2010, 14:00 in P8445A
 Prof. Stephane Coutu (PennState)
-TBA
+Highest Energy Physics with the Pierre Auger Observatory
 
-TBA
+The Earth is continually bombarded by particles from the cosmos, the so-called
+cosmic rays discovered almost exactly 100 years ago by Viktor Hess. Some of
+these are heralds of the most energetic processes in the Universe since the
+Big Bang. Because they can be excruciatingly rare, on the order of one
+particle per sq. km per century, extraordinary efforts are required to detect
+these messengers with good statistical accuracy. The Pierre Auger Observatory
+in Argentina is the largest instrument in the world to detect the air showers
+generated when these particles strike the Earth's atmosphere. Covering an area
+of 3000 sq. km, utilizing a hybrid combination of surface detector stations
+and nitrogen fluorescence telescopes, and in operation since 2004, Auger now
+dominates the world's sample of cosmic particles at energies beyond 10^18 eV,
+orders of magnitude beyond the reach of the most powerful accelerator
+laboratories either in existence or conceivable in the future. From the Auger
+measurements, crucial information and new puzzles emerge on the sources of
+these particles, their propagation to us over cosmological distances, and
+their atmospheric interactions in a realm beyond accelerator studies. The
+Auger results will be presented and the state of the field will be reviewed,
+as will ongoing and future developments.
 
 
 February 9, 2010, 13:30 in P8445A
