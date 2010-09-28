@@ -2,15 +2,15 @@ November 9, 2010, 14:00 in P8445B
 Dr. Cosimo Bambi (IPMU)
 Accretion process in Kerr space-time with arbitrary value of the spin parameter
 
-A fundamental limit for a rotating black hole is the Kerr bound
-$|a_*| \le 1$, where $a_*$ is the spin parameter. At least in some
+A fundamental limit for a rotating black hole is the Kerr bound |a<SUB>*</SUB>|
+&le; 1, where a<SUB>*</SUB> is the spin parameter. At least in some
 circumstances, we can expect that astrophysical black holes rotate close to
 this limit. On the contrary, if current black hole candidates are not Kerr
 black holes but, say, compact bodies made of exotic matter, the Kerr bound
-does not make sense and the maximum value of $|a_*|$ may be either smaller or
-larger than 1. Here I discuss the effects of the spin parameter in the
-accretion process onto a compact object and the observational signatures in
-the case $|a_*| > 1$.
+does not make sense and the maximum value of |a_<SUB>*</SUB>| may be either
+smaller or larger than 1. Here I discuss the effects of the spin parameter
+in the accretion process onto a compact object and the observational
+signatures in the case |a<SUB>*<SUB>| > 1.
 
 
 September 22, 2010, 14:00 in P8445A
