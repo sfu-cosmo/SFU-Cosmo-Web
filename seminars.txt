@@ -10,7 +10,7 @@ black holes but, say, compact bodies made of exotic matter, the Kerr bound
 does not make sense and the maximum value of |a_<SUB>*</SUB>| may be either
 smaller or larger than 1. Here I discuss the effects of the spin parameter
 in the accretion process onto a compact object and the observational
-signatures in the case |a<SUB>*<SUB>| > 1.
+signatures in the case |a<SUB>*</SUB>| > 1.
 
 
 September 22, 2010, 14:00 in P8445A
