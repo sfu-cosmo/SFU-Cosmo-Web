@@ -101,3 +101,7 @@ Correlations between 21 cm Radiation and the CMB from Active Sources
 SCG-2010-04 [1004.3559]
 A.~V.~Frolov
 Non-linear Dynamics and Primordial Curvature Perturbations from Preheating
+
+SCG-2010-05 [1011.2106]
+Y.~S.~Song, G.~B.~Zhao, D.~Bacon, K.~Koyama, R.~C.~Nichol and L.~Pogosian
+Complementarity of Weak Lensing and Peculiar Velocity Measurements in Testing General Relativity
