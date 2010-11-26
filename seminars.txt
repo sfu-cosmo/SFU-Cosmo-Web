@@ -7,9 +7,19 @@ TBA
 
 December 7, 2010, 14:00 in P8445B
 Prof. Kris Starosta (SFU)
-TBA
+Shell structure of nuclei and evolution of the Universe
 
-TBA
+The success of the shell model applied to atomic nuclei derives its origins
+from the existence of a set of “magic” numbers corresponding to
+particularly stable proton and neutron configurations in nuclei along, or
+close to, the line of β stability. However, for certain exotic nuclei new
+magic numbers appear while the established ones disappear. The modification of
+magic numbers of the nuclear shell model becomes available for direct studies
+following recent progress in measurements with rare exotic beams. The impact
+of nuclear structure on nucleosynthesis, distribution of elements, and
+evolution of the Universe will be discussed and a research program aimed at
+exploration of shell evolution away from the line of stability will be
+presented.
 
 
 October 19, 2010, 14:00 in P8445B
