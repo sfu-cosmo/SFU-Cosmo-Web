@@ -10,9 +10,9 @@ Prof. Kris Starosta (SFU)
 Shell structure of nuclei and evolution of the Universe
 
 The success of the shell model applied to atomic nuclei derives its origins
-from the existence of a set of “magic” numbers corresponding to
+from the existence of a set of "magic" numbers corresponding to
 particularly stable proton and neutron configurations in nuclei along, or
-close to, the line of β stability. However, for certain exotic nuclei new
+close to, the line of &beta; stability. However, for certain exotic nuclei new
 magic numbers appear while the established ones disappear. The modification of
 magic numbers of the nuclear shell model becomes available for direct studies
 following recent progress in measurements with rare exotic beams. The impact
