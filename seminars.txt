@@ -1,3 +1,23 @@
+January 14, 2011, 15:30 in AQ3154
+Prof. John Mather (NASA Goddard Space Flight Center)
+James Webb Space Telescope: Progress and Scientific Promise (physics
+colloquium)
+
+The James Webb Space Telescope is the planned successor for the Hubble Space
+Telescope, and will extend the reach of astronomers farther out in space and
+farther back in time, to within a few hundred million years of the Big Bang.
+Designed to observe at wavelengths from 0.6 to 28 µm, it will open new
+frontiers in science. With its huge aperture of 6.5 meters, and its optics
+cooled to 40 K, it will probe the unknown with extraordinary sensitivity.  It
+will be used to study beginnings: the first luminous objects to form after the
+Big Bang, the first galaxies, perhaps the first black holes, and closer to
+home, the formation of stars like the Sun and planets like the Earth, and even
+the atmospheres of planets around other stars. I will show the design for the
+telescope and explain how it will operate in deep space, a million miles from
+the Earth at the Sun-Earth Lagrange point L2. The observatory is under
+construction and the hardest technical problems have been solved.
+
+
 December 7, 2010, 14:00 in P8445B
 Prof. Kris Starosta (SFU)
 Shell structure of nuclei and evolution of the Universe
