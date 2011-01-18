@@ -105,3 +105,12 @@ Non-linear Dynamics and Primordial Curvature Perturbations from Preheating
 SCG-2010-05 [1011.2106]
 Y.~S.~Song, G.~B.~Zhao, D.~Bacon, K.~Koyama, R.~C.~Nichol and L.~Pogosian
 Complementarity of Weak Lensing and Peculiar Velocity Measurements in Testing General Relativity
+
+SCG-2010-06 [1012.5014]
+A.~Pourtsidou, A.~Avgoustidis, E.~J.~Copeland, L.~Pogosian and D.~A.~Steer
+Scaling configurations of cosmic superstring networks and their cosmological implications
+
+SCG-2011-01 [????.????]
+A.~V.~Frolov and J.-Q.~ Guo
+Small Cosmological Constant from Running of Gravitational Coupling
+
