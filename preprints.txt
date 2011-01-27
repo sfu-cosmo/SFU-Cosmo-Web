@@ -110,7 +110,7 @@ SCG-2010-06 [1012.5014]
 A.~Pourtsidou, A.~Avgoustidis, E.~J.~Copeland, L.~Pogosian and D.~A.~Steer
 Scaling configurations of cosmic superstring networks and their cosmological implications
 
-SCG-2011-01 [????.????]
+SCG-2011-01 [1101.4995]
 A.~V.~Frolov and J.-Q.~Guo
 Small Cosmological Constant from Running of Gravitational Coupling
 
