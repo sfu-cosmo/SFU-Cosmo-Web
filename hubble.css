@@ -2,7 +2,7 @@ body {position: relative; margin: 0; padding: 0;}
 
 div#content h1 {font: 1em Arial,Helvetica,sans-serif; text-transform: uppercase; padding: 3px 0 3px; color: #B5111A;}
 div#content h2 {margin: -9px -10px 0.5em; padding: 0px 9px 0px; background: #0054A6; color: white;}
-div#content h3 {margin: -9px -10px 0.5em; padding: 5px 9px 5px; }
+div#content h3 {margin: 0px -10px 0px; padding: 5px 9px 5px; }
 div#content dt {font-weight: bold;}
 div#content dd {margin-bottom: 0.66em;}
 
@@ -13,6 +13,6 @@ div#content table.index {font-size: 75%;}
 div#content address {font-size: 80%;}
 
 div#content p {margin: 0 1em 1em;}
-div#content h2 a {text-decoration: none;}
+div#content h2 a {color: white; text-decoration: none;}
 div#content h3 a {text-decoration: none;}
 div#content blockquote a {text-decoration: none;}
