@@ -10,8 +10,9 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>SFU Cosmology Group</title>
+<title>$title</title>
 <link rel="icon" href="${root}images/icon.png" type="image/png">
+<link rel="stylesheet" title="Hubble Theme" href="${root}hubble.css" type="text/css" media="screen">
 <!-- TemplateEndEditable -->
 <link href="http://www.sfu.ca/hp/clf/css/layout.css" rel="stylesheet" type="text/css" />
 <link href="../css/dynamic/banner.css" rel="stylesheet" type="text/css" />
@@ -61,7 +62,7 @@
 				    <li>#echo "&gt;</li>\n				    <li>".join($trail) #</li>
 			      </ul>
 				<!-- TemplateEndEditable --></div>
-		<div id="PageTitle"><!-- TemplateBeginEditable name="PageTitle" --><P ALIGN=center>$title</P><!-- TemplateEndEditable --></div>
+		<div id="PageTitle"><!-- TemplateBeginEditable name="PageTitle" -->$title<!-- TemplateEndEditable --></div>
 	  </div>
 	  <div id="topLinks">
 			<a href="http://www.sfu.ca/" class="spacer main">SFU.ca</a>
@@ -94,10 +95,12 @@
 	  </div>
 	
       <!-- TemplateBeginEditable name="Content" -->
+<div id="content">
 $content
-      <!-- TemplateEndEditable -->
 
-      <hr><address>Modified by Andrei Frolov &lt;<A HREF="mailto:frolov@sfu.ca">frolov@sfu.ca</A>&gt; on $today.strftime('%F')</address>
+<hr><address>Modified by Andrei Frolov &lt;<A HREF="mailto:frolov@sfu.ca">frolov@sfu.ca</A>&gt; on $today.strftime('%F')</address>
+</div>
+      <!-- TemplateEndEditable -->
       <div id="footer">8888 University Drive, Burnaby, B.C. Canada V5A 1S6 | <a href="http://www.sfu.ca/webmaster/terms.html">Terms and Conditions</a> | <a href="http://www.sfu.ca/contact/index.html">Contact Us</a> | <a href="http://www.sfu.ca/about/sitemap.html">SiteMap</a> | <a href="http://www.sfu.ca/security/sfuroadconditions/">Road Conditions</a> | &copy; Simon Fraser University</div>
 	</div>
 </div>
