@@ -44,7 +44,8 @@
 		</noscript>
 		<!-- TemplateBeginEditable name="TopicsMenu" -->
 		<ul id="main_nav">
-            <LI class="homeLink"><A href="${root}index.html">SFU Cosmology Group</A></LI>
+            <LI class="homeLink"><A href="${root}index.html" style="color:#B5111A;">SFU Cosmology Group</A></LI>
+            <LI#if ('contact'  in page) then ' class="current"' else '' #><A href="${root}contact.html">Contact Us</A></LI>
             <LI#if ('people'   in page) then ' class="current"' else '' #><A href="${root}people.html">People</A></LI>
             <LI#if ('research' in page) then ' class="current"' else '' #><A href="${root}research.html">Research</A></LI>
             <LI#if ('preprint' in page) then ' class="current"' else '' #><A href="${root}preprints.html">Preprints</A></LI>
@@ -52,11 +53,13 @@
             <LI#if ('outreach' in page) then ' class="current"' else '' #><A href="${root}outreach.html">Outreach</A></LI>
             <LI#if ('visitors' in page) then ' class="current"' else '' #><A href="${root}visitors.html">Visitor Info</A></LI>
             <LI#if ('jobs'     in page) then ' class="current"' else '' #><A href="${root}jobs.html">Opportunities</A></LI>
-            <LI#if ('contact'  in page) then ' class="current"' else '' #><A href="${root}contact.html">Contact Us</A></LI>
             <LI class="dotted"><A href="${root}links.html">Resources</A></LI>
 		</ul>
 		<!-- TemplateEndEditable -->
 		<div id="sideItems">
+                <div id="spNews" style="background: #FFFFFF;">
+                  <a href="http://www2.clustrmaps.com/counter/maps.php?url=http://www.sfu.ca/physics/cosmology/" id="clustrMapsLink"><img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.sfu.ca/physics/cosmology/" width="80" height="53" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';" /></a>
+                </div>
 				<div id="breadcrumbs"><!-- TemplateBeginEditable name="Breadcrumbs" -->
 				  <ul>
 				    <li>#echo "&gt;</li>\n				    <li>".join($trail) #</li>
@@ -95,11 +98,11 @@
 	  </div>
 	
       <!-- TemplateBeginEditable name="Content" -->
-<div id="content">
-$content
-
-<hr><address>Modified by Andrei Frolov &lt;<A HREF="mailto:frolov@sfu.ca">frolov@sfu.ca</A>&gt; on $today.strftime('%F')</address>
-</div>
+      <div id="content">
+        $content
+        
+        <hr style="clear: both"><address>Modified by Andrei Frolov &lt;<A HREF="mailto:frolov@sfu.ca">frolov@sfu.ca</A>&gt; on $today.strftime('%F')</address>
+      </div>
       <!-- TemplateEndEditable -->
       <div id="footer">8888 University Drive, Burnaby, B.C. Canada V5A 1S6 | <a href="http://www.sfu.ca/webmaster/terms.html">Terms and Conditions</a> | <a href="http://www.sfu.ca/contact/index.html">Contact Us</a> | <a href="http://www.sfu.ca/about/sitemap.html">SiteMap</a> | <a href="http://www.sfu.ca/security/sfuroadconditions/">Road Conditions</a> | &copy; Simon Fraser University</div>
 	</div>
