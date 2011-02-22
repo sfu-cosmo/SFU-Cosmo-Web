@@ -14,9 +14,15 @@ TBA
 
 March 4, 2011, 15:30 in B9201
 Prof. Ed Copeland (University of Nottingham)
-TBA (physics colloquium)
+Models of Dark Energy (physics colloquium)
 
-TBA
+I briefly review models of dark energy. These include models of a
+cosmological constant including those arising in string theory, and dynamical
+models where a scalar field may be responsible for the observed late time
+acceleration through to the possibility that we are not fully in control of
+the gravity sector and the acceleration may be some manifestation of modified
+gravity. All cases require some degree of fine tuning for the models to be
+compatible with observation.
 
 
 March 1, 2011, 14:00 in P8445B
