@@ -1,13 +1,23 @@
 March 18, 2011, 15:30 in B9201
 Prof. Lam Hui (Columbia University)
-TBA (physics colloquium)
+Equivalence principle and cosmic acceleration (physics colloquium)
 
-TBA
+Recent attempts to modify gravity at long distances
+to explain cosmic acceleration generally introduce new degrees
+of freedom, for instance a scalar, that must be screened
+in the solar system to satisfy stringent experimental constraints.
+We will discuss how such screening mechanisms might lead to order
+unity equivalence principle violations - in suitable environments -
+namely, objects with different degrees of screening fall
+at different rates. Proposals to observe such effects, or rule
+out such theories, will be discussed. We will also discuss screening
+mechanisms that are robust against this kind of equivalence principle
+violation.
 
 
 March 15, 2011, 14:00 in P8445B
 Prof. Lam Hui (Columbia University)
-TBA
+Bubble collisions in the early universe
 
 TBA
 
