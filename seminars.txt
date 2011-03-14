@@ -19,7 +19,13 @@ March 15, 2011, 14:00 in P8445B
 Prof. Lam Hui (Columbia University)
 Bubble collisions in the early universe
 
-TBA
+The dynamics of bubble collisions in the early universe will be
+discussed. In particular, I will describe a mechanism to transition
+into a new vacuum that is classical, as opposed to quantum.
+The process can be understood as the collision of solitons in 1+1
+dimensions. Our universe can reside in such a classically produced
+bubble, as opposed to the more familiar Coleman-de-Lucia bubble.
+Cosmological implications will be discussed.
 
 
 March 4, 2011, 15:30 in B9201
