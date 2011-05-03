@@ -114,3 +114,7 @@ SCG-2011-01 [1101.4995]
 A.~V.~Frolov and J.-Q.~Guo
 Small Cosmological Constant from Running of Gravitational Coupling
 
+SCG-2011-02 [1105.0207]
+E.~J.~Copeland, L.~Pogosian and T.~Vachaspati
+Seeking String Theory in the Cosmos
+
