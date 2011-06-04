@@ -118,3 +118,6 @@ SCG-2011-02 [1105.0207]
 E.~J.~Copeland, L.~Pogosian and T.~Vachaspati
 Seeking String Theory in the Cosmos
 
+SCG-2011-03 [1105.6198]
+A.~Avgoustidis, E.~J.~Copeland, A.~Moss, L.~Pogosian, A.~Pourtsidou, D.~A.~Steer
+Constraints on the fundamental string coupling from B-mode experiments
