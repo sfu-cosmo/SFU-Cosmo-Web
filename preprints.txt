@@ -121,3 +121,9 @@ Seeking String Theory in the Cosmos
 SCG-2011-03 [1105.6198]
 A.~Avgoustidis, E.~J.~Copeland, A.~Moss, L.~Pogosian, A.~Pourtsidou, D.~A.~Steer
 Constraints on the fundamental string coupling from B-mode experiments
+
+SCG-2011-04 [1106.1438]
+L.~Pogosian, A.P.S.~Yadav, Y.-F.~Ng and T.~Vachaspati
+Primordial Magnetism in the CMB: Exact Treatment of Faraday Rotation and WMAP7
+Bounds
+
