@@ -127,3 +127,6 @@ L.~Pogosian, A.P.S.~Yadav, Y.-F.~Ng and T.~Vachaspati
 Primordial Magnetism in the CMB: Exact Treatment of Faraday Rotation and WMAP7
 Bounds
 
+SCG-2011-05 [1106.4543]
+A.~Hojjati, L.~Pogosian and G.-B.~Zhao
+Testing gravity with CAMB and CosmoMC
