@@ -1,0 +1,27 @@
+#def $Id$
+#import datetime, seminars
+#set $today = datetime.datetime.today()
+#set $length = datetime.timedelta(hours=1)
+BEGIN:VCALENDAR
+X-WR-CALNAME:SFU Cosmology Seminars
+X-WR-CALDESC:SFU Cosmology Seminars
+X-WR-TIMEZONE:America/Vancouver
+PRODID:-//Andrei Frolov//NONSGML v1.0//EN
+VERSION:2.0
+#for $s in seminars.all
+#set $s_end = s.date + length
+BEGIN:VEVENT
+SUMMARY:Cosmo Seminar
+ORGANIZER;CN=Andrei Frolov:MAILTO:frolov@sfu.ca
+DTSTAMP;TZID=America/Vancouver:$today.strftime('%Y%m%dT%H%M%S')
+DTSTART;TZID=America/Vancouver:$s.date.strftime('%Y%m%dT%H%M%S')
+DTEND;TZID=America/Vancouver:$s_end.strftime('%Y%m%dT%H%M%S')
+LOCATION:$s.place
+DESCRIPTION:$s.speaker ($s.affiliation): $s.title
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+#end for
+END:VCALENDAR

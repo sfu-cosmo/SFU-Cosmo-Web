@@ -33,5 +33,8 @@ seminars/arxives.html: seminarx.tmpl layout.tmpl seminars.txt seminars.py
 seminars/%.html: seminars.tmpl layout.tmpl seminars.txt seminars.py
 	SEMINAR=$(basename $(@F)) $(FILL) -p $< > $@
 
+seminars/webcal.ics: webcal.tmpl seminars.txt seminars.py
+	$(FILL) -p $< > $@
+
 %.html: %.tmpl layout.tmpl
 	$(FILL) $<
