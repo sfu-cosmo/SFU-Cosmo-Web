@@ -15,7 +15,7 @@ htmls = $(shell spyder.py|grep \.html)
 
 
 # Targets
-all: index.html $(htmls)
+all: index.html $(htmls) seminars/webcal.ics 
 
 clean:
 	rm -f `find . -type f -name '*~' -or -name '*.bak' -or -name '*.pyc'`
