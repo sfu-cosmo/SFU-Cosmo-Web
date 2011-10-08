@@ -5,6 +5,26 @@ TBA
 TBA
 
 
+October 25, 2011, 14:00 in P8445B
+Ali Narimani (UBC)
+Dimensionless Cosmology
+
+Although it is possible that some fundamental physical constants could vary in
+time, it is important to only consider dimensionless combinations, such as the
+fine structure constant or the equivalent coupling constant for gravity. An
+additional feature of the standard model of cosmology raises an extra
+complication, namely that the epoch at which we live is a crucial part of the
+model. This can be defined by giving the value of any one of the evolving
+cosmological parameters. It takes some care to avoid inconsistent results for
+constraints on variable constants, which could be caused by effectively fixing
+more than one parameter today. In this talk I will describe a dimensionless
+approach to astrophysics and cosmology  through the calculations of the mass
+of a star, Big Bang Neucleosynthesis, and the Cosmic Microwave Background. I
+will also go through some examples in the literature that are either wrong or
+incomplete due to being dimensional or overly constraining the cosmological
+epoch.
+
+
 September 15, 2011, 14:00 in P8445B
 Prof. Tanmay Vachaspati (Arizona State University)
 Primordial Magnetic Fields from the Electroweak Epoch
