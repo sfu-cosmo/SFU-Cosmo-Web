@@ -1,8 +1,41 @@
+November 1, 2011, 14:00 in P8445B
+Prof. Andrei Frolov (SFU)
+Critical Collapse and Solitons in Classical Conformal Field Theory
+
+I will talk about the fate of a localized wavepacket in a classical
+conformal field theory with attractive interaction
+V(&phi;) = -&frac14; &lambda; &phi;&#x2074;.
+As potential is unbounded from below, homogeneous field collapses to
+singularity in finite time. However, finite size wavepacket can disperse
+before it collapses. Competition between the two outcomes results in a
+critical behavior, much like the one seen in gravitational collapse. I
+calculate the critical exponents, and show that there are static regular
+soliton-like solutions in the theory.
+
+
 October 18, 2011, 14:00 in P8445B
 Dr. Yin-Zhe Ma (UBC)
-TBA
+Cosmology on large and small cosmic scales
 
-TBA
+In this talk, I am going to test the concordance cosmology in three different
+cosmic scales. (1) On the super-horizon scale, Copi et. al. (2009)
+have been arguing that the lack of large angular correlations of the CMB
+temperature field provides strong evidence against the standard, statistically
+isotropic, LCDM cosmology. I am going to argue that the ad-hoc
+discrepancy is due to the sub-optimal estimator of the low-l multipoles, and a
+posteriori statistics, which exaggerates the statistical significance.
+(2) LCDM model also predict the existence of primordial gravitational wave,
+for which B-mode polarization will be a powerful tool to distinguish different
+models of the early Universe; (3) On Galactic scales, Watkins et. al.
+(2008) shows that the very large bulk flow prefers a very large density
+fluctuation, which seems to contradict to the LCDM model. We provide a
+physical explanation for this big bulk flow, based on the assumption that CMB
+frame does not coincide with matter rest frame, resulting in the tilted
+Universe. We show that the 'tilted Universe' could well explain the
+bulk flow phenomena and more importantly, the constraints for this tilted
+Universe can lead to the constraint on the number of e-folds of inflation; (4)
+In addition, cosmic Mach Number from peculiar velocity catalog may provide a
+powerful test of the growth of the structure.
 
 
 October 25, 2011, 14:00 in P8445B
