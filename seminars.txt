@@ -1,3 +1,27 @@
+November 25, 2011, 15:30 in AQ3149
+Prof. Levon Pogosian (SFU)
+TBA (physics colloquium)
+
+TBA
+
+
+October 21, 2011, 15:30 in AQ3149
+Prof. Andrei Frolov (SFU)
+Staring at the Sky (physics colloquium)
+
+Cosmic microwave background (CMB) carries to us a snapshot of the Universe
+from the times when it was much younger than it is today. Small anisotropies
+in CMB temperature are caused by fluctuations of gravitational potential at
+recombination, which photons have to climb out of. In inflationary cosmology,
+these are created by primordial quantum fluctuations of the field driving the
+accelerated expansion of the Universe, and are essentially Gaussian random
+noise of nearly scale-invariant spectrum. CMB anisotropy spectrum has been
+mapped out to exquisite precision over the last decade. Is there anything new
+we could see? In this talk, I will discuss searching for non-Gaussianity in
+the CMB - the distortions and patterns hidden in the noise, and what they
+could tell us about the early Univese physics.
+
+
 November 1, 2011, 14:00 in P8445B
 Prof. Andrei Frolov (SFU)
 Critical Collapse and Solitons in Classical Conformal Field Theory
