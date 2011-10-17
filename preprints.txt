@@ -129,3 +129,8 @@ Primordial Magnetism in the CMB: Exact Treatment of Faraday Rotation and WMAP7 B
 SCG-2011-05 [1106.4543]
 A.~Hojjati, L.~Pogosian and G.-B.~Zhao
 Testing gravity with CAMB and CosmoMC
+
+SCG-2011-06 [1110.3258]
+A.~V.~Frolov
+Critical Collapse and Solitons in Classical Conformal Field Theory
+
