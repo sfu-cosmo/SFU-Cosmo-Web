@@ -14,9 +14,20 @@ TBA
 
 November 15, 2011, 14:00 in P8445B
 Archisman Ghosh (University of Kentucky)
-TBA
+Cosmological Singularities and AdS/CFT
 
-TBA
+Singularities in general relativity are expected to be cured by a quantum
+theory of gravity. String theory is a prospective candidate for quantum
+gravity and holographic correspondences like AdS/CFT that arise from string
+theory might shed some light into the nature of singularities. These
+correspondences map a theory of gravity to a dual non-gravitational field
+theory in a lower number of dimensions. While the theory of gravity might
+not be tractable near the singularity, the corresponding field theory might
+be well-behaved. We come up with a model of cosmology where curvatures
+become large at some time, thus resembling a big crunch, but whose field
+theory dual remains well-behaved. Our analysis in the field theory indicates
+that we have a bouncing cosmology with a thermal distribution of radiation
+and a possible formation of a small black hole after the bounce.
 
 
 October 21, 2011, 15:30 in AQ3149
