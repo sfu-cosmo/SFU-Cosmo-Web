@@ -14,9 +14,19 @@ TBA
 
 November 22, 2011, 14:00 in P8445B
 Jun-Qi Guo (SFU)
-TBA
+Scalar wave propagation in Schwarzschild metric in some usual coordinates
 
-TBA
+Analytic results show that the geodesics of Schwarzchild black hole in
+Schwarzchild coordinate can not penetrate the apparent horizon. Painleve,
+Eddington-Finkelstein, and Kruskal coordinates are proposed to avoid this
+problem.
+In this talk, under the numerical approach, scalar wave propagation in these
+coordinates will exemplify the above statements. It shows that the wave indeed
+can not and can penetrate the apparent horizon in Schwarzchild and Kruskal
+coordinates, respectively. The situations in Painleve, Eddington-Finkelstein
+coordinates will also be discussed. 
+The numerical results provide a deeper understanding on the Schwarzchild
+metric and the coordinate systems.
 
 
 November 15, 2011, 14:00 in P8445B
