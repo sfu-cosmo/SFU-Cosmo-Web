@@ -7,9 +7,13 @@ TBA
 
 November 25, 2011, 14:30 in AQ3149
 Prof. Levon Pogosian (SFU)
-TBA (physics colloquium)
+Lambda, W and Beyond (physics colloquium)
 
-TBA
+Accelerating expansion of the universe is well-established, but the physics
+behind it remains unknown. While the cosmological constant, Lambda, seems like
+a safe bet, other theoretical proposals have not been ruled out. Fortunately,
+upcoming astronomical surveys of large scale structure will dramatically
+improve our ability to test Lambda, and this will be the subject of my talk.
 
 
 November 22, 2011, 14:00 in P8445B
