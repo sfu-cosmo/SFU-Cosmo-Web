@@ -1,8 +1,21 @@
 November 29, 2011, 14:00 in P8445B
 Daniel Thomas (Imperial College)
-TBA
+Making Gravity Count: Cluster Numbers and other cosmological observables in Model Independent Modified Gravity
 
-TBA
+Model-independent parameterisations of modified gravity have attracted
+a lot of attention over the past few years and numerous combinations of
+experiments and observables have been suggested to constrain the
+parameters used in these models. Galaxy clusters have been mentioned,
+but not looked at as extensively in the literature as some other probes.
+Here we look at adding galaxy clusters into the mix of observables and
+examine how they could improve the constraints on the modified gravity
+parameters. We find that cluster counts significantly improve the
+constraints obtained from combining Cosmic Microwave Background and weak
+lensing measurements. A key part of the forecast is the use of cluster
+mass functions, which are prescriptions for predicting the expected
+number of clusters given the linear theory matter power spectrum. I will
+examine how robust these mass function predictions are in a modified
+gravity context, using the results of a suite of N-body simulations.
 
 
 November 25, 2011, 14:30 in AQ3149
