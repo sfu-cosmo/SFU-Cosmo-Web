@@ -5,6 +5,21 @@ The SDSS Coadd: Cosmic Shear Measurement
 TBA
 
 
+January 17, 2012, 14:00 in P8445B
+Prof. Levon Pogosian (SFU)
+Fables of reconstruction: controlling bias in the dark energy equation of state
+
+We develop an efficient, non-parametric Bayesian method for reconstructing the
+time evolution of the dark energy equation of state w(z) from observational
+data. Of particular importance is the choice of prior, which must be chosen
+carefully to minimise variance and bias in the reconstruction. Using a
+principal component analysis, we show how a correlated prior can be used to
+create a smooth reconstruction and also avoid bias in the mean behaviour of
+w(z). We test our method using Wiener reconstructions based on Fisher matrix
+projections, and also against more realistic MCMC analyses of simulated data
+sets for Planck and a Euclid-like mission.
+
+
 November 29, 2011, 14:00 in P8445B
 Daniel Thomas (Imperial College)
 Making Gravity Count: Cluster Numbers and other cosmological observables in Model Independent Modified Gravity
