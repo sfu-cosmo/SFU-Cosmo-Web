@@ -7,9 +7,12 @@ TBA
 
 February 7, 2012, 14:00 in P8445B
 Prof. Scott Dodelson (Fermilab)
-The SDSS Coadd: Cosmic Shear Measurement
+Gravitational Lensing
 
-TBA
+One of the most powerful probes of dark energy is weak gravitational lensing.
+After reviewing the prospects for future measurements of lensing and the
+constraints expected on dark energy and modified gravity, I present our recent
+results on lensing in Stripe 82 of the Sloan Digital Sky Survey.
 
 
 January 17, 2012, 14:00 in P8445B
