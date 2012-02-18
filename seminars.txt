@@ -9,7 +9,24 @@ February 23, 2012, 14:00 in P8445B
 Prof. Jonathan Thornburg (Indiana University)
 eLISA Mission
 
-TBA
+Modelling Extreme Mass Ratio Binary Black Hole Inspirals for eLISA
+
+Consider a stellar-mass black hole (mass &sim; 10 solar masses) in a
+close orbit around a supermassive black hole (mass &sim; 10<sup>6</sup> solar
+masses).  In this talk I'll discuss the challenge of trying to model
+the orbital dynamics and gravitational-wave (GW) emission of such an
+"EMRI" system as it evolves under the influence of the gravitational
+radiation-reaction "self-force".  Because of the highly asymmetric
+mass ratio the orbital-decay timescale is much longer than the orbital
+period, so a direct "numerical relativity" solution of the Einstein
+equations would be both impractically expensive and insufficiently
+accurate.  Instead, we can use methods based on black hole perturbation
+theory, treating the small black hole as a perturbation of a background
+(Schwarzschild or Kerr) spacetime.  I'll outline some of the analytical
+and computational challenges of these analyses, describe recent
+progress in surmounting these challenges, and discuss EMRI systems
+as potential GW sources for the proposed eLISA/NGO space-based GW
+observatory.
 
 
 February 7, 2012, 14:00 in P8445B
