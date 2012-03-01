@@ -1,8 +1,16 @@
 March 8, 2012, 14:00 in P8445B
 Prof. Jarah Evslin (IHEP, Beijing)
-TBA
+Galaxy-Sized Monopoles as Dark Matter?
 
-TBA
+I describe work in progress on a proposed dark matter candidate: giant 't
+Hooft-Polyakov monopoles in a new, extremely weakly coupled, dark nonabelian
+gauge sector. Each galactic halo consists of a single monopole with some
+charge Q.  The monopole density profile corresponds to a cored,
+pseudo-isothermal halo, while Dirac quantization yields a minimum halo mass,
+resolving the missing satellite problem.  A key prediction is that the outer
+halo radius is Q-independent, and so dwarf spheroidal halos extend an order of
+magnitude beyond the farthest stars, and generally beyond the tidal radius.
+Microlensing, wide binary and bullet cluster bounds are easily satisfied.
 
 
 February 23, 2012, 14:00 in P8445B
