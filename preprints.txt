@@ -141,3 +141,12 @@ Cosmological tests of General Relativity: a principal component analysis
 SCG-2011-08 [1112.1693]
 R.~Crittenden, G.-B.~Zhao, L.~Pogosian, L.~Samushia and X.~Zhang
 Fables of reconstruction: controlling bias in the dark energy equation of state
+
+SCG-2012-01 [1207.3356]
+A.P.S.~Yadav, L.~Pogosian, T.~Vachaspati
+Probing primordial magnetism with off-diagonal correlators of CMB polarization
+
+SCG-2012-02 [1207.3804]
+G.-B.~Zhao, R.G.~Crittenden, L.~Pogosian, X.~Zhang
+Examining the evidence for dynamical dark energy
+
