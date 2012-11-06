@@ -1,3 +1,15 @@
+November 8, 2012, 14:30 in TBA
+Dr. Alireza Hojjati (Ewha Womans University)
+Lyman-alpha forest as a cosmological probe
+
+Absorption of the ultra violet light (the Lyman-alpha lines) offers a 
+unique probe of the neutral Hydrogen along the line of sight of quasars, 
+which in turn is a way to trace dark matter distribution at high 
+redshifts. After an introduction to the basics, I discuss some of the 
+theoretical assumptions and approximations applied in describing the 
+phenomena and how they can impact the estimation of cosmological parameters.
+
+
 March 8, 2012, 14:00 in P8445B
 Prof. Jarah Evslin (IHEP, Beijing)
 Galaxy-Sized Monopoles as Dark Matter?
