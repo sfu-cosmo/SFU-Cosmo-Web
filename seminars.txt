@@ -1,3 +1,15 @@
+November 22, 2012, 13:30 in P8445B
+Dr. Alireza Hojjati (Institute for the Early Universe, Ewha W. U.)
+Strong lensing and time-delay measurements
+
+Measurements of the time delays between the multiple images of gravitationally
+lensed quasars at high redshifts are recognized to possess complementary
+information to other probes in constraining cosmological parameters. I will
+describe the basic physics of the time delay due to strong lensing and some of
+the technical difficulties in its measurements. I then describe how we can do
+cosmology with such information.
+
+
 November 8, 2012, 15:00 in P8445A
 Dr. Alireza Hojjati (Institute for the Early Universe, Ewha W. U.)
 Lyman-alpha forest as a cosmological probe
