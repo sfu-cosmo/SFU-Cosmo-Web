@@ -158,3 +158,7 @@ SCG-2012-04 [1210.0308]
 L.~Pogosian, T.~Vachaspati, and A.~Yadav
 Primordial Magnetism in CMB B-modes
 
+SCG-2013-01 [1302.1193]
+A.~Silvestri, L.~Pogosian, and R.~V.~Buniy
+A practical approach to cosmological perturbations in modified gravity
+
