@@ -162,3 +162,19 @@ SCG-2013-01 [1302.1193]
 A.~Silvestri, L.~Pogosian, and R.~V.~Buniy
 A practical approach to cosmological perturbations in modified gravity
 
+SCG-2013-02 [1305.7225]
+S.~De, L.~Pogosian, and T.~Vachaspati
+CMB Faraday rotation as seen through the Milky Way
+
+SCG-2013-03 [1305.7290]
+J.-Q.~Guo and A.~V.~Frolov
+Cosmological evolution in f(R) gravity and a logarithmic model
+
+SCG-2013-04 [1306.1853]
+J.-Q.~Guo
+Solar system tests of f(R) gravity
+
+SCG-2013-05 [1306.2546]
+S.~Asaba, C.~Hikage, K.~Koyama, G.-B.~Zhao, A.~Hojjati, and L.-Pogosian
+Principal component analysis of modified gravity using weak lensing and peculiar velocity measurements
+
