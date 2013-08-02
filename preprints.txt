@@ -178,3 +178,7 @@ SCG-2013-05 [1306.2546]
 S.~Asaba, C.~Hikage, K.~Koyama, G.-B.~Zhao, A.~Hojjati, and L.-Pogosian
 Principal component analysis of modified gravity using weak lensing and peculiar velocity measurements
 
+SCG-2013-06 [1307.2660]
+J.-Q.~Guo
+Construction of f(R) gravity models
+
