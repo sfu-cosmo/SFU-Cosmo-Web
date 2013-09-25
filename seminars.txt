@@ -23,7 +23,23 @@ October 1, 2013, 14:00 in P8445B
 Dr. Ali Narimani (UBC)
 Minimal parameterizations for modified gravity
 
-TBA
+The increasing precision of cosmological data provides us with an opportunity
+to test general relativity (GR) on the largest accessible scales.
+Parameterizing modified gravity models facilitates the systematic testing of
+the predictions of GR, and gives a framework for detecting possible deviations
+from it. Several different parameterizations have already been suggested, some
+linked to classifications of theories, and others more empirically motivated.
+Here we describe a particular new approach which casts modifications to
+gravity through two free functions of time and scale, which are directly
+linked to the field equations, but also easy to confront with observational
+data. We compare our approach with other existing methods of parameterizing
+modied gravity, specifically the parameterized post-Friedmann approach and the
+older method using the parameter set {&mu;,&gamma;}. We explain the
+connection between our parameters and the physics that is most important for
+generating cosmic microwave background anisotropies. Some qualitative features
+of this new parameterization, and therefore modifications to the gravitational
+equations of motion, are illustrated in a toy model, where the two functions
+are simply assumed to be constant parameters.
 
 
 September 20, 2013, 14:30 in AQ3150
