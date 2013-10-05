@@ -6,21 +6,51 @@ TBA
 
 
 October 8, 2013, 14:00 in P8445B
-Dr. Yinzhe Ma (UBC)
-TBA
+Dr. Yin-Zhe Ma (UBC)
+Cosmic peculiar velocity field
 
-TBA
+The peculiar velocity field is one of the important probe of large scale
+structure. Its prediction from linear perturbation theory of $\Lambda$CDM
+should be rigorous tested against observational data. In this talk, I will
+describe several statistical modeling that can utilize peculiar velocity
+field data to constrain cosmology. The first method is the cosmic Mach
+number, which quantify the ratio between bulk flow velocity and velocity
+dispersion which can be used as a sensitive test of growth of structure.
+We then constructed a hyper-parameter statistical method, to quantify the
+difference between the predicted velocity field from the density field
+probed by IRAS survey, and the direct measurement of galaxy velocities. We
+show that the hyper-parameter combination of ENEAR, Type-Ia supernovae and
+SFI++ catalogues can give a constraint on the amplitude of perturbation
+f&sigma;<sub>8</sub> = 0.38 &plusmn; 0.05, which is consistent with all other different
+measurements. If primordial non-Gaussianity exists on large scales, the
+difference between peculiar velocity field and linear-reconstructed
+density field will be differerent by a scale-dependent bias factor. We
+apply the state-of-art observational data and set up a constraint on fNL
+which is close to other large scale structure constraints. In addition, we
+provide an explanation of previously found large amplitude of bulk flow.
+We find that the bulk flow on 50 Mpc/h scales cannot provide strong
+evidence against LCDM model.
 
 
 October 4, 2013, 14:30 in AQ3150
 Prof. Joseph Polchinski (KITP)
-TBA (physics colloquium)
+The black hole information paradox, alive and kicking (physics colloquium)
 
-TBA
+hought experiments have played an important role in figuring out the laws of
+physics. For the unification of quantum mechanics and gravity, where the phenomena
+take place in extreme regimes, they are even more crucial. Hawking’s 1976 paper
+"Breakdown of Predictability in Gravitational Collapse" presented one of the great
+thought experiments in the history of physics, arguing that black holes destroy
+information in a way that requires a modification of the laws of quantum mechanics.
+Skeptics for years failed to poke holes in Hawking's argument, but concluded that
+if quantum mechanics is to be saved then our understanding of spacetime must break
+down in a radical way. For a time it seemed that Maldacena's discovery of
+gauge/gravity duality had resolved the issue, but recent developments have
+opened many new questions.
 
 
 October 1, 2013, 14:00 in P8445B
-Dr. Ali Narimani (UBC)
+Ali Narimani (UBC)
 Minimal parameterizations for modified gravity
 
 The increasing precision of cosmological data provides us with an opportunity
