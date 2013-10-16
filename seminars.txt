@@ -5,6 +5,20 @@ TBA (physics colloquium)
 TBA
 
 
+October 22, 2013, 14:00 in P8445B
+Dr. Alireza Hojjati (SFU)
+Cosmology with strong lensing time delays
+
+Strong gravitational lensing of time variable sources such as quasars and
+supernovae creates observable time delays between the multiple images. Time
+delays can be used to measure cosmological parameters as well as probe the
+dark matter (sub-)structure within the lens galaxy.
+
+I will describe how the time delays are measured and how we can use them in
+cosmology. I will also report on the observational status of strong lensing
+time delay measurements.
+
+
 October 8, 2013, 14:00 in P8445B
 Dr. Yin-Zhe Ma (UBC)
 Cosmic peculiar velocity field
