@@ -6,6 +6,22 @@ TBA
 
 
 October 22, 2013, 14:00 in P8445B
+Prof. Levon Pogosian (SFU)
+Primordial magnetism in CMB polarization
+
+A large scale B-mode signal in the CMB polarization would constitute a
+smoking gun of Inflation and is the main target of several ongoing and
+upcoming experiments. I will focus on distinguishing features of another
+potential source of primordial B-modes -- magnetic fields. In particular,
+the Faraday Rotation of CMB polarization provides a distinctive signature
+of cosmic magnetic fields through the characteristic frequency dependence
+and the mode-coupling correlations of the CMB variables. I will discuss
+constraints on primordial magnetism that can be expected from future CMB
+experiments, taking into account the obstruction caused by the magnetic
+field of the Milky Way.
+
+
+October 22, 2013, 14:00 in P8445B
 Dr. Alireza Hojjati (SFU)
 Cosmology with strong lensing time delays
 
