@@ -14,9 +14,20 @@ TBA
 
 November 1, 2013, 14:30 in AQ3150
 Prof. Neil Turok (Perimeter Institute)
-TBA (physics colloquium)
+On Quantum Tunnelling (physics colloquium)
 
-TBA
+One of the most basic but intriguing properties of quantum systems is their
+ability to "tunnel" between configurations which are classically disconnected.
+That is, processes which are  classically not just slow, but impossible,
+become possible. In this talk I will outline a new, elementary approach to quantum
+tunneling which emphasizes that the dominant classical trajectory is usually complex,
+i.e., includes an imaginary part rather than being purely real. Through combining
+the semiclassical approximation with the concepts of post-selection and weak
+measurement, sharp answers can be given to questions such as "how long did the
+tunneling take" and "where was the particle while it was tunneling?' Applications
+of this formalism span a vast range, from experimentally testing the "reality of reality"
+(!) to making sense of the inflationary multiverse and understanding the Hawking
+process of black hole evaporation.
 
 
 October 29, 2013, 14:00 in P8445B
