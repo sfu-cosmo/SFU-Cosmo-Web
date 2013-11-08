@@ -12,6 +12,28 @@ Conformal anomaly and primordial magnetic fields
 TBA
 
 
+November 12, 2013, 14:00 in P8445B
+Jun-Qi Guo (SFU)
+Spherical collapse in f(R) gravity
+
+The spherical scalar collapse in f(R) gravity is studied numerically.
+The f(R) theory is a modification of general relativity at low curvature
+scale and the Ricci curvature scalar decreases when the physical scalar
+field collapses to form a black hole. Consequently, the gravity transits
+from general relativity to f(R) gravity, and the scalar degree of freedom
+f' is released from a coupled state to a light state. Due to the gravity
+from the scalar sphere and the lightness of f', f' crosses the minimum of
+the potential and approaches zero near the singularity of the black hole.
+Near the singularity, in the equations of motion for the metric components
+and the scalar fields, the spacial derivative terms are negligible compared
+to the time derivative terms; the equations of motion are decoupled,
+transferring from partial differential equations to ordinary differential
+equations with respect to the coordinate time. The behaviors of the metric
+components and the scalar fields are described by the Kanser solutions.
+These results confirm the BKL conjecture. The final state of the scalar
+collapse in f(R) gravity will be discussed.
+
+
 November 1, 2013, 14:30 in AQ3150
 Prof. Neil Turok (Perimeter Institute)
 On Quantum Tunnelling (physics colloquium)
