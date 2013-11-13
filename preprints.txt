@@ -182,3 +182,6 @@ SCG-2013-06 [1307.2660]
 J.-Q.~Guo
 Construction of f(R) gravity models
 
+SCG-2013-07 [1311.2926]
+L.~Pogosian
+Searching for primordial magnetism with multi-frequency CMB experiments
