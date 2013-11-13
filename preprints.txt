@@ -168,7 +168,7 @@ CMB Faraday rotation as seen through the Milky Way
 
 SCG-2013-03 [1305.7290]
 J.-Q.~Guo and A.~V.~Frolov
-Cosmological evolution in f(R) gravity and a logarithmic model
+Cosmological dynamics in f(R) gravity
 
 SCG-2013-04 [1306.1853]
 J.-Q.~Guo
