@@ -12,6 +12,19 @@ Conformal anomaly and primordial magnetic fields
 TBA
 
 
+November 19, 2013, 14:00 in P8445B
+Jes Ford (UBC)
+Weighing Galaxy Clusters with Weak Lensing Magnification
+
+Weak gravitational lensing is usually measured by quantifying the
+distortion of galaxy shapes. However, a different and complementary
+approach is to measure the magnification of distant background galaxies,
+which alters their observed number densities. I will give an introduction
+to lensing magnification, discuss recent progress made in this field, and
+show the results of applying this technique to measure stacked profiles of
+galaxy clusters in COSMOS and CFHTLenS.
+
+
 November 12, 2013, 14:00 in P8445B
 Jun-Qi Guo (SFU)
 Spherical collapse in f(R) gravity
