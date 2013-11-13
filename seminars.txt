@@ -14,7 +14,7 @@ TBA
 
 November 19, 2013, 14:00 in P8445B
 Jes Ford (UBC)
-Weighing Galaxy Clusters with Weak Lensing Magnification
+Weighing galaxy clusters with weak lensing magnification
 
 Weak gravitational lensing is usually measured by quantifying the
 distortion of galaxy shapes. However, a different and complementary
@@ -49,7 +49,7 @@ collapse in f(R) gravity will be discussed.
 
 November 1, 2013, 14:30 in AQ3150
 Prof. Neil Turok (Perimeter Institute)
-On Quantum Tunnelling (physics colloquium)
+On quantum tunnelling (physics colloquium)
 
 One of the most basic but intriguing properties of quantum systems is their
 ability to "tunnel" between configurations which are classically disconnected.
