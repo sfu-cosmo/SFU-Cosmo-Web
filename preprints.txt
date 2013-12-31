@@ -185,3 +185,8 @@ Construction of f(R) gravity models
 SCG-2013-07 [1311.2926]
 L.~Pogosian
 Searching for primordial magnetism with multi-frequency CMB experiments
+
+SCG-2013-08 [1312.4625]
+J.-Q.~Guo, D.~Wang, and A.~V.~Frolov
+Spherical collapse in f(R) gravity
+
