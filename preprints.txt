@@ -190,3 +190,7 @@ SCG-2013-08 [1312.4625]
 J.-Q.~Guo, D.~Wang, and A.~V.~Frolov
 Spherical collapse in f(R) gravity
 
+SCG-2013-09 [1312.5309]
+A.~Hojjati, L.~Pogosian, A.~Silvestri, and G.-B.~Zhao
+Observable physical modes of modified gravity
+
