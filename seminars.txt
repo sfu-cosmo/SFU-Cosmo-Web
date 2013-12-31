@@ -9,7 +9,16 @@ January 28, 2014, 14:00 in P8445B
 Prof. Ivan Agullo (Louisiana State University)
 Conformal anomaly and primordial magnetic fields
 
-TBA
+A long standing open question in cosmology concerns the origin of
+the magnetic field observed in galaxies and galaxy clusters. The
+claimed detection of a magnetic field in the intergalactic space
+provides further support to the proposal of a primordial origin.
+In this talk I will discuss how the well known conformal anomaly
+in quantum field theory in curved space-times is able to generate
+a sizable magnetic field during a phase of slow-roll inflation.
+The derivation is robust from the theoretical viewpoint and
+provides interesting lessons on the properties of quantum
+fields during inflation.
 
 
 November 19, 2013, 14:00 in P8445B
