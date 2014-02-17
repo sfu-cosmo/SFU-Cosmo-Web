@@ -1,8 +1,12 @@
 March 4, 2014, 14:00 in P8445B
 Prof. Thomas Kephart (Vanderbilt University)
-TBA
+Helicity Conservation and Generalized Beltrami Fields
 
-TBA
+We'll start with a review of magnetic helicity and the related Beltrami
+equation and then provide relativistic and non-abelian generalizations.
+Gauge invariance, variational principles, conserved currents, the
+energy-momentum tensor and choice of boundary conditions elucidate the
+subject. Applications will be discussed.
 
 
 January 28, 2014, 14:00 in P8445B
