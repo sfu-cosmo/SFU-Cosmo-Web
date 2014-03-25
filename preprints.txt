@@ -194,3 +194,6 @@ SCG-2013-09 [1312.5309]
 A.~Hojjati, L.~Pogosian, A.~Silvestri, and G.-B.~Zhao
 Observable physical modes of modified gravity
 
+SCG-2014-01 [1403.6105]
+A.~Moss and L.~Pogosian
+Did BICEP2 see vector modes? First B-mode constraints on cosmic defects
