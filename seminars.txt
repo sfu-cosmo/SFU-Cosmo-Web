@@ -1,8 +1,12 @@
 April 8, 2014, 14:00 in P8445B
 Dr. Zhiqi Huang (CITA, University of Toronto)
-TBA
+Inflation trajectories after Planck and BICEP2
 
-TBA
+I will discuss the parameter space of various inflation models after
+Planck and BICEP2. By reconstructing power spectra of primordial
+curvature fluctuations and gravitational waves, I will show that the
+simplest slow-roll single-field inflation models are not favored by
+the data any more.
 
 
 April 1, 2014, 14:00 in P8445B
