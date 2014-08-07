@@ -1,3 +1,13 @@
+August 15, 2014, 14:00 in P8445B
+Prof. Dmitri Pogosyan (University of Alberta)
+Topology of the Universe from Planck CMB data
+
+Cosmic Microwave Background provides us data on the structure of our Universe
+from the largest observable distances. In this talk I will discuss what limits
+are placed by the recent Planck data on the possibility that our Universe has
+complex  multi-connected space, and how this analysis is performed.
+
+
 May 6, 2014, 16:00 in Saywell 10081
 Prof. Rocky Kolb (University of Chicago)
 The Quantum and the Cosmos (public lecture)
