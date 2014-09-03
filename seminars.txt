@@ -2,7 +2,19 @@ September 3, 2014, 16:15 in P8445A
 Dr. Yin-Zhe Ma (UBC)
 Searching for missing baryons
 
-TBA
+Previous studies of galaxy formation have shown that only 10 per cent of the
+baryons are in compact objects, while 90 per cent of them are missing.
+Numerical simulation shows that the missing baryons are in a state of diffuse
+plasma with temperature 10^5 to 10^7 Kevlin, which is hard to be detected by
+X-ray observations. In this talk, we present a thermal Sunyaev-Zeldovich -
+Lensing cross-correlation (from the Canada France Hawaii Lensing Survey
+(CFHTLenS) and Planck’s thermal Sunyaev Zeldovich maps), and constrain the
+diffuse baryon component with the various pressure profile. We find that the 1
+and 2 halo terms detected at 3.96&sigma; and 3.67&sigma; confidence level
+(CL) respectively. The effective virial temperature of the isothermal gas is
+found to be in the range 7*10<sup>5</sup>--3*10<sup>8</sup> K. In addition, by
+stacking the pairs of luminous red galaxies, we can place a constraint on the
+temperature of the filament in between the dark matter halos.
 
 
 August 15, 2014, 14:00 in P8445B
