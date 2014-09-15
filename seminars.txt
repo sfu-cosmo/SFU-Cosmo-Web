@@ -32,12 +32,45 @@ TBA
 
 TBA
 
+October 3, 2014 at 14:30 in AQ3005
+Prof. Gabor Kunstatter (University of Winnipeg)
+The Black Hole Information Loss Problem: Is there light at the end of the tunnel? (physics colloquium)
+
+There is substantial evidence that black holes exist in binary star systems
+and at the center of most galaxies, including our own. Hawking's famous
+calculation of the mid 1970's proved that black holes evaporate by emitting
+radiation that does not contain any information about the state of the matter
+that formed the black hole. This leads to one of the deepest conundra of
+modern theoretical physics: what happens to this information once the
+evaporation is complete? Is it lost forever to the outside world or does it
+somehow emerge at the final stages of evaporation?
+
+<p>
+After a brief review of black holes and the evidence for their existence, I
+will describe in more detail the nature of the black hole information loss
+paradox. I will then list several proposed resolutions. Finally I will offer a
+different, more mundane solution to the problem based on the fact that the
+singularity which is thought to lurk at the center of all black holes and lies
+at the heart of the conundrum cannot be realized in nature. I will use a
+simple phenomenological model to argue that taming the singularity resolves
+the conundrum by allowing the information to emerge at the end of the
+evaporation process.
+
 
 October 2, 2014, 16:00 in P8445A
 Prof. Gabor Kunstatter (University of Winnipeg)
-TBA
+The Stability of AdS Spacetime in Einstein-Gauss-Bonnet Gravity
 
-TBA
+Recently it has been argued that spherically symmetric AdS spacetime is
+unstable against the formation of black holes for a large class of arbitrarily
+small perturbations. Einstein's action undoubtedly acquires higher order
+corrections at short distance scales. The simplest of these, the so-called
+Gauss-Bonnet term, is second order in curvature and yields equations of motion
+that are second order in derivatives of the metric. I will present results of
+the numerical analysis of spherically symmetric massless scalar field collapse
+in five dimensional AdS spacetime in Einstein-Gauss-Bonnet gravity. The change
+in dynamics at short distances and high curvature has intriguing consequences
+for black hole formation and the stability of AdS spacetime.
 
 
 September 18, 2014, 16:00 in P8445A
