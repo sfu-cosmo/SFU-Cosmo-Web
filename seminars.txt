@@ -14,9 +14,9 @@ TBA
 
 October 30, 2014, 16:00 in P8445A
 Yun Li (SFU)
-TBA
+Primordial magnetic fields
 
-TBA
+A stochastic primordial magnetic field (PMF), if present at last scattering, would source B-mode polarization of CMB. We use the recent measurements of the B-mode spectrum by POLARBEAR and BICEP2 to derive constraints on the magnitude, the spectral index and the energy scale at which PMF was generated. Additional tests, such as Faraday Rotation, can be used to distinguish the PMF sourced B-modes from those sourced by weak lensing and the inflationary gravity waves.
 
 
 October 23, 2014, 16:00 in P8445A
