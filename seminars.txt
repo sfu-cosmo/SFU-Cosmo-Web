@@ -7,9 +7,9 @@ TBA
 
 November 6, 2014, 16:00 in P8445A
 Tomas Galvez (SFU)
-TBA
+Bimetric models of gravity and cosmology in the early universe
 
-TBA
+In this presentation, we will briefly explore models based on the idea that there are two metrics in spacetime: One describes the standard gravity, and the other provides a geometry in which matter fields propagate. To do that, we recall the essentials of Finsler geometry and the rules to induce a metric for the propagation of matter. Such a description will cover some of the most critical features related to the field necessary to do the induction, these will arise in an attempt to build an action for this field. And finally, we provide an example to study the homogeneous limit of background FRW equations for the cosmological model with a few comments about the role of Lorentz symmetry breaking to provide a graceful exit.
 
 
 October 30, 2014, 16:00 in P8445A
