@@ -7,9 +7,9 @@ TBA
 
 November 20, 2014, 16:00 in P8445A
 Micah Brush (SFU)
-TBA
+3D cosmological observables in spherical coordinates
 
-TBA
+I will give an overview of the mathematical framework used to work with cosmological observables in spherical coordinates, as opposed to the ordinary flat sky approximation. This framework allows the cosmological growth function to be easily incorporated in to the statistics. I will then outline the construction of a promising unbiased minimum variance estimator for the growth function, though this work is still in progress.
 
 
 November 6, 2014, 16:00 in P8445A
