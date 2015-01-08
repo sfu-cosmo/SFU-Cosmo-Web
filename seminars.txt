@@ -2,7 +2,13 @@ January 12, 2015, 12:00 in P8445B
 Prof. Misao Sasaki (YITP, Kyoto University)
 Reviving open inflation
 
-TBA
+The scenario of open inflation once popular in the 1990's was abandoned
+when the WMAP team announced in 2003 that our Universe is almost flat.
+However, as the precision of observational data has increased, the possibility
+to test the present curvature parameter of &Omega;<sub>K</sub> &sim; 0.01-0.001 has
+become not unrealistic. I argue that open inflation can explain some of recent
+cosmological data better than others, and it may be a new window to the
+physics of the Universe at or even before inflation.
 
 
 November 20, 2014, 16:00 in P8445A
