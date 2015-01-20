@@ -1,3 +1,10 @@
+January 26, 2015, 12:00 in P8445B
+Dr. Gong-Bo Zhao (NAOC, Beijing and ICG, Portsmouth)
+Cosmological tests of gravity
+
+In this talk, I will be presenting methods and results of cosmological tests of gravity on both linear and nonlinear scales. On linear scales, I will introduce the principle component analysis (PCA) method for the model-independent gravity test and use this method to estimate the constraining power of future imaging and spectroscopic surveys. On nonlinear scales,  I will present the high-resolution N-body simulations of modified gravity models and show the imprint of nonlinear screening effect on matter power spectrum and mass function. I will also talk about applications of these simulations, including a new GR test using the environmental effect, and a modified gravity extension of Halofit.
+
+
 January 20, 2015, 15:30 in P8445B
 Dr. Alessandra Silvestri (Lorentz Institute, Leiden)
 Testing gravity within the EFT framework of cosmic acceleration
