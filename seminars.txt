@@ -2,7 +2,9 @@ January 20, 2015, 15:30 in P8445B
 Dr. Alessandra Silvestri (Lorentz Institute, Leiden)
 Testing gravity within the EFT framework of cosmic acceleration
 
-TBA
+More than a decade after its discovery, cosmic acceleration still poses a puzzle for modern cosmology and a plethora of models of dark energy or modified gravity, able to reproduce the observed expansion history, have been proposed as alternatives to the cosmological standard model. In recent years it has become increasingly evident that probes of the expansion history are not sufficient to distinguish among the candidate models, and that it is necessary to combine those with observations that probe the dynamics of inhomogeneities. Future cosmological surveys will map the evolution of inhomogeneities to high accuracy, allowing us to test the relationships between matter overdensities, local curvature, and the Newtonian potential on cosmological scales.
+
+I will discuss theoretical issues involved in finding an optimal framework to study deviations from General Relativity on cosmological scales, giving an overview of recent progress, with a focus on model-independent approaches to the dynamics of linear scalar perturbations. In particular I will discuss the phenomenology driven parametrization in terms of two functions of time and space, as well as the theory driven effective field theory formalism for dark energy and its implementation in CAMB.
 
 
 January 12, 2015, 12:00 in P8445B
