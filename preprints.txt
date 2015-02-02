@@ -201,3 +201,7 @@ Did BICEP2 see vector modes? First B-mode constraints on cosmic defects
 SCG-2014-02 [1408.6316]
 A.~V.~Frolov and V.~P.~Frolov
 Rigidly rotating ZAMO surfaces in the Kerr spacetime
+
+SCG-2014-03 [1412.8740]
+V.~P.~Frolov and A.~V.~Frolov
+Hybrid black holes
