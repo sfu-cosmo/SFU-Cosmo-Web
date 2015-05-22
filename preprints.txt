@@ -206,6 +206,10 @@ SCG-2014-03 [1412.8740]
 V.~P.~Frolov and A.~V.~Frolov
 Hybrid black holes
 
+SCG-2014-04 [1410.2857]
+C.~Llinares and L.~Pogosian
+Domain walls coupled to matter: the symmetron example
+
 SCG-2015-01 [1502.01582]
 Planck Collaboration
 Planck 2015 results. I. Overview of products and scientific results
@@ -213,3 +217,11 @@ Planck 2015 results. I. Overview of products and scientific results
 SCG-2015-02 [1502.02114]
 Planck Collaboration
 Planck 2015. XX. Constraints on inflation
+
+SCG-2015-03 [1506.XXXXX]
+Planck Collaboration
+Planck 2015 results. XVI. Isotropy and statistics of the CMB
+
+SCG-2015-04 [1505.01373]
+Y.~Wang, G.-B.~Zhao, D.~Wands, L.~Pogosian, and R.~G.~Crittenden
+Reconstruction of the dark matter-vacuum energy interaction

@@ -20,7 +20,7 @@ def parse(fp):
             p.year = re.match('\w+-(\d+)-\d+', p.id).group(1)
             
             p.authors = fp.skip()
-            p.authors = re.sub(r'((\w+\.[~\-\s]+)*(Frolov|Pogosian|Zhao|Berndsen|Gooding|Zylberberg|Hojjati|Guo|Talbot))', r'<B>\1</B>', p.authors)
+            p.authors = re.sub(r'((\w+\.[~\-\s]+)*(Frolov|Pogosian|Zhao|Berndsen|Gooding|Zylberberg|Hojjati|Guo|Talbot|Wang))', r'<B>\1</B>', p.authors)
             p.authors = p.authors.replace('~', '&nbsp;')
             
             p.title = fp.skip().strip('"')
