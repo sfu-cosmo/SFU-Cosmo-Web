@@ -225,3 +225,7 @@ Planck 2015 results. XVI. Isotropy and statistics of the CMB
 SCG-2015-04 [1505.01373]
 Y.~Wang, G.-B.~Zhao, D.~Wands, L.~Pogosian, and R.~G.~Crittenden
 Reconstruction of the dark matter-vacuum energy interaction
+
+SCG-2015-05 [1505.02779]
+Planck Collaboration
+Planck intermediate results. XXXVIII. E- and B-modes of dust polarization from the magnetized filamentary structure of the interstellar medium
