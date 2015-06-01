@@ -229,3 +229,7 @@ Reconstruction of the dark matter-vacuum energy interaction
 SCG-2015-05 [1505.02779]
 Planck Collaboration
 Planck intermediate results. XXXVIII. E- and B-modes of dust polarization from the magnetized filamentary structure of the interstellar medium
+
+SCG-2015-06 [1505.08170]
+M.~Brush, L.~Pogosian, and T.~Vachaspati
+Magnetic monopole hits a wall
