@@ -218,7 +218,7 @@ SCG-2015-02 [1502.02114]
 Planck Collaboration
 Planck 2015. XX. Constraints on inflation
 
-SCG-2015-03 [1506.XXXXX]
+SCG-2015-03 [1506.07135]
 Planck Collaboration
 Planck 2015 results. XVI. Isotropy and statistics of the CMB
 
