@@ -233,3 +233,7 @@ Planck intermediate results. XXXVIII. E- and B-modes of dust polarization from t
 SCG-2015-06 [1505.08170]
 M.~Brush, L.~Pogosian, and T.~Vachaspati
 Magnetic monopole hits a wall
+
+SCG-2015-07 [1508.02852]
+J.-Q.~Guo, P.~S.~Joshi, and J.~T.~Galvez~Ghersi
+Mass inflation near the central singularity in spherical collapse
