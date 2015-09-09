@@ -237,3 +237,11 @@ Magnetic monopole hits a wall
 SCG-2015-07 [1508.02852]
 J.-Q.~Guo, P.~S.~Joshi, and J.~T.~Galvez~Ghersi
 Mass inflation near the central singularity in spherical collapse
+
+SCG-2015-08 [1506.04039]
+T.~Vachaspati, L.~Pogosian, and D.~Steer
+Cosmic strings
+
+SCG-2015-09 [1509.02461]
+POLARBEAR Collaboration
+POLARBEAR Constraints on Cosmic Birefringence and Primordial Magnetic Fields
