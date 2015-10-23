@@ -1,3 +1,10 @@
+Oct 30, 2015 at 14:30 in C9000
+Prof. Mark Halpern (UBC)
+Measuring the acceleration history of the Universe with CHIME (physics colloquium)
+
+Density fluctuations in the Universe <I>before</I> the hot big bang propagated in the plasma of the early universe as acoustic waves. They produced the features which we have measured in the Comic Microwave Background and used to constrain the age and composition of the Universe.  When the Universe became transparent, these density waves stopped moving,  leaving spherical features of known (enormous) size. We are building a novel radio telescope, CHIME, to measure the apparent size of these features as a function of redshift in an effort to determine the expansion history of the Universe and constrain models of dark energy. I will review what we have learned from these baryon acoustic oscillations in the CMB and give a progress report on CHIME.
+
+
 March 5, 2015, 14:00 in P8445A
 Dr. Scott Chapman (Dalhousie University)
 Studying the epoch of inflation with the cosmic microwave background
