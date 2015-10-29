@@ -245,3 +245,7 @@ Cosmic strings
 SCG-2015-09 [1509.02461]
 POLARBEAR Collaboration
 POLARBEAR Constraints on Cosmic Birefringence and Primordial Magnetic Fields
+
+SCG-2015-10 [1510.08216]
+G.-B.~Zhao et. al.
+The extended Baryon Oscillation Spectroscopic Survey (eBOSS): a cosmological forecast
