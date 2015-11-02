@@ -4,6 +4,16 @@
     <P ALIGN=center><IMG SRC="images/2009-09-10.jpg" WIDTH="586" HEIGHT="300" BORDER="3" ALT="SFU Cosmology Group, 2009/09/10"><BR>
     <FONT SIZE="-3">Alkistis Pourtsidou, Hasmik Hayrapetyan, Alireza Hojjati, Levon Pogosian, Andrei Frolov, Jun-Qi Guo, Aaron Berndsen (2009/09/10)</FONT></P>
     
+    #if $seminars.future
+    <BLOCKQUOTE>
+    <H2 ALIGN="center">Next Seminar:</H2>
+    #for $s in $seminars.next
+        $s.date.strftime('%F&nbsp;%R')&nbsp;in&nbsp;$s.place -
+        <A HREF="seminars/"><B>$s.speaker ($s.affiliation):</B> $s.title</A>
+    #end for
+    </BLOCKQUOTE>
+    #end if
+    
     <BLOCKQUOTE>
     <H2 ALIGN="center">CCGRRA-16:</H2>
     Canadian Conference on General Relativity and Relativistic Astrophysics is coming to SFU this summer! 16th meeting in the longest running Canadian series in the field will be held 6-8 July 2016 at SFU Segal Building in downtown Vancouver. Visit <A HREF="http://www.sfu.ca/physics/cosmology/CCGRRA-16/">conference website</A> for information and to register.
@@ -23,16 +33,6 @@
     In January 2015, we organized a three day workshop on various ways of testing gravity - cosmological, astrophysical and terrestrial. This is a topical theme, in part because of the growing interest in modified gravity theories motivated by the unexplained nature of dark matter and dark energy, and in part by improving technologies that open opportunities for new types of tests. The workshop brought together experimentalists, observers and theorists, with a mixture of invited and contributed talks, and plenty of time for discussions. The meeting took place 15-17 January 2015 at SFU Harbour Center, with a one day school on cosmology and gravity for students will directly preceding the main workshop. Visit <A HREF="http://www.sfu.ca/physics/cosmology/TestingGravity2015/">conference website</A> for talks and photos.
     </BLOCKQUOTE>
     <BR>
-    
-    #if $seminars.future
-    <BLOCKQUOTE>
-    <H2 ALIGN="center">Next Seminar:</H2>
-    #for $s in $seminars.next
-        $s.date.strftime('%F&nbsp;%R')&nbsp;in&nbsp;$s.place -
-        <A HREF="seminars/"><B>$s.speaker ($s.affiliation):</B> $s.title</A>
-    #end for
-    </BLOCKQUOTE>
-    #end if
     
     <P ALIGN=center>
     For seminars and other local announcements, please subscribe to
