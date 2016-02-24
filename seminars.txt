@@ -1,3 +1,10 @@
+March 1, 2016, 15:00 in P8445B
+Prof. Gabor Kunstatter (University of Winnipeg)
+Formation and evaporation of nonsingular black holes in new 2d gravity
+
+I will first briefly review the key features of the black hole information loss paradox and the famous &quot;firewall&quot; resolution of Almheiri, Marolf, Polchinski and Susskind. I will then go on to describe my own work on a different, considerably more mundane solution to the problem based on the observation that the singularity at the center of all black holes lies at the heart of the information loss conundrum. Specifically, I will present a new class of 2D effective actions that can be used to describe the formation and evaporation of non-singular black holes. We are currently completing numerical calculations that will hopefully show that the usual event horizon of the black holes in these theories is replaced by a compact trapping horizon that allows the information  to emerge gradually as the black hole evaporates, thereby solving the information loss conundrum.
+
+
 November 6, 2015 at 14:30 in C9000
 Prof. John Kormendy (University of Texas at Austin)
 Supermassive black holes in galaxy nuclei: Coevolution (or not) of black holes and host galaxies (physics colloquium)
