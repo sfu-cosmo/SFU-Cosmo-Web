@@ -1,3 +1,10 @@
+March 17, 2016, 14:30 in P8445B
+Prof. Francesc Ferrer (Washington University in St Louis)
+Managing astrophysical uncertainties in dark matter detection
+
+Save for its gravitational effects, very little is known about the composition of the dark matter in the universe. An attractive candidate for making up the dark matter is a weakly interacting massive particle (WIMP), that could be unveiled through its weak-scale interactions using two complementary approaches: direct and indirect detection. Although these programs have attained the sensitivity to probe the particle physics properties in a vast range of WIMP scenarios, they are hampered by uncertainties in the required astrophysical input. In this talk I will review our present understanding of the density and velocity distribution of the dark matter halo, and describe several efforts to constrain the WIMP scattering cross section using observables that are largely halo-independent. Finally, I will show that, by combining null results from direct detection experiments and neutrino telescopes, it is possible to set an upper limit on the scattering cross section independently of the velocity distribution.
+
+
 March 1, 2016, 15:00 in P8445B
 Prof. Gabor Kunstatter (University of Winnipeg)
 Formation and evaporation of nonsingular black holes in new 2d gravity
