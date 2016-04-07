@@ -253,3 +253,7 @@ The extended Baryon Oscillation Spectroscopic Survey (eBOSS): a cosmological for
 SCG-2015-11 [1511.05962]
 A.~Hojjati, A.~Plahn, A.~Zucca, L.~Pogosian, P.~Brax, A.-C.~Davis, annd G.-B.~Zhao
 Searching for scalar gravitational interactions in current and future cosmological data
+
+SCG-2016-01 [1604.01029]
+Planck Collaboration
+Planck intermediate results. XLIV. The structure of the Galactic magnetic field from dust polarization maps of the southern Galactic cap
