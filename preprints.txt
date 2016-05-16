@@ -257,3 +257,11 @@ Searching for scalar gravitational interactions in current and future cosmologic
 SCG-2016-01 [1604.01029]
 Planck Collaboration
 Planck intermediate results. XLIV. The structure of the Galactic magnetic field from dust polarization maps of the southern Galactic cap
+
+SCG-2016-02 [1605.02985]
+Planck Collaboration
+Planck 2016 intermediate results. XLVI. Reduction of large-scale systematic effects in HFI polarization maps and estimation of the reionization optical depth
+
+SCG-2016-03 [1605.03507]
+Planck Collaboration
+Planck 2016 intermediate results. XLVII. Planck constraints on reionization history
