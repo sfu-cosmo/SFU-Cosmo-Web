@@ -265,3 +265,11 @@ Planck 2016 intermediate results. XLVI. Reduction of large-scale systematic effe
 SCG-2016-03 [1605.03507]
 Planck Collaboration
 Planck 2016 intermediate results. XLVII. Planck constraints on reionization history
+
+SCG-2016-04 [1605.08633]
+Planck Collaboration
+Planck intermediate results. XLIX. Parity-violation constraints from polarization data
+
+SCG-2016-05 [1605.09387]
+Planck Collaboration
+Planck intermediate results. XLVIII. Disentangling Galactic dust emission and cosmic infrared background anisotropies
