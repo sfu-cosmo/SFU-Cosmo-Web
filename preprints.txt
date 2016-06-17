@@ -273,3 +273,7 @@ Planck intermediate results. XLIX. Parity-violation constraints from polarizatio
 SCG-2016-05 [1605.09387]
 Planck Collaboration
 Planck intermediate results. XLVIII. Disentangling Galactic dust emission and cosmic infrared background anisotropies
+
+SCG-2016-06 [1606.05339]
+L.~Pogosian and A.~Silvestri
+What can Cosmology tell us about Gravity? Constraining Horndeski with Sigma and Mu
