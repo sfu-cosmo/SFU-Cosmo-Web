@@ -277,3 +277,7 @@ Planck intermediate results. XLVIII. Disentangling Galactic dust emission and co
 SCG-2016-06 [1606.05339]
 L.~Pogosian and A.~Silvestri
 What can Cosmology tell us about Gravity? Constraining Horndeski with Sigma and Mu
+
+SCG-2016-07 [1606.07335]
+Planck Collaboration
+Planck intermediate results. L. Evidence for spatial variation of the polarized thermal dust spectral energy distribution and implications for CMB B-mode analysis
