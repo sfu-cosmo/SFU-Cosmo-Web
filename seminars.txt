@@ -2,7 +2,7 @@ August 4, 2016, 14:30 in P8445B
 Dr. Alexander Vikman (IoP of the Czech Academy of Sciences)
 Canonical Exorcism for Cosmological Ghosts
 
-TBA
+We discuss time-dependent classical and quantum canonical transformation. In particular, we demonstrated that for the quantum canonical transformations the Hamiltonian is transformed as a connection in non-abelian gauge theories. We explicitly construct such quantum and classical transformations which change the sign the Hamiltonian. Hence one can canonically transform a ghost into a field with the correct standard sign in front of the quadratic action. Therefore the usual naive criteria for the presence or absence of ghost-like vacuum instabilities on time-dependent backgrounds are not well physically motivated and the actual information about instabilities is hidden in the interactions.
 
 
 March 17, 2016, 14:30 in P8445B
