@@ -281,3 +281,7 @@ What can Cosmology tell us about Gravity? Constraining Horndeski with Sigma and 
 SCG-2016-07 [1606.07335]
 Planck Collaboration
 Planck intermediate results. L. Evidence for spatial variation of the polarized thermal dust spectral energy distribution and implications for CMB B-mode analysis
+
+SCG-2016-08 [1609.04770]
+J.~T.~Gálvez Ghersi, A.~V.~Frolov
+Two-point correlators revisited: Fast and slow scales in multifield models of inflation
