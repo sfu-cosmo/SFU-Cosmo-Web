@@ -283,5 +283,9 @@ Planck Collaboration
 Planck intermediate results. L. Evidence for spatial variation of the polarized thermal dust spectral energy distribution and implications for CMB B-mode analysis
 
 SCG-2016-08 [1609.04770]
-J.~T.~Gálvez Ghersi, A.~V.~Frolov
+J.~T.~Gálvez~Ghersi, A.~V.~Frolov
 Two-point correlators revisited: Fast and slow scales in multifield models of inflation
+
+SCG-2016-09 [1608.02487]
+Planck Collaboration
+Planck 2016 intermediate results. LI. Features in the cosmic microwave background temperature power spectrum and shifts in cosmological parameters
