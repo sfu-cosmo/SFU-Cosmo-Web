@@ -289,3 +289,7 @@ Two-point correlators revisited: Fast and slow scales in multifield models of in
 SCG-2016-09 [1608.02487]
 Planck Collaboration
 Planck 2016 intermediate results. LI. Features in the cosmic microwave background temperature power spectrum and shifts in cosmological parameters
+
+SCG-2016-10 [1610.02743]
+K.~N.~Abazajian et.~al.
+CMB-S4 Science Book, First Edition
