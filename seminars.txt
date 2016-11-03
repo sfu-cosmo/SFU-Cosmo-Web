@@ -1,3 +1,16 @@
+October 14, 2016, 14:30 in C9000
+Prof. Keith Vanderlinde (Dunlap Institute)
+Cosmology, cell phones, and video games: Mapping dark energy with CHIME (physics colloquium)
+
+Among the great surprises of modern cosmology was the discovery of Dark Energy, which dominates the energy budget of the Universe and is driving the acceleration of its expansion rate. Decyphering its properties and nature will require novel measurements spanning vast swaths of the observable Universe. In this talk, I will introduce the Canadian Hydrogen Intensity Mapping Experiment (CHIME), an ambitious project to study Dark Energy by tracing out 4 billion years of cosmic history, using a purpose-built radio telescope at the Dominion Radio Astrophysical Observatory (DRAO) in B.C.’s Okanagan Valley.
+
+Hydrogen Intensity (HI) mapping uses redshifted 21cm emission from neutral hydrogen as a 3D tracer of Large Scale Structure (LSS) in the Universe. Imprinted in the LSS is a remnant of acoustic waves which propagated through the primordial plasma of the nascent cosmos. This "Baryon Acoustic Oscillation" (BAO) feature, which appears as a spatial correlation of LSS, can be used as a standard ruler to trace the expansion history of the Universe, thereby allowing us to constrain the Dark Energy equation of state.
+
+CHIME is a transit interferometer with no moving parts, which uses a massive computing backend to image the radio sky from 400-800MHz, corresponding to 21cm radiation emanating from a redshift range of 0.8 < z < 2.5. Earth rotation sweeps its field of view across the sky, resulting in complete daily coverage of the northern celestial hemisphere and an unprecedented survey sensitivity.
+
+I wil discuss the motivation, design, and progress on CHIME and its reduced-scale Pathfinder, as well as a pair of extensions which will probe the high-cadence time-domain radio sky, monitoring radio pulsars and exploring a more recent mystery in radio astronomy, the possibly-cosmological Fast Radio Bursts.
+
+
 August 4, 2016, 14:30 in P8445B
 Dr. Alexander Vikman (IoP of the Czech Academy of Sciences)
 Canonical Exorcism for Cosmological Ghosts
