@@ -251,7 +251,7 @@ G.-B.~Zhao et. al.
 The extended Baryon Oscillation Spectroscopic Survey (eBOSS): a cosmological forecast
 
 SCG-2015-11 [1511.05962]
-A.~Hojjati, A.~Plahn, A.~Zucca, L.~Pogosian, P.~Brax, A.-C.~Davis, annd G.-B.~Zhao
+A.~Hojjati, A.~Plahn, A.~Zucca, L.~Pogosian, P.~Brax, A.-C.~Davis, and G.-B.~Zhao
 Searching for scalar gravitational interactions in current and future cosmological data
 
 SCG-2016-01 [1604.01029]
@@ -293,3 +293,7 @@ Planck 2016 intermediate results. LI. Features in the cosmic microwave backgroun
 SCG-2016-10 [1610.02743]
 K.~N.~Abazajian et.~al.
 CMB-S4 Science Book, First Edition
+
+SCG-2016-11 [1611.00757]
+A.~Zucca, Y.~Li, and L.~Pogosian
+Constraints on primordial magnetic fields from Planck combined with the South Pole Telescope CMB B-mode polarization measurements
