@@ -1,3 +1,10 @@
+January 24, 2017, 14:00 in P8445B
+Prof. Daniele Steer (APC, Paris 7)
+Alternatives to General Relativity: Counting the degrees of freedom in "Horndeski-like" theories
+
+Scalar-tensor theories of gravity are widely used in cosmology and extensions of general relativity, with applications ranging from inflation to the late-time observed acceleration of the Universe, and tests of gravitation. In this talk we focus on so-called "Horndeski-like" theories - scalar-tensor theories in 4 dimensions having field equations (both for the metric and the scalar) with derivatives of order less than or equal to two - as well as some extensions of these which have been proposed recently. As we will discuss, having covariant second-order field equations is a priori enough, once diffeomorphism invariance is taken into account, to have just 3 propagating degrees of freedom in vacuum (counting 2 for the metric and 1 for the scalar), and to put the theory on the safe side as far as Ostrogradski’s type of instability is concerned. But there seem to be exceptions: indeed the extensions mentioned above appear to have higher order equations of motion and yet propagate 3 degrees of freedom. We will try to clarify these different points, all of which are relevant for the applications of these theories.
+
+
 October 14, 2016, 14:30 in C9000
 Prof. Keith Vanderlinde (Dunlap Institute)
 Cosmology, cell phones, and video games: Mapping dark energy with CHIME (physics colloquium)

@@ -297,3 +297,8 @@ CMB-S4 Science Book, First Edition
 SCG-2016-11 [1611.00757]
 A.~Zucca, Y.~Li, and L.~Pogosian
 Constraints on primordial magnetic fields from Planck combined with the South Pole Telescope CMB B-mode polarization measurements
+
+SCG-2016-12 [1612.07151]
+Planck Collaboration
+Planck intermediate results. LII. Planet flux densities
+
