@@ -302,3 +302,10 @@ SCG-2016-12 [1612.07151]
 Planck Collaboration
 Planck intermediate results. LII. Planet flux densities
 
+SCG-2017-01 [1701.07180]
+C.~Tang and A.~V.~Frolov 
+Eigenvalue and eigenfunction for the PT-symmetric potential V=−(ix)<sup>N</sup>
+
+SCG-2017-02 [1701.08165]
+G.-B.~Zhao et.~al.
+The clustering of galaxies in the completed SDSS-III Baryon Oscillation Spectroscopic Survey: Examining the observational evidence for dynamical dark energy

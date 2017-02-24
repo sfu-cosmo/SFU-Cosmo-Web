@@ -1,3 +1,20 @@
+April 4, 2017, 14:00 in P8445B
+Dr. Kiyoshi Masui (UBC)
+Fast Radio Bursts
+
+TBA
+
+
+January 31, 2017, 14:00 in P8445B
+Prof. David Langlois (APC, Paris)
+Degenerate higher order scalar tensor theories beyond Horndeski
+
+This seminar will present scalar tensor theories whose Lagrangian contains second order
+derivatives of a scalar field and which propagate only one scalar mode, in addition to the
+two tensor modes. These theories encompass and extend the so-called Horndeski theories. I
+will discuss some phenomenological aspects of these new theories.
+
+
 January 24, 2017, 14:00 in P8445B
 Prof. Daniele Steer (APC, Paris 7)
 Alternatives to General Relativity: Counting the degrees of freedom in "Horndeski-like" theories
