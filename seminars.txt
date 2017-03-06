@@ -5,6 +5,13 @@ Fast Radio Bursts
 TBA
 
 
+March 10, 2017 at 14:30 in C9000
+Prof. Mark Van Raamsdonk (UBC)
+Gravity and Entanglement (physics colloquium)
+
+The AdS/CFT correspondence from string theory provides a quantum theory of gravity in which spacetime and gravitational physics emerge from an ordinary non-gravitational quantum system with many degrees of freedom. In this talk, I will explain how quantum entanglement between these degrees of freedom is crucial for the emergence of a classical spacetime, and describe progress in understanding how spacetime dynamics (gravitation) arises from the physics of quantum entanglement.
+
+
 January 31, 2017, 14:00 in P8445B
 Prof. David Langlois (APC, Paris)
 Degenerate higher order scalar tensor theories beyond Horndeski
