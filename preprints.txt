@@ -309,3 +309,7 @@ Eigenvalue and eigenfunction for the PT-symmetric potential V=−(ix)<sup>N</sup
 SCG-2017-02 [1701.08165]
 G.-B.~Zhao et.~al.
 The clustering of galaxies in the completed SDSS-III Baryon Oscillation Spectroscopic Survey: Examining the observational evidence for dynamical dark energy
+
+SCG-2017-03 [1703.05297]
+M.~Raveri, P.~Bull, A.~Silvestri, and L.~Pogosian
+Priors on the effective Dark Energy equation of state in scalar-tensor theories
