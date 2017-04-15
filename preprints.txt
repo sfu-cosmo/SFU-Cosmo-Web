@@ -313,3 +313,7 @@ The clustering of galaxies in the completed SDSS-III Baryon Oscillation Spectros
 SCG-2017-03 [1703.05297]
 M.~Raveri, P.~Bull, A.~Silvestri, and L.~Pogosian
 Priors on the effective Dark Energy equation of state in scalar-tensor theories
+
+SCG-2017-04 [1704.04114]
+A.~V.~Frolov, J.~T.~Gálvez~Ghersi, and A.~Zucca
+Nowhere to hide: Unscreening scalarons with a black hole
