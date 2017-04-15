@@ -1,8 +1,8 @@
 April 4, 2017, 14:00 in P8445B
 Dr. Kiyoshi Masui (UBC)
-Fast Radio Bursts
+Fast Radio Bursts: Mysterious flashes from cosmological distances
 
-TBA
+Fast radio bursts (FRBs) are a recently discovered and poorly understood class of astronomical transient, observed at gigahertz frequencies and with millisecond durations. The dispersion of these signals by intervening plasma indicates that the sources are extragalactic and may even be at cosmological distances. Their high rate (with thousands occurring daily) and extreme brightnesses have made them challenging to explain theoretically. This challenge has been exacerbated by the fact that only a few dozen bursts have been captured to date, and by the limited information garnered from each event. However, 2016 was a bumper year for FRBs observationally, culminating in the identification of an FRB's host galaxy. I will summarize these recent results as well as describe the CHIME/FRB project, which will observe thousands of bursts starting later in 2017.
 
 
 March 10, 2017 at 14:30 in C9000
