@@ -1,5 +1,6 @@
-#import datetime, seminars, os.path
-#set $mtime = os.path.getmtime("webcal.tmpl")
+#import datetime, os.path
+#import parser.seminars as seminars
+#set $mtime = os.path.getmtime("template/seminars/webcal.tmpl")
 #set $mtime = datetime.datetime.fromtimestamp(mtime)
 #set $today = datetime.datetime.today()
 #set $duration = datetime.timedelta(hours=1)

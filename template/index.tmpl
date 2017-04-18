@@ -1,10 +1,11 @@
+#encoding UTF-8
 #attr $title= 'SFU Cosmology Group'
 #def content
-#import seminars
-    #if $seminars.future
+#import parser.seminars as seminars
+    #if seminars.future
     <BLOCKQUOTE>
     <H2 ALIGN="center">Next Seminar:</H2>
-    #for $s in $seminars.next
+    #for $s in seminars.next
         $s.date.strftime('%F&nbsp;%R')&nbsp;in&nbsp;$s.place -
         <A HREF="seminars/"><B>$s.speaker ($s.affiliation):</B> $s.title</A>
     #end for

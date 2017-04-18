@@ -1,12 +1,13 @@
+#encoding UTF-8
 #attr $page = 'preprints'
 #attr $trail = ['<a href="preprints.html">Preprints</a>']
 #attr $title = 'SFU Cosmology Preprints'
 #def content
-#import preprints
+#import parser.preprints as papers
     
     <DL>
     #set y = None
-    #for $p in $preprints.all
+    #for $p in papers.all
     #if $y != $p.year
         #set y = p.year
         <BR><H2 ALIGN="center">$p.year</H2>

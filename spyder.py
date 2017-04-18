@@ -24,6 +24,6 @@ def crawl(file, visited):
     
     return visited
 
-site = list(crawl('.', set())); site.sort()
+site = list(crawl('html/', set())); site.sort()
 
 for i in site: print i

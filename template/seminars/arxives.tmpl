@@ -1,18 +1,19 @@
+#encoding UTF-8
 #attr $root = '../'
 #attr $page = 'seminars/arxiv'
 #attr $trail = ['<a href="index.html">Seminars</a>', '<a href="arxives.html">Archives</a>']
 #attr $title= 'SFU Cosmology Seminar Archives'
 #def content
-#import seminars
+#import parser.seminars as seminars
     
     <P ALIGN="center">[ <A HREF="index.html">Return to current seminar schedule</A> ]</P>
     <HR>
     
-    #for $y in reversed($seminars.years)
+    #for $y in reversed(seminars.years)
     <BLOCKQUOTE>
     <H2 ALIGN="center">$y</H2>
     <TABLE CLASS="index">
-        #for $s in reversed($seminars.year($y))
+        #for $s in reversed(seminars.year($y))
         <TR>
             <TD>$s.date.strftime('%F %R') in&nbsp;$s.place</TD>
             <TD>- <A HREF="${s.date.strftime('%F')}.html"><B>$s.speaker ($s.affiliation):</B> $s.title</A></TD>
