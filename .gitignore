@@ -1,0 +1,7 @@
+# compiled Python
+*.py[cod]
+
+# generated data
+compiled/*
+html/*
+
