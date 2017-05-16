@@ -1,6 +1,9 @@
 # compiled Python
 *.py[cod]
 
+# artwork sources
+artwork/*
+
 # generated data
 compiled/*
 html/*
