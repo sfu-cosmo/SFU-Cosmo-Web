@@ -317,3 +317,7 @@ Priors on the effective Dark Energy equation of state in scalar-tensor theories
 SCG-2017-04 [1704.04114]
 A.~V.~Frolov, J.~T.~Gálvez~Ghersi, and A.~Zucca
 Nowhere to hide: Unscreening scalarons with a black hole
+
+SCG-2017-05 [1707.00132]
+Planck Collaboration
+Planck intermediate results. LIII. Detection of velocity dispersion from the kinetic Sunyaev-Zeldovich effect
