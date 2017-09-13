@@ -1,3 +1,10 @@
+October 4, 2017, 13:30 in P8445A
+Dr. Gwendolyn Eadie (University of Washington)
+The Milky Way meets Hierarchical Bayes
+
+The Milky Way's fundamental properties, such as its total mass, are useful for placing our Galaxy in the context of other galaxies, and for testing cosmological theories about galaxy formation, evolution, and dark matter content. In this talk, I will present a hierarchical Bayesian method I have developed to measure the total mass and cumulative mass profile of the Milky Way. I will also discuss our most recent results, which include: (1) estimates for the Milky Way's mass when the method is applied to real globular cluster data, and (2) estimates for simulated Milky-Way type galaxies from the cosmological, hydrodynamical McMaster Unbiased Galaxy Simulations. I will summarize the implications of these results and how they are directing our future studies of the Milky Way.
+
+
 April 4, 2017, 14:00 in P8445B
 Dr. Kiyoshi Masui (UBC)
 Fast Radio Bursts: Mysterious flashes from cosmological distances
