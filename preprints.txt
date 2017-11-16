@@ -321,3 +321,7 @@ Nowhere to hide: Unscreening scalarons with a black hole
 SCG-2017-05 [1707.00132]
 Planck Collaboration
 Planck intermediate results. LIII. Detection of velocity dispersion from the kinetic Sunyaev-Zeldovich effect
+
+SCG-2017-06 [1711.04234]
+J.~T.~Gálvez~Ghersi, M.~J.~Desrochers, M.~Protter, and A.~DeBenedictis
+Hamiltonian consistency of the gravitational constraint algebra under deformations
