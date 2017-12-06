@@ -325,3 +325,7 @@ Planck intermediate results. LIII. Detection of velocity dispersion from the kin
 SCG-2017-06 [1711.04234]
 J.~T.~Gálvez~Ghersi, M.~J.~Desrochers, M.~Protter, and A.~DeBenedictis
 Hamiltonian consistency of the gravitational constraint algebra under deformations
+
+SCG-2017-07 [1712.00444]
+S.~Peirone, K.~Koyama, L.~Pogosian, M.~Raveri, and A.~Silvestri
+Large-scale structure phenomenology of viable Horndeski theories
