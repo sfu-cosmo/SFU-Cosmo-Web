@@ -329,3 +329,7 @@ Hamiltonian consistency of the gravitational constraint algebra under deformatio
 SCG-2017-07 [1712.00444]
 S.~Peirone, K.~Koyama, L.~Pogosian, M.~Raveri, and A.~Silvestri
 Large-scale structure phenomenology of viable Horndeski theories
+
+SCG-2017-08 [1712.10272]
+D.~A.~Dobre, A.~V.~Frolov, J.~T.~Gálvez~Ghersi, S.~Ramazanov, and A.~Vikman
+Unbraiding the Bounce: superluminality around the corner
