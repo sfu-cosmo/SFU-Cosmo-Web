@@ -7,7 +7,7 @@ In this talk I will argue that general relativity may be viewed as a useful limi
 
 October 4, 2017, 13:30 in P8445B
 Dr. Gwendolyn Eadie (University of Washington)
-The Milky Way meets Hierarchical Bayes
+The Milky Way meets hierarchical Bayes
 
 The Milky Way's fundamental properties, such as its total mass, are useful for placing our Galaxy in the context of other galaxies, and for testing cosmological theories about galaxy formation, evolution, and dark matter content. In this talk, I will present a hierarchical Bayesian method I have developed to measure the total mass and cumulative mass profile of the Milky Way. I will also discuss our most recent results, which include: (1) estimates for the Milky Way's mass when the method is applied to real globular cluster data, and (2) estimates for simulated Milky-Way type galaxies from the cosmological, hydrodynamical McMaster Unbiased Galaxy Simulations. I will summarize the implications of these results and how they are directing our future studies of the Milky Way.
 
@@ -21,7 +21,7 @@ Fast radio bursts (FRBs) are a recently discovered and poorly understood class o
 
 March 10, 2017 at 14:30 in C9000
 Prof. Mark Van Raamsdonk (UBC)
-Gravity and Entanglement (physics colloquium)
+Gravity and entanglement (physics colloquium)
 
 The AdS/CFT correspondence from string theory provides a quantum theory of gravity in which spacetime and gravitational physics emerge from an ordinary non-gravitational quantum system with many degrees of freedom. In this talk, I will explain how quantum entanglement between these degrees of freedom is crucial for the emergence of a classical spacetime, and describe progress in understanding how spacetime dynamics (gravitation) arises from the physics of quantum entanglement.
 
@@ -58,7 +58,7 @@ I wil discuss the motivation, design, and progress on CHIME and its reduced-scal
 
 August 4, 2016, 14:30 in P8445B
 Dr. Alexander Vikman (IoP of the Czech Academy of Sciences)
-Canonical Exorcism for Cosmological Ghosts
+Canonical exorcism for cosmological ghosts
 
 We discuss time-dependent classical and quantum canonical transformation. In particular, we demonstrated that for the quantum canonical transformations the Hamiltonian is transformed as a connection in non-abelian gauge theories. We explicitly construct such quantum and classical transformations which change the sign the Hamiltonian. Hence one can canonically transform a ghost into a field with the correct standard sign in front of the quadratic action. Therefore the usual naive criteria for the presence or absence of ghost-like vacuum instabilities on time-dependent backgrounds are not well physically motivated and the actual information about instabilities is hidden in the interactions.
 
@@ -159,7 +159,7 @@ TBA
 
 October 3, 2014, 14:30 in AQ3005
 Prof. Gabor Kunstatter (University of Winnipeg)
-The Black Hole Information Loss Problem: Is there light at the end of the tunnel? (physics colloquium)
+The black hole information loss problem: Is there light at the end of the tunnel? (physics colloquium)
 
 There is substantial evidence that black holes exist in binary star systems
 and at the center of most galaxies, including our own. Hawking's famous
@@ -184,7 +184,7 @@ evaporation process.
 
 October 2, 2014, 16:00 in P8445A
 Prof. Gabor Kunstatter (University of Winnipeg)
-The Stability of AdS Spacetime in Einstein-Gauss-Bonnet Gravity
+The stability of AdS spacetime in Einstein-Gauss-Bonnet gravity
 
 Recently it has been argued that spherically symmetric AdS spacetime is
 unstable against the formation of black holes for a large class of arbitrarily
@@ -264,7 +264,7 @@ the data any more.
 
 March 4, 2014, 14:00 in P8445B
 Prof. Thomas Kephart (Vanderbilt University)
-Helicity Conservation and Generalized Beltrami Fields
+Helicity conservation and generalized Beltrami fields
 
 We'll start with a review of magnetic helicity and the related Beltrami
 equation and then provide relativistic and non-abelian generalizations.
@@ -495,7 +495,7 @@ phenomena and how they can impact the estimation of cosmological parameters.
 
 March 8, 2012, 14:00 in P8445B
 Prof. Jarah Evslin (IHEP, Beijing)
-Galaxy-Sized Monopoles as Dark Matter?
+Galaxy-sized monopoles as dark matter?
 
 I describe work in progress on a proposed dark matter candidate: giant 't
 Hooft-Polyakov monopoles in a new, extremely weakly coupled, dark nonabelian
@@ -510,7 +510,7 @@ Microlensing, wide binary and bullet cluster bounds are easily satisfied.
 
 February 23, 2012, 14:00 in P8445B
 Prof. Jonathan Thornburg (Indiana University)
-Modelling Extreme Mass Ratio Binary Black Hole Inspirals for eLISA
+Modelling extreme mass ratio binary black hole inspirals for eLISA
 
 Consider a stellar-mass black hole (mass &sim; 10 solar masses) in a
 close orbit around a supermassive black hole (mass &sim; 10<sup>6</sup> solar
@@ -532,7 +532,7 @@ observatory.
 
 February 7, 2012, 14:00 in P8445B
 Prof. Scott Dodelson (Fermilab)
-Gravitational Lensing
+Gravitational lensing
 
 One of the most powerful probes of dark energy is weak gravitational lensing.
 After reviewing the prospects for future measurements of lensing and the
@@ -557,7 +557,7 @@ sets for Planck and a Euclid-like mission.
 
 November 29, 2011, 14:00 in P8445B
 Daniel Thomas (Imperial College)
-Making Gravity Count: Cluster Numbers and other cosmological observables in Model Independent Modified Gravity
+Making gravity count: Cluster numbers and other cosmological observables in model independent modified gravity
 
 Model-independent parameterisations of modified gravity have attracted
 a lot of attention over the past few years and numerous combinations of
@@ -577,7 +577,7 @@ gravity context, using the results of a suite of N-body simulations.
 
 November 25, 2011, 14:30 in AQ3149
 Prof. Levon Pogosian (SFU)
-Lambda, W and Beyond (physics colloquium)
+Lambda, w and beyond (physics colloquium)
 
 Accelerating expansion of the universe is well-established, but the physics
 behind it remains unknown. While the cosmological constant, Lambda, seems like
@@ -605,7 +605,7 @@ metric and the coordinate systems.
 
 November 15, 2011, 14:00 in P8445B
 Archisman Ghosh (University of Kentucky)
-Cosmological Singularities and AdS/CFT
+Cosmological singularities and AdS/CFT
 
 Singularities in general relativity are expected to be cured by a quantum
 theory of gravity. String theory is a prospective candidate for quantum
@@ -623,7 +623,7 @@ and a possible formation of a small black hole after the bounce.
 
 October 21, 2011, 15:30 in AQ3149
 Prof. Andrei Frolov (SFU)
-Staring at the Sky (physics colloquium)
+Staring at the sky (physics colloquium)
 
 Cosmic microwave background (CMB) carries to us a snapshot of the Universe
 from the times when it was much younger than it is today. Small anisotropies
@@ -640,7 +640,7 @@ could tell us about the early Univese physics.
 
 November 1, 2011, 14:00 in P8445B
 Prof. Andrei Frolov (SFU)
-Critical Collapse and Solitons in Classical Conformal Field Theory
+Critical collapse and solitons in classical conformal field theory
 
 I will talk about the fate of a localized wavepacket in a classical
 conformal field theory with attractive interaction
@@ -680,7 +680,7 @@ powerful test of the growth of the structure.
 
 October 25, 2011, 14:00 in P8445B
 Ali Narimani (UBC)
-Dimensionless Cosmology
+Dimensionless cosmology
 
 Although it is possible that some fundamental physical constants could vary in
 time, it is important to only consider dimensionless combinations, such as the
@@ -700,7 +700,7 @@ epoch.
 
 September 15, 2011, 14:00 in P8445B
 Prof. Tanmay Vachaspati (Arizona State University)
-Primordial Magnetic Fields from the Electroweak Epoch
+Primordial magnetic fields from the electroweak epoch
 
 I will discuss the generation of cosmological magnetic fields at the
 electroweak epoch, their evolution, and potential observational signatures.
@@ -738,7 +738,7 @@ Cosmological implications will be discussed.
 
 March 4, 2011, 15:30 in B9201
 Prof. Ed Copeland (University of Nottingham)
-Models of Dark Energy (physics colloquium)
+Models of dark energy (physics colloquium)
 
 I briefly review models of dark energy. These include models of a
 cosmological constant including those arising in string theory, and dynamical
@@ -751,14 +751,14 @@ compatible with observation.
 
 March 1, 2011, 14:00 in P8445B
 Prof. Ed Copeland (University of Nottingham)
-Scaling Solutions in Cosmology
+Scaling solutions in cosmology
 
 TBA
 
 
 January 14, 2011, 15:30 in AQ3154
 Prof. John Mather (NASA Goddard Space Flight Center)
-James Webb Space Telescope: Progress and Scientific Promise (physics colloquium)
+James Webb Space Telescope: Progress and scientific promise (physics colloquium)
 
 The James Webb Space Telescope is the planned successor for the Hubble Space
 Telescope, and will extend the reach of astronomers farther out in space and
@@ -794,7 +794,7 @@ presented.
 
 October 19, 2010, 14:00 in P8445B
 Dr. Adam Moss (UBC)
-Precision Cosmology Defeats Void Models for Acceleration
+Precision cosmology defeats void models for acceleration
 
 The suggestion that we occupy a privileged position near the centre of a
 large, nonlinear, and nearly spherical void has recently attracted much
@@ -827,7 +827,7 @@ signatures in the case |a<SUB>*</SUB>| > 1.
 
 September 22, 2010, 14:00 in P8445A
 Prof. Wolfgang Rau (Queen's University)
-Dark Matter Search with CDMS and SuperCDMS
+Dark matter search with CDMS and SuperCDMS
 
 Even though we know about its existence since more than
 3/4 of a century, we have yet to unveil the nature of the
@@ -849,7 +849,7 @@ the new Canadian underground laboratory near Sudbury, ON.
 
 September 14, 2010, 14:00 in P8445B
 Prof. Stephane Coutu (PennState)
-Highest Energy Physics with the Pierre Auger Observatory
+Highest energy physics with the Pierre Auger Observatory
 
 The Earth is continually bombarded by particles from the cosmos, the so-called
 cosmic rays discovered almost exactly 100 years ago by Viktor Hess. Some of
@@ -873,7 +873,7 @@ as will ongoing and future developments.
 
 February 9, 2010, 13:30 in P8445A
 Jun-Qi Guo (SFU)
-Dynamics of the Homogeneous Universe of the logarithmic f(R) model
+Dynamics of the homogeneous universe of the logarithmic f(R) model
 
 The universe is a dynamical system. In this talk, a short introduction to the
 dynamical analysis will be given. Its applications to cosmology that have been
@@ -884,7 +884,7 @@ give an expanding universe as we expected and a contracting one as well.
 
 January 12, 2010, 13:30 in P8445A
 Prof. Levon Pogosian (SFU)
-Cosmological Tests of General Relativity - A Look At The Principals
+Cosmological tests of General Relativity - A look at the principals
 
 Future weak lensing surveys will allow us to trace the evolution of galaxy
 clustering and gravitational potentials through multiple epochs -- the
@@ -902,7 +902,7 @@ scales on which data is most sensitive to the departures.
 
 December 3, 2009, 14:00 in P8445B
 Dr. Adam Moss (UBC)
-Dark energy: Violations of Isotropy and Homogeneity
+Dark energy: Violations of isotropy and homogeneity
 
 Dark energy is one of the biggest mysteries in cosmology. In this talk
 I discuss two alternatives, each with very different physical origins,
@@ -920,7 +920,7 @@ non-linear, and close to spherical underdense region of the Universe.
 
 December 3, 2009, 16:00 in P8445?
 Dr. Neil Barnaby (CITA)
-Nonlocal Inflation
+Nonlocal inflation
 
 The inflationary paradigm has been extremely successful in accounting
 for cosmological observations, however, it still lacks a firm motivation
@@ -939,7 +939,7 @@ order differential equations.
 
 December 1, 2009, 14:00 in P8445A
 Dr. Neil Barnaby (CITA)
-Nongaussian Fluctuations from Particle Production During Inflation
+Nongaussian fluctuations from particle production during inflation
 
 In a variety of inflation models, the motion of the inflaton may
 trigger the production of some iso-curvature particles during inflation,
@@ -957,7 +957,7 @@ theory and supersymmetry.
 
 November 3, 2009, 14:00 in P8445A
 Dr. Federico Urban (UBC)
-The QCD nature of Dark Energy
+The QCD nature of dark energy
 
 The origin of the observed dark energy could be explained entirely
 within the standard model, with no new fields required. I will show
@@ -1022,7 +1022,7 @@ detected or ruled out by near future observations.
 
 September 11, 2009, 14:30 in AQ3153
 Prof. Maxim Pospelov (University of Victoria/Perimeter)
-Dark Forces (physics colloquium)
+Dark forces (physics colloquium)
 
 Physics of dark matter and dark energy, discovered via their gravitational
 interaction, may hide further surprises. In my talk, I will review recent
@@ -1049,7 +1049,7 @@ particularly for non-gaussianities in the CMB.
 
 May 5, 2009, 14:00 in P8445B
 Prof. Justin Khoury (University of Pennsylvania)
-Cascading Gravity
+Cascading gravity
 
 TBA
 
@@ -1100,7 +1100,7 @@ emergent locality and matter.
 
 March 10, 2009, 14:00 in P8445A
 Prof. Phil Gregory (UBC)
-Mining for Extra-solar Planets with a Bayesian MCMC Kepler Periodogram
+Mining for extra-solar planets with a Bayesian MCMC Kepler periodogram
 
 Are we on the threshold of discovering life elsewhere in the
 universe? With the mounting discoveries of extra-solar planets there
@@ -1174,7 +1174,7 @@ as competing hypotheses to explain cosmic acceleration.
 
 February 3, 2009, 14:00 in P8445A
 Dr. Subinoy Das (UBC)
-Late Forming Dark Matter
+Late forming dark matter
 
 Similarity of energy densities of dark matter and dark
 energy at the present epoch motivates us to inquire about an unified
@@ -1231,7 +1231,7 @@ were seeded by thermal fluctuations of this gas of strings.
 
 October 2, 2008, 14:00 in IRMACS
 Prof. Andrei Frolov (SFU)
-A Singularity Problem with f(R) Dark Energy
+A singularity problem with f(R) dark energy
 
 I will talk about a curvature singularity problem appearing on
 non-linear level that generally plagues f(R) models that modify Einstein
@@ -1284,7 +1284,7 @@ large scale structure for the first time.
 
 April 1, 2008, 12:30 in IRMACS
 Dr. James Zibin (UBC)
-Restraining Void Models for Cosmological Acceleration
+Restraining void models for cosmological acceleration
 
 The last decade has seen the compilation of strong evidence that
 the expansion of the Universe is currently accelerating.  The source
@@ -1303,7 +1303,7 @@ spherical void background aimed at confronting with data.
 
 March 28, 2008, 14:30 in AQ3181
 Prof. Alexander Vilenkin (Tufts University)
-Many Worlds in One (physics colloquium)
+Many worlds in one (physics colloquium)
 
 Recent developments in cosmology suggest that the big bang was not a
 unique event in the cosmic history. Other bangs constantly erupt in
@@ -1330,14 +1330,14 @@ they could allow a glimpse of physics at energies we know very little about.
 
 February 7, 2008, 10:30 in IRMACS
 Prof. Scott Dodelson (Fermilab)
-Dark Matter vs. Modified Gravity
+Dark matter vs. modified gravity
 
 TBA
 
 
 February 7, 2008, 13:30 in SSB7172
 Prof. Scott Dodelson (Fermilab)
-Fundamental Physics from Space (special colloquium)
+Fundamental physics from space (special colloquium)
 
 The Standard Model of particle physics has been remarkably
 successful in explaining a wide variety of microscopic phenomena. This
@@ -1380,7 +1380,7 @@ results from WMAP.
 
 January 31, 2008, 13:00 in AQ4150
 Prof. Saurya Das (University of Lethbridge)
-Black Holes and the Problem of Information Loss (CAP Lecture)
+Black holes and the problem of information loss (CAP Lecture)
 
 Starting from two fundamental principles of physics, namely the maximum
 speed of propagation of signals (speed of light) and reference frame
@@ -1423,7 +1423,7 @@ scale-dependent manner.
 
 January 24, 2008, 13:30 in SSB7172
 Prof. John Moffat (University of Toronto/Perimeter)
-Modified Gravity and its Consequences for Astronomy, Astrophysics and Cosmology
+Modified gravity and its consequences for astronomy, astrophysics and cosmology
 
 The consequences of a modified gravity (MOG) are explored. The
 theory successfully explains the dispersion velocities of globular
@@ -1443,7 +1443,7 @@ make firm predictions that may be verifiable in the foreseeable future.
 
 November 13, 2007, 14:30 in SSB7172
 Dr. Gong-Bo Zhao (SFU)
-Dark Energy perturbation and its application on cosmology
+Dark energy perturbation and its application on cosmology
 
 Dark Energy (DE) is amongst the biggest enigma in modern cosmology. The
 nature of dark energy dominates the fate of our universe and the
@@ -1509,7 +1509,7 @@ Particle Physics?
 
 November 29, 2007, 14:30 in IRMACS
 Prof. Henk Hoekstra (University of Victoria)
-Weak Lensing by Large Scale Structure
+Weak lensing by large scale structure
 
 Intervening structures in the universe give rise to small distortions
 in the shapes of distant galaxies. By measuring this tiny coherent
@@ -1591,7 +1591,7 @@ of models of warped flux compactification.
 
 Apr 19, 2007, 13:00 in P8445B
 Dr. Eric Peng (HIA/DAO, Victoria)
-Globular Cluster Systems and the Early Evolution of Galaxies
+Globular cluster systems and the early evolution of galaxies
 
 Globular clusters are among the oldest stellar populations in the
 local Universe, thus providing a unique window onto the earliest
@@ -1658,7 +1658,7 @@ implications of the results that I obtain.
 
 March 8, 2007, 13:00 in P8445B
 Dr. Catherine Heymans (UBC)
-Probing Dark Matter and Dark Energy with weak gravitational lensing
+Probing dark matter and dark energy with weak gravitational lensing
 
 Cosmology is the scientific study of the Universe, striving to answer the most
 fundamental questions about its origin, history and future.  Already we know
@@ -1684,13 +1684,13 @@ the origin of the mysterious dark energy.
 
 Nov 23, 2006, 14:00 in P8445B
 Veselin Filev (University of Southern California)
-"Adding flavors in AdS/CFT correspondence"
+Adding flavors in AdS/CFT correspondence
 Guest string theory seminar hosted by the cosmology group
 
 
 Mar 22, 2007, 13:00 in P8445B
 Prof. Ira Wasserman (Cornell)
-"The Neutron Star in 1930 -- and Today (special colloquium)
+The neutron star in 1930 -- and today (special colloquium)
 
 The neutron had not yet been discovered in 1930, but it might have been.
 To understand neutron stars simply it is fun to ask how much could have
@@ -1703,7 +1703,7 @@ high density nuclear physics.
 
 Mar 23, 2007, 12:30 pm in P8445B
 Prof. Ira Wasserman (Cornell)
-"Dynamics of the r mode instability of neutron stars
+Dynamics of the r mode instability of neutron stars
 
 One of the most important questions in high energy astrophysics is what
 sets the fastest possible rotational frequencies of neutron stars.
@@ -1722,7 +1722,7 @@ star physics.
 
 1 February 2007, 13:00 in P8445B
 Dr. Adam Moss (UBC)
-Dark Energy and the Rubber Band
+Dark energy and the rubber band
 
 There is now strong evidence for an unknown form of dark energy
 pervading the universe. However, the microphysical explanation of this
@@ -1800,7 +1800,7 @@ delaying effect for thermalization.
 
 22 November 2006, 12:45 in P8445B
 Prof. Ingrid Stairs (UBC)
-Relativistic Binary Pulsars
+Relativistic binary pulsars
 
 Radio pulsars in double-neutron-star systems provide the best tests of
 strong-field gravitational theories. I will present recent observations
@@ -1815,7 +1815,7 @@ systems.
 
 4 October 2006, 12:45 in P8445A
 Dr. Serge Winitzki (Ludwig Maximilians University, Munich)
-Predictions in Eternally Inflating Universe
+Predictions in eternally inflating universe
 
 In generic models of cosmological inflation, quantum fluctuations
 strongly influence the spacetime metric and produce infinitely many
