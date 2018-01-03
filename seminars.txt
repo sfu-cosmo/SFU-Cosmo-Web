@@ -1,3 +1,10 @@
+January 6, 2018, 13:00 in P8445B
+Prof. Vitaly Vanchurin (University of Minnesota Duluth)
+General Relativity from non-equilibrium thermodynamics of quantum information
+
+In this talk I will argue that general relativity may be viewed as a useful limit of quantum mechanics with many degrees of freedom, very much like thermodynamics is a useful limit of classical mechanics with many degrees of freedom. First, I will construct statistical ensembles of ket-vectors using spatially covariant dual field theories with a metric tensor playing the role of a conjugate thermodynamic variable to the information tensor (which is related to both Fisher matrix and Fubini-Study metric). Secondly, I will analyze evolution of the ensembles of ket-vectors to argue that an approximate space-time covariance of the dual field theories can be achieved if certain quantum computational complexities are minimized. And finally, I will show that minimization of a non-equilibrium entropy production can lead to the Einstein-Hilbert dynamics of the metric tensor for a particularly simple and highly symmetric form of the Onsager tensor.
+
+
 October 4, 2017, 13:30 in P8445B
 Dr. Gwendolyn Eadie (University of Washington)
 The Milky Way meets Hierarchical Bayes
