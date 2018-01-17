@@ -1,3 +1,10 @@
+January 24, 2018, 14:30 in P8445B
+Dr. Yuri V. Gusev (Lebedev Research Center in Physics, Moscow)
+Thermal radiation of finite size emitters
+
+The thermal radiation laws of Planck, Stefan-Boltzmann and Wien are not exact in their textbook forms because any radiating body or cavity (emitter) has a finite size and a shape. The finite size effects are usually neglected because their magnitudes are assumed to be below experimental precisions. However the study of experimental data in the literature on the integral law of thermal radiation (Stefan-Boltzmann’s) shows that the leading order deviation defined by the boundary’s area, which erroneously was deemed nil in theoretical literature, is apparently observed. This term, first conjectured by H. Weyl, is proportional to the third power of temperature and inversely proportional to the emitter's effective size. The proposed formula is in agreement with a number of experiments and may be valid beyond the 'high temperature' approximation. The cubic temperature term explains an intrinsic uncertainty of the NPL radiometric determination of the Stefan-Boltzmann constant. It is apparent in the NIST calibrations of cryogenic blackbodies. Its relevance to the size of source effect in optical radiometry is proposed and supported by the thermal emission of nano-heaters. The finite-size contributions of thermal radiation have implications for fundamental and applied physics.
+
+
 January 16, 2018, 13:00 in P8445B
 Prof. Vitaly Vanchurin (University of Minnesota Duluth)
 General Relativity from non-equilibrium thermodynamics of quantum information
