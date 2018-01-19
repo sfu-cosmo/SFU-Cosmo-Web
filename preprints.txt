@@ -333,3 +333,7 @@ Large-scale structure phenomenology of viable Horndeski theories
 SCG-2017-08 [1712.10272]
 D.~A.~Dobre, A.~V.~Frolov, J.~T.~Gálvez~Ghersi, S.~Ramazanov, and A.~Vikman
 Unbraiding the Bounce: superluminality around the corner
+
+SCG-2018-01 [1801.04945]
+Planck Collaboration
+Planck intermediate results. LIV. Polarized dust foregrounds
