@@ -1,3 +1,10 @@
+January 31, 2018, 14:30 in P9449
+Prof. Gabor Kunstatter (University of Winnipeg)
+Gradient Flow of Holographic Superconductors
+
+High T<sub>C</sub> superconductors are now thought to be strongly coupled systems and hence difficult to analyze. The holography principle, specifically the AdS/CFT conjecture, may provide a mechanism for studying strongly coupled systems via the analysis of dual weakly coupled gravitational systems. Models for holographic superconductors were first proposed by Hartnoll et al almost 10 years ago. Gradient flow is a very general analogue of the heat equation: dT/dt = &alpha;<sup>2</sup> &nabla;<sup>2</sup> T and powerful theoretical tool for exploring a system's potential energy/free energy landscape.  In the case of ordinary superconductors it is the basis for the time dependent Ginsburg-Landau equations. After providing an introduction to AdS/CFT and gradient flow, I will describe work in progress whose ultimate goal is to shed light on the near equilibrium behaviour of strongly coupled  systems by studying gradient flow of the holographic superconductor.
+
+
 January 24, 2018, 14:30 in P8445B
 Dr. Yuri V. Gusev (Lebedev Research Center in Physics, Moscow)
 Thermal radiation of finite size emitters
