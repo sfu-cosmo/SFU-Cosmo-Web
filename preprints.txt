@@ -337,3 +337,7 @@ Unbraiding the Bounce: superluminality around the corner
 SCG-2018-01 [1801.04945]
 Planck Collaboration
 Planck intermediate results. LIV. Polarized dust foregrounds
+
+SCG-2018-02 [1801.08936]
+L.~Pogosian and A.~Zucca
+Searching for primordial magnetic fields with CMB B-modes
