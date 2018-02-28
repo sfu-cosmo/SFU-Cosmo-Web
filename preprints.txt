@@ -341,3 +341,7 @@ Planck intermediate results. LIV. Polarized dust foregrounds
 SCG-2018-02 [1801.08936]
 L.~Pogosian and A.~Zucca
 Searching for primordial magnetic fields with CMB B-modes
+
+SCG-2018-03 [1802.08649]
+Planck Collaboration
+Planck intermediate results. LV. The Planck multi-frequency catalogue of non-thermal sources
