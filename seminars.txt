@@ -5,6 +5,13 @@ Exact black hole formation from a conformally coupled scalar field in three dime
 We present exact dynamical and inhomogeneous solutions in three-dimensional AdS gravity with a conformally coupled scalar field. They contain stealth configurations of the scalar field overflying the BTZ spacetime and also the solution with a non-stealth scalar field obtained by Xu in a mush simpler coordinate system. We show that different domains of coordinates of the last solution represent distinct spacetimes. One of them is the maximal extension of the Xu's spacetime and represents a shrinking black hole. Another spacetime can be attached to the past AdS spacetime in a regular manner and then the whole spacetime represents the gravitational collapse from regular initial data. It is shown that the resulting singularity is censored and the spacetime represents the formation of a black hole under an assumption for future-directed radial null geodesics, but the proof without the assumption is left open.
 
 
+March 9, 2018, 14:30 in WMC3260
+Prof. Ken Clark (Queen's University)
+Dark matter: How to hunt for the unknown (CAP Lecture)
+
+The quest for understanding the dark matter which pervades our universe has been proceeding for many years and is approaching a momentous time. The existence of this elusive matter is now widely accepted, and considerable experimental effort is directed at deducing its fundamental properties. This talk will focus on results and prospects from two experiments using complementary search techniques. The first is the PICO experiment, a superheated liquid detector at SNOLAB which recently published world-leading results. The second is the IceCube/DeepCore experiment situated in the deep ice at the South Pole and using neutrinos to look for the annihilation signal. Along with the future of  these experiments, the imminent challenges to all direct detection experiments will also be discussed.
+
+
 March 1, 2018, 13:30 in P8445B
 Prof. Tanmay Vachaspati (Arizona State)
 Search for intergalactic magnetic fields and implications
