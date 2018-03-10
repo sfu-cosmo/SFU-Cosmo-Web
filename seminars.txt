@@ -1,3 +1,10 @@
+March 16, 2018, 14:30 in WMC3260
+Prof. Frans Pretorius (Princeton University)
+The dynamical, strong-field regime of General Relativity (physics colloquium)
+
+LIGO has ushered in the era of gravitational wave astronomy, having observed several signals consistent with binary black hole mergers, and one attributable to a binary neutron star collision. The latter event also produced significant electromagnetic radiation, and was observed across the spectrum by a host of telescopes and satellites. In this talk I will discuss what these events can teach us about the fundamental nature of dynamical, strong-field gravity. So far, the data is consistent with Einstein's theory of general relativity, though the quantitative bounds are weak. In the coming years we can anticipate an ever growing population of merger events detected with ever more sensitive instruments, allowing high precision tests of strong-field gravity, ruling out alternative theories and "exotic" compact objects, or discovering novel physics beyond general relativity.
+
+
 March 15, 2018, 13:30 in P8445B
 Prof. Hideki Maeda (Hokkai-Gakuen University)
 Exact black hole formation from a conformally coupled scalar field in three dimensions
