@@ -345,3 +345,7 @@ Searching for primordial magnetic fields with CMB B-modes
 SCG-2018-03 [1802.08649]
 Planck Collaboration
 Planck intermediate results. LV. The Planck multi-frequency catalogue of non-thermal sources
+
+SCG-2018-04 [1804.05382]
+A.~Dhumuntarao, J.~T.~Gálvez~Ghersi, and Niayesh Afshordi
+Instantaneous Temperatures à la Hadamard: Towards a generalized Stefan-Boltzmann law for curved spacetime
