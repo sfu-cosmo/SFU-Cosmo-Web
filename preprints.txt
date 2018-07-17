@@ -349,3 +349,39 @@ Planck intermediate results. LV. The Planck multi-frequency catalogue of non-the
 SCG-2018-04 [1804.05382]
 A.~Dhumuntarao, J.~T.~Gálvez~Ghersi, and Niayesh Afshordi
 Instantaneous Temperatures à la Hadamard: Towards a generalized Stefan-Boltzmann law for curved spacetime
+
+SCG-2018-05 [1807.?????]
+Planck Collaboration
+Planck 2018 results. I. Overview, and the cosmological legacy of Planck
+
+SCG-2018-06 [1807.?????]
+Planck Collaboration
+Planck 2018 results. II. Low Frequency Instrument data processing
+
+SCG-2018-07 [1807.?????]
+Planck Collaboration
+Planck 2018 results. III. High Frequency Instrument data processing and frequency maps
+
+SCG-2018-08 [1807.?????]
+Planck Collaboration
+Planck 2018 results. IV. Diffuse component separation
+
+SCG-2018-09 [1807.?????]
+Planck Collaboration
+Planck 2018 results. VI. Cosmological parameters
+
+SCG-2018-10 [1807.?????]
+Planck Collaboration
+Planck 2018 results. VIII. Gravitational lensing
+
+SCG-2018-11 [1807.?????]
+Planck Collaboration
+Planck 2018 results. X. Constraints on inflation
+
+SCG-2018-12 [1807.?????]
+Planck Collaboration
+Planck 2018 results. XI. Polarized dust foregrounds
+
+SCG-2018-13 [1807.?????]
+Planck Collaboration
+Planck 2018 results. XII. Galactic astrophysics using polarized dust emission
