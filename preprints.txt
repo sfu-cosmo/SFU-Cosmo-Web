@@ -334,7 +334,7 @@ SCG-2017-08 [1712.10272]
 D.~A.~Dobre, A.~V.~Frolov, J.~T.~Gálvez~Ghersi, S.~Ramazanov, and A.~Vikman
 Unbraiding the Bounce: superluminality around the corner
 
-SCG-2018-01 [1801.04945]
+SCG-2018-01 [1801.04945v1]
 Planck Collaboration
 Planck intermediate results. LIV. Polarized dust foregrounds
 
@@ -378,7 +378,7 @@ SCG-2018-11 [1807.06211]
 Planck Collaboration
 Planck 2018 results. X. Constraints on inflation
 
-SCG-2018-12 [1807.?????]
+SCG-2018-12 [1801.04945]
 Planck Collaboration
 Planck 2018 results. XI. Polarized dust foregrounds
 
