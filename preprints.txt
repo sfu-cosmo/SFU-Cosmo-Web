@@ -389,3 +389,7 @@ Planck 2018 results. XII. Galactic astrophysics using polarized dust emission
 SCG-2018-14 [1807.03772]
 Y.~Wang, L.~Pogosian, G.-B.~Zhao, and A.~Zucca
 Evolution of dark energy reconstructed from the latest observations
+
+SCG-2018-15 [1808.01325]
+J.~T.~Gálvez~Ghersi, A.~Zucca, and A.~V.~Frolov
+Observational constraints on constant roll inflation
