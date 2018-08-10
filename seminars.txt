@@ -2,7 +2,7 @@ August 16, 2018, 13:30 in P8445B
 Prof. Shinji Mukohyama (Yukawa Institute for Theoretical Physics)
 Minimalism in modified gravity
 
-TBA
+It is generally believed that modification of general relativity inevitably introduce extra physical degree(s) of freedom. In this talk I argue that this is not the case by constructing modified gravity theories with two local physical degrees of freedom. After classifying such theories into two types, I show explicit examples and discuss their cosmology and phenomenology.
 
 
 March 29, 2018, 13:30 in P8445B
