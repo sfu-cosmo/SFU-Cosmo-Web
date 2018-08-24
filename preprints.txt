@@ -393,3 +393,7 @@ Evolution of dark energy reconstructed from the latest observations
 SCG-2018-15 [1808.01325]
 J.~T.~Gálvez~Ghersi, A.~Zucca, and A.~V.~Frolov
 Observational constraints on constant roll inflation
+
+SCG-2018-16 [1808.07445]
+Simons Observatory Collaboration
+The Simons Observatory: Science goals and forecasts
