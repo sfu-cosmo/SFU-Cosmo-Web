@@ -397,3 +397,7 @@ Observational constraints on constant roll inflation
 SCG-2018-16 [1808.07445]
 Simons Observatory Collaboration
 The Simons Observatory: Science goals and forecasts
+
+SCG-2018-17 [1809.01121]
+J.~Espejo, S.~Peirone, M.~Raveri, K.~Koyama, L.~Pogosian, and A.~Silvestri
+Phenomenology of Large Scale Structure in scalar-tensor theories: joint prior covariance of w<sub>DE</sub>, Σ and μ in Horndeski
