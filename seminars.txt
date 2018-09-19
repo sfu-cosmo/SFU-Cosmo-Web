@@ -1,3 +1,10 @@
+September 21, 2018, 14:30 in AQ3150
+Prof. Rob Caldwell (Dartmouth College)
+Polarization of the cosmic gravitational wave background (physics colloquium)
+
+The Cosmic Gravitational Wave Background (CGB) is a hypothesized relic radiation field that, if detected, would give us clues to the earliest moments of the history of the Universe. In this talk accessible to students and non-experts, I will describe the physical processes that can give rise to a CGB, novel features including its polarization, and methods of detection. I will also discuss the ability of the proposed Laser Interferometer Space Antenna, LISA, to detect the CGB.
+
+
 August 16, 2018, 13:30 in P8445B
 Prof. Shinji Mukohyama (Yukawa Institute for Theoretical Physics)
 Minimalism in modified gravity
