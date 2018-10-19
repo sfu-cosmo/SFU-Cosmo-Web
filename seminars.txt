@@ -1,3 +1,10 @@
+November 21, 2018, 15:30 in P8445B
+Dr. Jia Liu (Princeton)
+Cosmology with massive neutrinos
+
+The non-zero mass of neutrinos suppresses the growth of cosmic structure on small scales. Since the level of suppression depends on the sum of the masses of the three active neutrino species, the evolution of large-scale structure is a promising tool to constrain the total mass of neutrinos and possibly shed light on the mass hierarchy. I will discuss recent progress and future prospects to constrain the neutrino mass sum with cosmology.
+
+
 September 21, 2018, 14:30 in AQ3150
 Prof. Rob Caldwell (Dartmouth College)
 Polarization of the cosmic gravitational wave background (physics colloquium)
