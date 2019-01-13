@@ -1,3 +1,10 @@
+January 17, 2019, 10:30 in P8445B
+Prof. Gabor Kunstatter (University of Winnipeg)
+Lost Horizons: The Dynamics of Singularity Resolution in General Relativity
+
+LIGO has recently provided remarkable, direct evidence that black holes exist, and that their strong field dynamics is well described by Einstein's theory of general relativity. As well, the CMB data provides us with equally remarkable data concerning the structure of the Universe a mere few thousand years after the Big Bang. Einstein's theory is in the unique and unenviable position of predicting its own demise under rather generic conditions, including those found in black hole spacetimes and at the early stages of our own universe. The predicted singularities (another word for demise) in general give rise to horizons beyond which certain classes of observers cannot see. This in turn results in issues such as the black hole information loss conundrum and the cosmological horizon problem. It is thought the singularities and their related conundra will be resolved by the ultimate quantum theory of gravity. Unfortunately, we do not as yet have a complete, testable theory of quantum gravity that be can reliably used to address this issue. In this talk, I will instead explore recent work whose goal is to use simple models to examine the effective dynamics of complete singularity-free quantum-corrected physical space-times.
+
+
 November 21, 2018, 15:30 in P8445B
 Dr. Jia Liu (Princeton)
 Cosmology with massive neutrinos
