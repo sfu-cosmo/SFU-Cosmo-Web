@@ -401,3 +401,7 @@ The Simons Observatory: Science goals and forecasts
 SCG-2018-17 [1809.01121]
 J.~Espejo, S.~Peirone, M.~Raveri, K.~Koyama, L.~Pogosian, and A.~Silvestri
 Phenomenology of Large Scale Structure in scalar-tensor theories: joint prior covariance of w<sub>DE</sub>, Σ and μ in Horndeski
+
+SCG-2019-01 [1901.05956]
+A.~Zucca, L.~Pogosian, A.~Silvestri, and G.~B.~Zhao
+MGCAMB with massive neutrinos and dynamical dark energy
