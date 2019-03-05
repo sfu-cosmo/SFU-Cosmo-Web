@@ -409,3 +409,7 @@ MGCAMB with massive neutrinos and dynamical dark energy
 SCG-2019-02 [1901.06625]
 J.~T.~Gálvez~Ghersi, A.~V.~Frolov, and D.~A.~Dobre
 Echoes from the scattering of wavepackets on wormholes
+
+SCG-2019-03 [1902.10541]
+S.~Hanany et. al.
+PICO: Probe of Inflation and Cosmic Origins
