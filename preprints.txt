@@ -417,3 +417,7 @@ PICO: Probe of Inflation and Cosmic Origins
 SCG-2019-04 [1905.05697]
 Planck Collaboration
 Planck 2018 results. IX. Constraints on primordial non-Gaussianity
+
+SCG-2019-04 [1906.02552]
+Planck Collaboration
+Planck 2018 results. VII. Isotropy and Statistics of the CMB
