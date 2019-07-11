@@ -429,3 +429,7 @@ Decay of cosmic string loops due to particle radiation
 SCG-2019-07 [1904.07855]
 L.~Pogosian, M.~Shimon, M.~Mewes, and B.~Keating
 Future CMB constraints on cosmic birefringence and implications for fundamental physics
+
+SCG-2019-08 [1907.04473]
+CMB-S4 Collaboration
+CMB-S4 science case, reference design, and project plan
