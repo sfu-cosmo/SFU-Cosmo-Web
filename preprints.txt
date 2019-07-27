@@ -437,3 +437,7 @@ CMB-S4 science case, reference design, and project plan
 SCG-2019-09 [1907.07667]
 A.~Zucca, L.~Pogosian, A.~Silvestri, Y.~Wang, and G.-B.~Zhao
 Generalized Brans-Dicke theories in light of evolving dark energy
+
+SCG-2019-10 [1907.08284]
+Simons Observatory Collaboration
+The Simons Observatory: Astro2020 decadal project whitepaper
