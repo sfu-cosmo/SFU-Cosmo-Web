@@ -1,3 +1,10 @@
+September 10, 2019, 14:30 in P8445B
+Prof. Gabor Kunstatter (University of Winnipeg/SFU)
+What can quantum gravity tell us about the beginning and end of time?
+
+Despite remarkable advances in observational astrophysics and cosmology, fundamental mysteries about our universe remain. General relativity, which describes the dynamics of space and time, predicts its own demise near the Big Bang singularity (the beginning of time) and near the future singularity at the center of all black holes (the end of time). These singularities lead to the horizon loss problem and information loss conundrum, respectively. Quantum mechanics is expected to cure all singularities but no complete, testable theory of quantum gravity exists as yet. It is therefore useful to tackle these issues using simplified, highly symmetric models. After an introduction to the horizon problem and information loss conundrum, I will describe recent attempts by myself and collaborators to model quantum gravitational dynamics near cosmological and black hole singularities.
+
+
 February 5, 2019, 15:00 in P8445B
 Prof. Andrew Long (University of Michigan)
 Dark photon dark matter from a network of cosmic strings
