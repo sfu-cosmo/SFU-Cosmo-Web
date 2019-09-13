@@ -449,3 +449,7 @@ Planck 2018 results. V. CMB power spectra and likelihoods
 SCG-2019-12 [1908.01062]
 K.~Abazajian et. al.
 CMB-S4 Decadal Survey APC white paper
+
+SCG-2019-13 [1908.07495]
+S.~Hanany et. al.
+PICO: Probe of Inflation and Cosmic Origins
