@@ -1,3 +1,10 @@
+September 17, 2019, 14:30 in P8445B
+Prof. Andrei Frolov (SFU)
+Dust is everywhere
+
+The simple story of primordial gravitational waves produced by inflation sourcing B-modes of Cosmic Microwave Background polarization in reality is complicated by the fact that we are looking through the coloured glass of astrophysical foregrounds originating much closer to home. I will talk about amplitude of primordial B-modes we expect from inflation, characterization of polarized dust foregrounds from Planck Legacy data, and where do we go from here. In particular, I will show new reconstruction of the large-scale galactic magnetic field responsible for the patterns we see in the dust polarization, and explain how it allows accurate modelling of the polarized dust emission for design and analysis of future CMB experiments.
+
+
 September 10, 2019, 14:30 in P8445B
 Prof. Gabor Kunstatter (University of Winnipeg/SFU)
 What can quantum gravity tell us about the beginning and end of time?
