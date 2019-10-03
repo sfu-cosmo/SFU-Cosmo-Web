@@ -7,9 +7,9 @@ TBA
 
 October 22, 2019, 14:30 in P8445B
 Prof. Arif Babul (UVic)
-TBA
+Cosmology with galaxy clusters
 
-TBA
+Clusters of galaxies are the largest, most massive gravitationally bound objects in the Universe. They are also the most recent of the cosmic objects to form. In the currently accepted models of cosmic structure formation, the evolution of the number density of these galaxy clusters over the recent (cosmologically speaking) past depends sensitively on the parameters describing the large-scale geometry and the expansion history of the universe. For this reason, galaxy clusters are regarded as important cosmological probes. The first step in using clusters as cosmological probes involves involves starting with a large, well-defined sample of galaxy clusters and "weigh them". Here, I will discuss what "weighing them" entails and highlight some of the challenges involved. I will then summarize the outcome of the cosmological analysis, and compare the resulting values of the key cosmological parameters to those derived from the studies of the cosmic microwave background. Interestingly, the two do not agree with each other! And, this troubling tension remains unresolved. I will conclude by speculating about the implications of, and potential resolutions, of this tension.
 
 
 October 8, 2019, 14:30 in P8445B
