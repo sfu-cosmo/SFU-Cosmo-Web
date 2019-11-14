@@ -7,9 +7,9 @@ TBA
 
 November 19, 2019, 14:30 in P8445B
 Dr. Richard Shaw (UBC)
-TBA
+Probing Dark Energy with CHIME
 
-TBA
+CHIME will use Intensity Mapping of the 21cm line of neutral hydrogen to map large-scale structure between redshifts of 0.8 and 2.5. By measuring Baryon Acoustic Oscillations (BAO) we will place constraints on the dark energy equation of state as it begins to dominate the expansion of the Universe, particularly at redshifts poorly probed by current BAO surveys. In this talk I will introduce CHIME, a transit radio interferometer designed specifically for this purpose. I will discuss the promise and pitfalls of Intensity Mapping and describe how we plan to confront the many challenges of such observations, in particular removal of astrophysical foregrounds which are six orders of magnitude larger than the 21cm signal. CHIME started operating at the DRAO in Penticton, BC at the end of 2018 and I will report on current progress and lessons already learned.
 
 
 October 22, 2019, 14:30 in P8445B
