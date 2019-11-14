@@ -1,3 +1,10 @@
+December 3, 2019, 14:30 in P8445B
+Prof. Ludovic Van Waerbeke (UBC)
+Axion Quark Nuggets: a candidate for baryonic, cold and strongly interacting dark matter
+
+Let's assume dark matter is a particle. The DM theories currently tested, WIMPs-like, either via direct or indirect detection, cover only a tiny range of the allowed DM parameters space, and have not been particularly successful so far. A new DM candidate, the Axion Quark Nugget (AQN), has been proposed by Zhitnitsky in 2003, partly inspired by the quark nuggets (Witten 1984). In the AQN model, DM particles are very massive (gram mass or more) and interact very rarely, but very strongly, with the baryonic sector. They behave as cold dark matter, but they can induce various electromagnetic signals under certain conditions, without violating nucleosynthesis or any known Big Bang fundamental constraints. In this talk I will review the basic properties of the model and discuss some of our ongoing research projects at UBC in order to test the model. This requires a very interdisciplinary approach, by looking at how AQNs interact with planets, stellar atmospheres, compact objects, and up to the largest cosmological scales. This makes AQN a highly testable DM model, with potential for direct detection, unlike most currently popular WIMPs alternatives.
+
+
 November 26, 2019, 14:30 in P8445B
 Dr. Joanna Woo (SFU)
 TBA
