@@ -7,9 +7,9 @@ Let's assume dark matter is a particle. The DM theories currently tested, WIMPs-
 
 November 26, 2019, 14:30 in P8445B
 Dr. Joanna Woo (SFU)
-TBA
+Primer on machine learning for astronomy
 
-TBA
+As the size and scope of astronomical datasets have grown exponentially, so also have the use of machine learning methods in their analysis. Convolutional neural networks (CNNs) in particular have proven to be one of the most powerful machine learning algorithms. I will introduce the basic concepts behind CNNs and how they are employed in astronomy for classification, measurement, error estimation, and generation of mock datasets. I will go over the basic computational implementation of CNNs using Google's Keras/Tensorflow python packages.
 
 
 November 19, 2019, 14:30 in P8445B
