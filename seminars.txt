@@ -5,6 +5,13 @@ Interstellar asteroids and comets: what are they and where do they come from?
 In 2017, the first asteroid to enter our Solar System from interstellar space was discovered at the PanSTARRS telescope in Hawaii, and has now been named 'Oumuamua, a Hawaiian term which signifies 'Messenger from Afar'. In 2019 a second interstellar visitor, comet Borisov (named after its discoverer) appeared. Adding to the mystery of their origins are their contrasting properties: 'Oumuamua was rocky (unexpected), relatively slow (unexpected) and small (expected); while Borisov is the reverse: icy, fast and large. I'll briefly summarize what we know about these puzzling visitors, and outline the efforts being made at Western to back-track them to their points of origin, somewhere within our Milky Way galaxy.
 
 
+February 14, 2020, 14:30 in C9000
+Prof. Katie Mack (North Carolina State University)
+Dark matter: a cosmological perspective (physics colloquium)
+
+While it is considered to be one of the most promising hints of new physics beyond the Standard Model, dark matter is as-yet known only through its gravitational influence on astronomical and cosmological observables. I will discuss our current best evidence for dark matter's existence as well as the constraints that astrophysical probes can place on its properties, while highlighting some tantalizing anomalies that could indicate non-gravitational dark matter interactions. Future observations, along with synergies between astrophysical and experimental searches, have the potential to illuminate dark matter's fundamental nature and its influence on the evolution of matter in the cosmos from the first stars and galaxies to today.
+
+
 January 20, 2020, 15:00 in P8445B
 Prof. Francesc Ferrer (Washington University)
 Gravitational wave signals of early universe axion dynamics
