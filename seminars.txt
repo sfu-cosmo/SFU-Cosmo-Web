@@ -1,3 +1,10 @@
+February 28, 2020, 14:30 in C9000
+Prof. Sara Ellison (University of Victoria)
+Clash of the Titans: Galaxy mergers in the nearby Universe (physics colloquium)
+
+Astronomy's current model of galaxy evolution is built on a foundation of hierarchical growth, in which small galaxies merge together to form larger ones. In addition to the simple accrual of mass, this merging process is predicted to fundamentally change the galaxies' properties, such as dramatic morphological transformations, the triggering of bursts of star formation and high rates of accretion onto the central supermassive black hole. In this talk I will explain the physical processes behind these predictions, and present the observations that we are performing in order to test the theory. Although many of the predictions are indeed borne out by experiment, there have been some surprising conflicts as well, that demand revisions to our models of how mergers shape galaxy evolution.
+
+
 February 26, 2020, 14:30 in P8445B
 Prof. Paul Wiegert (University of Western Ontario)
 Interstellar asteroids and comets: what are they and where do they come from?
