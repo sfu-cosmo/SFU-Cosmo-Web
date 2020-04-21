@@ -453,3 +453,11 @@ CMB-S4 Decadal Survey APC white paper
 SCG-2019-13 [1908.07495]
 S.~Hanany et. al.
 PICO: Probe of Inflation and Cosmic Origins
+
+SCG-2020-01 [2001.01030]
+A.~Saurabh, T.~Vachaspati, and L.~Pogosian
+Decay of cosmic global string loops
+
+SCG-2020-02 [2004.09487]
+K.~Jedamzik and L.~Pogosian
+Relieving the Hubble tension with primordial magnetic fields
