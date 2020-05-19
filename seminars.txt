@@ -1,3 +1,17 @@
+May 19, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
+Dr. José Tomas Galvez Ghersi (University of Mississippi)
+Numerical renormalization group-based approach to secular perturbation theory
+
+The standard methods of perturbative analysis are crucial to revealing many features of a physical system when it is not viable to obtain exact solutions. Nevertheless, the use of a truncated expansion might generate diverging solutions in systems that are known to be bound. Following the perspective of secular perturbation theory, we propose the numerical implementation of a renormalization group-based approach to promote the background parameters into time-dependent quantities. These new quantities are not restricted only to avoid secular growth, but can also improve the accuracy of the solution. As a concrete example, we use this method to calculate the soliton-like solutions of the Korteweg-de Vries equation deformed by adding a small damping term. This example shares several features with the evaluation of gravitational waveforms modified by perturbative corrections of general relativity.
+
+
+May 12, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
+Prof. Levon Pogosian (SFU)
+Relieving the Hubble tension with primordial magnetic fields
+
+The standard cosmological model determined from the accurate cosmic microwave background measurements made by the Planck satellite implies a value of the Hubble constant H<sub>0</sub> that is 4.4 standard deviations lower than the one determined from Type Ia supernovae. The Planck best fit model also predicts higher values of the matter density fraction Ωm and clustering amplitude &sigma;<sub>8</sub> compared to those obtained from the Dark Energy Survey Year 1 data. Here we show that accounting for the enhanced recombination rate due to additional small-scale inhomogeneities in the baryon density may solve both the H<sub>0</sub> and the &sigma;<sub>8</sub>-&Omega;<sub>m</sub> tensions. The additional baryon inhomogeneities can be induced by primordial magnetic fields present in the plasma prior to recombination. The required field strength to solve the Hubble tension is just what is needed to explain the existence of galactic, cluster, and extragalactic magnetic fields without relying on dynamo amplification. Our results show clear evidence for this effect and motivate further detailed studies of primordial magnetic fields, setting several well-defined targets for future observations.
+
+
 February 28, 2020, 14:30 in C9000
 Prof. Sara Ellison (University of Victoria)
 Clash of the Titans: Galaxy mergers in the nearby Universe (physics colloquium)
