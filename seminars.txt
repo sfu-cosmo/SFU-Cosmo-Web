@@ -1,3 +1,10 @@
+June 2, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
+Prof. Leo Stein (University of Mississippi)
+Gravitational-wave tests of GR with simulations of beyond-GR theories
+
+Present and next generation gravitational-wave observatories bring the opportunity for precision tests of general relativity. To compare GR vs. beyond-GR (BGR) requires the BGR waveforms have the same level of sophistication as available for GR. In the nonlinear regime of black hole mergers, GR waveform predictions rely on numerical simulations. Meanwhile, BH merger simulations have only recently become possible in theories like Einstein-dilaton-Maxwell, dynamical Chern-Simons gravity, or Einstein-dilaton-Gauss-Bonnet. We highlight some of the recent advances in numerical simulations of beyond-GR theories, and discuss some conceptual and computational issues in treating these theories. We will also examine the difficulty of secular effects, and prospects for completing the waveform modeling problem in beyond-GR theories.
+
+
 May 19, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
 Dr. José Tomas Galvez Ghersi (University of Mississippi)
 Numerical renormalization group-based approach to secular perturbation theory
