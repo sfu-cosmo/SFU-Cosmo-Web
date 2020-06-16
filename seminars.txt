@@ -1,3 +1,10 @@
+June 16, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
+Prof. Andrei Frolov (Simon Fraser Univeristy)
+Primordial non-Gaussianity from preheating
+
+I will talk about phase transitions and entropy production at the end of inflation in the early universe. Dynamics of preheating is non-trivial, and can convert isocurvature modes of light fields generated during inflation into curvature fluctuations imprinted into observable CMB temperature anisotropy. Curvature fluctuations thus produced are typically non-Gaussian. I will discuss their observational signatures, and our efforts to construct local non-Gaussianity estimators to map out such signal in real data.
+
+
 June 2, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
 Prof. Leo Stein (University of Mississippi)
 Gravitational-wave tests of GR with simulations of beyond-GR theories
