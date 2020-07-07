@@ -1,6 +1,14 @@
+July 7, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
+Prof. Joanna Woo (Simon Fraser Univeristy)
+Machine learning as a tool for astrophysics
+
+The number of machine learning papers in astronomy and astrophysics have dramatically increased in the last few years.  After reviewing astrophysical applications and methods, I will present results from my own work on stellar populations in galaxies.   The focus will be mostly pedagogical with the aim of demonstrating the power and applicability of machine learning methods.
+
+
 July 2, 2020 at 14:30 in <A HREF="https://sfu.zoom.us/j/96010086553?pwd=MmIrR0lxRUloMGd1cUg5YkRGc0NZdz09">Zoom</A>
 Prof. Jack Gegenberg (University of New Brunswick)
 Collapse of a rotating shell in 3+1 dimensions (special seminar)
+
 We consider a rotating thin shell which is on the boundary between a near horizon extremal Kerr spacetime and a static near horizon spacetime. The matter on the shell is taken to be described by the stress-energy tensor of an anisotropic fluid. We show that the shell does not collapse through the horizon of the outer geometry.
 
 
