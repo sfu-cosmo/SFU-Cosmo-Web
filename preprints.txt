@@ -461,3 +461,11 @@ Decay of cosmic global string loops
 SCG-2020-02 [2004.09487]
 K.~Jedamzik and L.~Pogosian
 Relieving the Hubble tension with primordial magnetic fields
+
+SCG-2020-03 [2003.12646]
+Planck Collaboration
+Planck intermediate results. LVI. Detection of the CMB dipole through modulation of the thermal Sunyaev-Zeldovich effect: Eppur si muove II
+
+SCG-2020-04 [2007.04997]
+Planck Collaboration
+Planck intermediate results. LVII. Joint Planck LFI and HFI data processing
