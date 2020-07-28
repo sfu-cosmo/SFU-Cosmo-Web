@@ -1,3 +1,10 @@
+July 28, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
+Dr. José Tomas Gálvez Ghersi (University of Mississippi)
+A fixed point for black hole distributions
+
+Understanding distributions of black holes is crucial to both astrophysics and quantum gravity. Studying astrophysical population statistics has even been suggested as a channel to constrain black hole formation from the quantum vacuum. Here we propose a Gedankenexperiment to show that the non-linear properties of binary mergers (simulated with accurate surrogate models) generate an attractor in the space of distributions. Our results show that the joint distribution of spin magnitude and fractional mass loss evolves to a fixed point, converging in a few generations. The features of this fixed point distribution do not depend on the choice of initial distribution. Since a black hole merger is irreversible it produces entropy - possibly the largest source of entropy in the universe. The fixed-point distributions are neither isothermal nor isentropic, and initially thermodynamic states evolve away from thermality. We finally evaluate the specific entropy production rate per merger from initially thermal and non-thermal distributions, which converges to a constant.
+
+
 July 7, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
 Prof. Joanna Woo (Simon Fraser Univeristy)
 Machine learning as a tool for astrophysics
@@ -27,7 +34,7 @@ Present and next generation gravitational-wave observatories bring the opportuni
 
 
 May 19, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
-Dr. José Tomas Galvez Ghersi (University of Mississippi)
+Dr. José Tomas Gálvez Ghersi (University of Mississippi)
 Numerical renormalization group-based approach to secular perturbation theory
 
 The standard methods of perturbative analysis are crucial to revealing many features of a physical system when it is not viable to obtain exact solutions. Nevertheless, the use of a truncated expansion might generate diverging solutions in systems that are known to be bound. Following the perspective of secular perturbation theory, we propose the numerical implementation of a renormalization group-based approach to promote the background parameters into time-dependent quantities. These new quantities are not restricted only to avoid secular growth, but can also improve the accuracy of the solution. As a concrete example, we use this method to calculate the soliton-like solutions of the Korteweg-de Vries equation deformed by adding a small damping term. This example shares several features with the evaluation of gravitational waveforms modified by perturbative corrections of general relativity.
