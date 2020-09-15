@@ -1,3 +1,10 @@
+September 15, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
+Dr. Sashwat Tanay (University of Mississippi)
+Integrability of eccentric, spinning black-hole binaries up to second post-Newtonian order
+
+The task of modeling accurately the orbital dynamics of the sources of gravitational wave signals, i.e. stellar-mass, massive and supermassive black-hole binaries is crucial to the detections made by LIGO and the prospective findings of the LISA mission. The possibility of these systems being chaotic poses complications when modeling the dynamics of the system. Since integrability precludes chaos, here we report on the integrable nature of the post-Newtonian (PN) Hamiltonian for eccentric, spinning black-hole binaries. Integrability has been already known to be exact at 1.5PN, with five mutually commuting constants of motion in a ten dimensional phase-space. In this paper, we present four (out of five) action integrals at 1.5PN. Via the Liouville-Arnold theorem, we then show that the system is also integrable at 2PN in a perturbative sense by discovering quantities which are mutually commuting constants in the post-Newtonian sense at the same order.
+
+
 July 28, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
 Dr. José Tomas Gálvez Ghersi (University of Mississippi)
 A fixed point for black hole distributions
