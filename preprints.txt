@@ -469,3 +469,11 @@ Planck intermediate results. LVI. Detection of the CMB dipole through modulation
 SCG-2020-04 [2007.04997]
 Planck Collaboration
 Planck intermediate results. LVII. Joint Planck LFI and HFI data processing
+
+SCG-2020-05 [2008.12619]
+CMB-S4 Collaboration
+CMB-S4: Forecasting constraints on primordial gravitational waves
+
+SCG-2020-06 [2009.08455]
+L.~Pogosian, G.-B.~Zhao, and K.~Jedamzik
+Recombination-independent determination of the sound horizon and the Hubble constant from BAO
