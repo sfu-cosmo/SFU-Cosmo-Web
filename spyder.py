@@ -1,29 +1,38 @@
 #!/usr/bin/env python
 
-import htmllib, formatter, urlparse
+from html.parser import HTMLParser
+from urllib.parse import urljoin
+
+class LinkParser(HTMLParser):
+    def __init__(self):
+        self.anchorlist = []
+        super().__init__()
+    
+    def handle_starttag(self, tag, attrs):
+        if (tag != 'a'): return
+        for a,v in attrs:
+            if a == 'href': self.anchorlist.append(v)
 
 def links(file):
     try:
-        p = htmllib.HTMLParser(formatter.NullFormatter())
-        p.feed(open(file).read()); p.close()
-        
+        p = LinkParser(); p.feed(open(file).read()); p.close()
         return filter(lambda x: ':' not in x, p.anchorlist)
     except:
         return []
 
 def crawl(file, visited):
     if file.endswith('/') or file.endswith('.'):
-        file = urlparse.urljoin(file, 'index.html')
+        file = urljoin(file, 'index.html')
     
     if file and file not in visited:
         visited.add(file)
         base = file[0:file.rfind('/')+1]
         
         for f in links(file):
-            visited = crawl(urlparse.urljoin(base, f), visited)
+            visited = crawl(urljoin(base, f), visited)
     
     return visited
 
 site = list(crawl('html/', set())); site.sort()
 
-for i in site: print i
+for i in site: print(i)

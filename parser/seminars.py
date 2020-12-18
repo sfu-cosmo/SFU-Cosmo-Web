@@ -1,14 +1,14 @@
 #!/usr/bin/env python
 
-import re, operator, datetime
+import io, re, operator, datetime
 today = datetime.datetime.today()
 
 class seminar:
     pass
 
-class src(file):
+class src(io.FileIO):
     def line(self):
-        return self.next().rstrip()
+        return self.readline().rstrip().decode(encoding='UTF-8')
     def block(self):
         t = ''; empty = False
         for l in self:
@@ -17,7 +17,7 @@ class src(file):
                 else: empty = True
             else:
                 empty = False
-            t += l
+            t += l.decode(encoding='UTF-8')
         return t.strip()
 
 def parse(fp):
@@ -41,14 +41,14 @@ all = list(parse(src('seminars.txt')))
 all.sort(key=operator.attrgetter('date'))
 
 def ayear(d): return d.year-1 if d.month < 9 else d.year
-def year(year): return filter(lambda s: ayear(s.date) == year, all)
-def on(date): return filter(lambda s: s.date.strftime('%F') == date, all)
+def year(year): return list(filter(lambda s: ayear(s.date) == year, all))
+def on(date): return list(filter(lambda s: s.date.strftime('%F') == date, all))
 
 years = sorted(set(map(lambda s: ayear(s.date), all)))
 
-current = filter(lambda s: ayear(s.date) == ayear(today), all)
-future = filter(lambda s: s.date >= today, current)
-past = filter(lambda s: s.date < today, current)
+current = list(filter(lambda s: ayear(s.date) == ayear(today), all))
+future = list(filter(lambda s: s.date >= today, current))
+past = list(filter(lambda s: s.date < today, current))
 past.reverse()
 
 next = future[0:1]

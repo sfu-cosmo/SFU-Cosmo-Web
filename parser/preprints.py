@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import re, operator
+import io, re, operator
 
 members = open('members.txt').read().splitlines()
 anyofus = r'((\w+\.[~\-\s]+)*(' + ('|'.join(members)) + r'))'
@@ -9,11 +9,11 @@ anyofus = r'((\w+\.[~\-\s]+)*(' + ('|'.join(members)) + r'))'
 class preprint:
     pass
 
-class src(file):
+class src(io.FileIO):
     def skip(self):
         for l in self:
             if l.strip(): break
-        return l.rstrip()
+        return l.rstrip().decode(encoding='UTF-8')
 
 def parse(fp):
     while True:
