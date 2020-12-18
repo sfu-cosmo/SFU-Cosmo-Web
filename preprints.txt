@@ -477,3 +477,8 @@ CMB-S4: Forecasting constraints on primordial gravitational waves
 SCG-2020-06 [2009.08455]
 L.~Pogosian, G.-B.~Zhao, and K.~Jedamzik
 Recombination-independent determination of the sound horizon and the Hubble constant from BAO
+
+SCG-2020-07 [2009.06333]
+Planck Collaboration
+Planck intermediate results. LV. Reliability and thermal properties of high-frequency sources in the Second Planck Catalogue of Compact Sources
+
