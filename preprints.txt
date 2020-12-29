@@ -482,3 +482,6 @@ SCG-2020-07 [2009.06333]
 Planck Collaboration
 Planck intermediate results. LV. Reliability and thermal properties of high-frequency sources in the Second Planck Catalogue of Compact Sources
 
+SCG-2020-08 [2012.12205]
+A.~D.~Hincks et. al.
+NDRIO White Paper: Envisioning Digital Research Infrastructure for the Simons Observatory
