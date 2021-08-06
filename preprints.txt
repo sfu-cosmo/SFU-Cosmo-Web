@@ -485,3 +485,15 @@ Planck intermediate results. LV. Reliability and thermal properties of high-freq
 SCG-2020-08 [2012.12205]
 A.~D.~Hincks et. al.
 NDRIO White Paper: Envisioning Digital Research Infrastructure for the Simons Observatory
+
+SCG-2020-09 [2010.04158]
+K.~Jedamzik, L.~Pogosian, and G.-B.~Zhao
+Why reducing the cosmic sound horizon alone can not fully resolve the Hubble tension
+
+SCG-2021-01 [2107.12990]
+M.~Raveri, L.~Pogosian, K.~Koyama, M.~Martinelli, A.~Silvestri, G.-B.~Zhao, J.~Li, S.~Peirone, and A.~Zucca
+A joint reconstruction of dark energy and modified growth evolution
+
+SCG-2021-02 [2107.12992]
+L.~Pogosian, M.~Raveri, K.~Koyama, M.~Martinelli, A.~Silvestri, G.-B.~Zhao
+Imprints of cosmological tensions in reconstructed gravity
