@@ -497,3 +497,11 @@ A joint reconstruction of dark energy and modified growth evolution
 SCG-2021-02 [2107.12992]
 L.~Pogosian, M.~Raveri, K.~Koyama, M.~Martinelli, A.~Silvestri, G.-B.~Zhao
 Imprints of cosmological tensions in reconstructed gravity
+
+SCG-2021-03 [2109.03816]
+S.~Galli, L.~Pogosian, K.~Jedamzik, and L.~Balkenhol
+Consistency of Planck, ACT and SPT constraints on magnetically assisted recombination and forecasts for future experiments
+
+SCG-2021-04 [2111.02425]
+Brandon S. Hensley et. al.
+The Simons Observatory: Galactic science goals and forecasts
