@@ -1,3 +1,17 @@
+March 8, 2022 12:30 in P8445A
+Prof. Tanmay Vachaspati (Arizona State University)
+Electroweak monopoles, magnetic fields, and topological defect formation
+
+I will argue that the vacuum manifold of the standard model of particle physics is better 
+viewed as a Hopf fibered three sphere and that the model contains both magnetic monopoles 
+and strings. The Kibble mechanism is applied to electroweak symmetry breaking to obtain the 
+monopole-string network and to obtain an estimate for the cosmological magnetic field. 
+A rigorous analysis of the quantum formation of topological defects will also be discussed
+with results that can be compared to those using the Kibble-Zurek mechanism.
+
+Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">connect here</A>
+
+
 September 15, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
 Dr. Sashwat Tanay (University of Mississippi)
 Integrability of eccentric, spinning black-hole binaries up to second post-Newtonian order
