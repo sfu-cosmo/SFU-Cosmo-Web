@@ -505,3 +505,7 @@ Consistency of Planck, ACT and SPT constraints on magnetically assisted recombin
 SCG-2021-04 [2111.02425]
 Brandon S. Hensley et. al.
 The Simons Observatory: Galactic science goals and forecasts
+
+SCG-2022-01 [2203.08024]
+K.~Abazajian et. al.
+Snowmass 2021 CMB-S4 White Paper
