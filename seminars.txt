@@ -1,10 +1,19 @@
+October 25, 2022 14:00 in P8445A
+Dr. Victor Pozsgay (Imperial College, London)
+Low-energy EFT causality bounds
+
+In this talk, I will present a new tool to constrain low-energy Wilson coefficients in a scalar EFT (scalar for simplicity's sake but the range of applicability is much wider) based on the requirement that such theories should respect causality. Causality will be defined in the sense that no low-energy observer should be able to measure any resolvable time-advance resulting from a scattering event. I will show that these so-called causality bounds are in remarkable agreement with previously derived positivity bounds (where low energy constraints on the 4-point amplitude make use of physical assumptions of the UV completion of the EFT), while being considerably simpler and a better candidate to get cosmological and black hole gravitational bounds.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">connect here</A>
+
+
 October 5, 2022 14:30 in P8445B
 Prof. Chi-kwan Chan (Steward Observatory, U. of Arizona)
 Resolving the galactic center black hole with the Event Horizon Telescope
 
 In 2017, the Event Horizon Telescope (EHT) observed the Galactic Center supermassive black hole Sagittarius A* (Sgr A*) using a global interferometric array of 8 telescopes. The resulting horizon scale images provide a unique opportunity to constrain the astrophysics of the accreting plasma and to test Einstein's general theory of relativity in a strong field regime. In this talk, I will introduce the EHT project and go over its data processing pathway and imaging methods. By comparing EHT's images with a large black hole simulation library, we constrain the properties of the accretion flow around Sgr A*. By comparing the size of the observed photon ring with the predicted size of the shadow, we show that EHT's observations are consistent with the general relativity.
 
-Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">connect here</A>
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">connect here</A>
 
 
 October 4, 2022 11:00 in <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
@@ -32,7 +41,7 @@ monopole-string network and to obtain an estimate for the cosmological magnetic 
 A rigorous analysis of the quantum formation of topological defects will also be discussed
 with results that can be compared to those using the Kibble-Zurek mechanism.
 
-Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">connect here</A>
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">connect here</A>
 
 
 September 15, 2020 12:00 in <A HREF="https://sfu.zoom.us/j/91269506115?pwd=VWJFc2I4MU4zbVNHYW1xYStCaXFwZz09">Zoom</A>
