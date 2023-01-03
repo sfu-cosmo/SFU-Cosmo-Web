@@ -1,3 +1,25 @@
+January 25, 2023 13:00 in P8445A
+Prof. Rajendra Gupta (Ottawa)
+Do fundamental constants vary on cosmological time scale?
+
+Since Dirac predicted in 1937 possible variation of gravitational constant and other coupling constants over cosmological time scales from his large number hypothesis, efforts have continued to determine such variation without success. Such efforts focus on the variation of one constant while assuming all others are pegged to their currently measured values. I have shown that the variations of the speed of light c, the gravitational constant G, the Planck constant h, and the Boltzmann constant k are interrelated - G~c<sup>3</sup>~h<sup>3</sup>~k<sup>3/2</sup> - through a dimensionless function. Thus, constraining any one of the constants leads to inadvertently constraining all the others. It may not be possible to determine the variation of a constant without concurrently permitting the variation of others. I will discuss several cosmological, astrometric, and terrestrial measurements that I have explained recently with the concomitant variation of these constants using their current time variation as G ̇⁄G=3 c ̇⁄c=3 h ̇⁄h=3⁄2  k ̇⁄k=3.90(±0.04)×10^(-10)  yr^(-1). They include gravitational lensing, gravitational waves, supernovae, quasars, gamma-ray bursts, lunar laser ranging, pulsars, and primordial nucleosynthesis used for constraining constants’ variation. The approach yields the age of the Universe 50% more than the presently accepted value; it may be better suited for explaining bewildering high redshift observations of galactic structures by the James Webb Space Telescope.
+
+
+January 24, 2023 14:00 in P8445A
+Dr. Bartolomeo Fiorini (Queen Mary)
+Studying large-scale structure probes of modified gravity with COLA
+
+I will discuss how fast semi-analytical cosmological simulations allow us to accurately predict the effect of modified gravity theories on large-scale structure probes like power spectrum, bispectrum and voids.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
+
+
+Dr. Daniel Jiménez Aguilar (University of the Basque Country)
+The dynamics of domain wall strings
+
+In many field theories, solitonic solutions admit localized excitations with unnaturally long lifetimes in their spectrum of perturbations. These bound states may play a significant role in the dynamics of solitons, and in particular, they could shed light on some aspects concerning the evolution of cosmic string networks. In this talk I will discuss the influence of this type of excitations on the dynamics of string-like domain walls in 2+1 dimensions, focusing mostly on interesting resonance phenomena arising from the interaction of different modes at a non-linear level. The processes by which the excited string can emit radiation will also be analyzed, and the motion of the soliton in lattice field theory simulations will be contrasted with the one predicted by the Nambu-Goto action.
+
+
 October 25, 2022 14:00 in P8445A
 Dr. Victor Pozsgay (Imperial College, London)
 Low-energy EFT causality bounds
