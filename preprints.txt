@@ -509,3 +509,23 @@ The Simons Observatory: Galactic science goals and forecasts
 SCG-2022-01 [2203.08024]
 K.~Abazajian et. al.
 Snowmass 2021 CMB-S4 White Paper
+
+SCG-2022-02 [2203.06142]
+E.~Abdalla et. al.
+Cosmology intertwined: A review of the particle physics, astrophysics, and cosmology associated with the cosmological tensions and anomalies
+
+SCG-2022-03 [2203.07638]
+C.~L.~Chang et. al.
+Snowmass2021 cosmic frontier: Cosmic microwave background measurements white paper
+
+SCG-2022-04 [2209.03614]
+C.~Bonvin and L.~Pogosian
+Modified Einstein versus modified Euler for dark matter
+
+SCG-2022-05 [2209.11726]
+R.~X.~Adhikari
+Report of the topical group on cosmic probes of fundamental physics for for Snowmass 2021
+
+SCG-2023-01 [2302.10999]
+S.~H.~Mirpoorian, Z.~Wang, and L.~Pogosian
+On validity of the quasi-static approximation in scalar-tensor theories
