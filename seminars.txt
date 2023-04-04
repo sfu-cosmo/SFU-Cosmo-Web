@@ -1,3 +1,27 @@
+April 11, 2023 17:00 in <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
+Prof. Shinji Mukohyama (Kyoto)
+Effective field theory of black hole perturbations with timelike scalar profile
+
+Many dark energy (DE) models are based on a scalar field with timelike
+gradient. In this talk we begin with a review of the systematic
+construction of the effective field theory (EFT) describing
+perturbations around the Minkowski background with a timelike scalar
+profile and its extension to cosmological backgrounds, i.e. the ghost
+condensation and the EFT of inflation/DE. If one hopes to learn
+something about the EFT of DE from black holes (BHs) then one needs to
+consider BH solutions with timelike scalar profiles. We thus extend
+the EFT to arbitrary backgrounds. Finally, as an application of the
+general EFT, we study odd-parity perturbations around a spherically
+symmetric, static black hole background with a timelike scalar field
+responsible for DE and compute quasi-normal mode frequencies.
+
+<BR><BR>References:
+<A HREF="https://arxiv.org/abs/2204.00228">arXiv:2204.00228</A>;
+<A HREF="https://arxiv.org/abs/2208.02943">arXiv:2208.02943</A>
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
+
+
 January 25, 2023 13:00 in P8445A
 Prof. Rajendra Gupta (Ottawa)
 Do fundamental constants vary on cosmological time scale?
