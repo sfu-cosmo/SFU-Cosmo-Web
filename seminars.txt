@@ -1,3 +1,12 @@
+May 9, 2023 11:30 in <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
+Prof. José Tomás Gálvez Ghersi (Universidad de Ingeniería y Tecnología, Peru)
+Dimensional deformation of sine-Gordon breathers into oscillons
+
+Oscillons are localized field configurations oscillating in time with lifetimes orders of magnitude longer than their oscillation period. In this paper, we simulate non-travelling oscillons produced by deforming the breather solutions of the sine-Gordon model. Such a deformation treats the dimensionality of the model as a real parameter to produce spherically symmetric oscillons. After considering the post-transient oscillation frequency as a control parameter, we probe the initial parameter space to show how the availability of oscillons depends on the number of spatial dimensions. For small dimensional deformations, our findings are consistent with the lack of a minimal amplitude bound to form oscillons. In D≳2 spatial dimensions, we observe solutions undergoing intermittent phases of contraction and expansion in their cores. Knowing that stable and unstable configurations can be mapped to disjoint regions of the breather parameter space, we find that amplitude modulated solutions are located in the middle of both stability regimes. This displays the dynamics of critical behavior for solutions around the stability limit.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
+
+
 April 11, 2023 17:00 in <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
 Prof. Shinji Mukohyama (Kyoto)
 Effective field theory of black hole perturbations with timelike scalar profile
