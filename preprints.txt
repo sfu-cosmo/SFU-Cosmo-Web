@@ -529,3 +529,7 @@ Report of the topical group on cosmic probes of fundamental physics for for Snow
 SCG-2023-01 [2302.10999]
 S.~H.~Mirpoorian, Z.~Wang, and L.~Pogosian
 On validity of the quasi-static approximation in scalar-tensor theories
+
+SCG-2023-02 [2304.12179]
+A.~V.~Frolov and V.~P.~Frolov
+Classical mechanics with inequality constraints
