@@ -1,0 +1,68 @@
+#encoding UTF-8
+#attr $root = '../'
+#attr $page = 'apps/healpix'
+#attr $trail = ['<a href="../apps.html">Applications</a>', '<a href="index.html">HEALPix Viewer</a>']
+#attr $title = 'HEALPix Viewer'
+#def content
+    
+    <BLOCKQUOTE>
+    <H2>A GPU-accelerated viewer for HEALPix maps</H2>
+    <TABLE><TR>
+    <TD WIDTH="100%">
+        <A HREF="https://healpix.jpl.nasa.gov">HEALPix</A> by Górski et al. (2005) is de-facto standard for Cosmic Microwave Background (CMB) data storage and analysis, and is widely used in current and upcoming CMB experiments. Almost all the datasets in Legacy Archive for Microwave Background Data Analysis (<A HREF="https://lambda.gsfc.nasa.gov">LAMBDA</A>) use HEALPix as a format of choice. HEALPix Viewer is a macOS application which takes full advantage of GPU acceleration to visualize extremely large datasets in real time.
+
+        HEALPix Viewer was written by <A HREF="http://www.sfu.ca/~frolov">Andrei Frolov</A> for his early Universe research.
+        The <A HREF="https://github.com/andrei-v-frolov/healpix-viewer">source code</A> is published and distributed under the terms of
+        <A HREF="https://www.gnu.org/licenses/gpl-3.0.txt">GNU Public License</A>.
+        
+        <BR><BR>
+        If you use HEALPix Viewer in your research, please cite
+        <A HREF="">arXiv:??????:????</A>
+        (the preprint describing HEALPix Viewer internals and user interface).
+    </TD>
+    <TD><IMG SRC="../images/healpix-viewer.png" WIDTH="128" HEIGHT="128" BORDER="0" HSPACE="32" ALT="HEALPix Viewer" ALIGN="right"></TD>
+    </TR></TABLE>
+    </BLOCKQUOTE>
+
+    <BLOCKQUOTE>
+    <H2>Features</H2>
+    <P ALIGN="center">
+    <IMG SRC="main-smica-inpainted.png" WIDTH="235" HEIGHT="163" BORDER="0" HSPACE="32" ALT="HEALPix Viewer UI">
+    <IMG SRC="stats-smica-inpainted.png" WIDTH="235" HEIGHT="163" BORDER="0" HSPACE="32" ALT="Statistics data overlay">
+    
+    <H3>HEALPix Viewer Features</H3>
+    <UL>
+      <LI>modern macOS interface (SwiftUI based)
+      <LI>heavily GPU accelerated (almost everything except loading and sorting)
+      <LI>supports really large maps in real time (tested with nside=8192)
+      <LI>high quality map output (Lanczos oversampling built in, GPU accelerated)
+      <LI>integrates into your workflow - drag & drop maps into Keynote/PowerPoint, etc.
+      <LI>shortcuts for common analysis actions - statistics, PDF, data transforms
+      <LI>extensible architecture - easily add your own colormaps, transforms, etc.
+      <LI>entire <A HREF="https://github.com/andrei-v-frolov/healpix-viewer">source code</A> available (Swift, C, Metal), about 5.2k lines
+    </UL>
+
+    <H3>Caveats</H3>
+    <UL>
+      <LI>requires macOS 12, some features (notably charts) need macOS 13+ to run
+      <LI>multiple GPUs are not supported, currently uses first one on device list
+      <LI>memory hungry: nside=2048 map needs 1.3Gb of available VRAM
+      <LI>maximal texture size and output image dimensions are limited to 16384
+      <LI>testing is done on finite set of hardware, mostly recent M1 machines
+      <LI>feature requests are welcome, but some are harder to implement than others
+    </UL>
+    </BLOCKQUOTE>
+
+    <BLOCKQUOTE>
+    <H2>Download</H2>
+    <A HREF=""><IMG SRC="../images/download-mac-store.svg" HEIGHT="60" BORDER="0" HSPACE="32" VSPACE="16" ALIGN="right" STYLE="opacity:0.3" ALT="Download on App Store"></IMG></A>
+
+    <H3>Stable binary releases</H3>
+    <UL>
+      <LI><A HREF="release/HEALPix Viewer 006 2023-03-14.zip">HEALPix Viewer v1.0 (build 007)</A>
+    </UL>
+    See <A HREF="https://github.com/andrei-v-frolov/healpix-viewer/blob/main/CHANGES.md">change log</A> for complete development history.
+    <BR STYLE="clear: all;"/>
+    </BLOCKQUOTE>
+#end def
+#include 'layout.tmpl'
