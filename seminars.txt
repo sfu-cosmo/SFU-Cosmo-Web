@@ -47,10 +47,13 @@ I will discuss how fast semi-analytical cosmological simulations allow us to acc
 <BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
 
 
+November 8, 2022 11:00 in P8445A
 Dr. Daniel Jiménez Aguilar (University of the Basque Country)
 The dynamics of domain wall strings
 
 In many field theories, solitonic solutions admit localized excitations with unnaturally long lifetimes in their spectrum of perturbations. These bound states may play a significant role in the dynamics of solitons, and in particular, they could shed light on some aspects concerning the evolution of cosmic string networks. In this talk I will discuss the influence of this type of excitations on the dynamics of string-like domain walls in 2+1 dimensions, focusing mostly on interesting resonance phenomena arising from the interaction of different modes at a non-linear level. The processes by which the excited string can emit radiation will also be analyzed, and the motion of the soliton in lattice field theory simulations will be contrasted with the one predicted by the Nambu-Goto action.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
 
 
 October 25, 2022 14:00 in P8445A
