@@ -533,3 +533,11 @@ On validity of the quasi-static approximation in scalar-tensor theories
 SCG-2023-02 [2304.12179]
 A.~V.~Frolov and V.~P.~Frolov
 Classical mechanics with inequality constraints
+
+SCG-2023-03 [2305.11507]
+A.~V.~Frolov
+A GPU-accelerated viewer for HEALPix maps
+
+SCG-2023-04 [2305.05667]
+Z.~Wang, S.~H.~Mirpoorian, L.~Pogosian, A.~Silvestri, and G.-B.~Zhao
+New MGCAMB tests of gravity with CosmoMC and Cobaya
