@@ -541,3 +541,8 @@ A GPU-accelerated viewer for HEALPix maps
 SCG-2023-04 [2305.05667]
 Z.~Wang, S.~H.~Mirpoorian, L.~Pogosian, A.~Silvestri, and G.-B.~Zhao
 New MGCAMB tests of gravity with CosmoMC and Cobaya
+
+SCG-2023-05 [2306.00211]
+G.~F.~Quispe~Peña and A.~V.~Frolov
+Astrophysical foreground cleanup using non-local means
+
