@@ -546,3 +546,6 @@ SCG-2023-05 [2306.00211]
 G.~F.~Quispe~Peña and A.~V.~Frolov
 Astrophysical foreground cleanup using non-local means
 
+SCG-2023-06 [2307.05475]
+K.~Jedamzik and L.~Pogosian
+Primordial magnetic fields and the Hubble tension
