@@ -31,26 +31,54 @@
     <IMG SRC="stats-smica-inpainted.png" WIDTH="235" HEIGHT="163" BORDER="0" HSPACE="32" ALT="Statistics data overlay">
     
     <H3>HEALPix Viewer Features</H3>
-    <UL>
+    <UL STYLE="margin-top: 0px">
       <LI>modern macOS interface (SwiftUI based)
       <LI>heavily GPU accelerated (almost everything except loading and sorting)
       <LI>supports really large maps in real time (tested with nside=8192)
-      <LI>high quality map output (Lanczos oversampling built in, GPU accelerated)
+      <LI>high quality map rendering (LOD, Lanczos oversampling built in, GPU accelerated)
       <LI>integrates into your workflow - drag & drop maps into Keynote/PowerPoint, etc.
       <LI>shortcuts for common analysis actions - statistics, PDF, data transforms
       <LI>extensible architecture - easily add your own colormaps, transforms, etc.
-      <LI>entire <A HREF="https://github.com/andrei-v-frolov/healpix-viewer">source code</A> available (Swift, C, Metal), about 5.2k lines
+      <LI>entire <A HREF="https://github.com/andrei-v-frolov/healpix-viewer">source code</A> available (Swift, C, Metal), about 6.8k lines
     </UL>
 
     <H3>Caveats</H3>
-    <UL>
+    <UL STYLE="margin-top: 0px">
       <LI>requires macOS 12, some features (notably charts) need macOS 13+ to run
-      <LI>multiple GPUs are not supported, currently uses first one on device list
-      <LI>memory hungry: nside=2048 map needs 1.3Gb of available VRAM
+      <LI>multiple GPUs are not supported, can select one from device list
+      <LI>memory hungry: nside=2048 map needs 0.8Gb of available VRAM in 32 bits
       <LI>maximal texture size and output image dimensions are limited to 16384
-      <LI>testing is done on finite set of hardware, mostly recent M1 machines
+      <LI>testing is done on a finite set of hardware, mostly recent M1 and M2 machines
       <LI>feature requests are welcome, but some are harder to implement than others
     </UL>
+    </BLOCKQUOTE>
+
+    <BLOCKQUOTE>
+    <H2>Image Gallery</H2>
+    <P ALIGN="center">
+    <IMG SRC="353GHz-equalized.png" WIDTH="220" HEIGHT="110" BORDER="0" HSPACE="4" ALT="Planck 353GHz dust map">
+    <IMG SRC="sync-dust.png" WIDTH="220" HEIGHT="110" BORDER="0" HSPACE="4" ALT="Planck synchrotron and dust false color map">
+    <IMG SRC="ROSAT.png" WIDTH="220" HEIGHT="110" BORDER="0" HSPACE="4" ALT="ROSAT R4,R5,R6 false color map">
+    <BR STYLE="clear: both;"/>
+    </BLOCKQUOTE>
+    
+    <BLOCKQUOTE>
+    <H2>Sample HEALPix files</H2>
+    <IMG SRC="earth-faded.png" WIDTH="232" HEIGHT="148" BORDER="0" HSPACE="32" ALT="Earth DEM in Mercator projection" ALIGN="right">
+
+    <H3>Digital Earth elevation maps (<A HREF="data/earth.py">derived</A> from <A HREF=" http://www.viewfinderpanoramas.org/dem3.html">15" resolution data</A>)</H3>
+    <UL STYLE="margin-top: 0px">
+      <LI><A HREF="data/earth-2048.fits">n<sub>side</sub>=2048</A>
+      <LI><A HREF="data/earth-8192.fits">n<sub>side</sub>=8192</A>
+    </UL>
+
+    <H3>Cosmology and astrophysics maps</H3>
+    <UL STYLE="margin-top: 0px; margin-bottom: -20px">
+      <LI><A HREF="https://lambda.gsfc.nasa.gov/product/wmap/dr5/m_products.html">WMAP DR5 data</A>
+      <LI><A HREF="https://pla.esac.esa.int/#maps">Planck legacy data</A>
+      <LI><A HREF="https://www.jb.man.ac.uk/research/cosmos/rosat/">ROSAT data</A>
+    </UL>
+    <BR STYLE="clear: both;"/>
     </BLOCKQUOTE>
 
     <BLOCKQUOTE>
@@ -58,7 +86,7 @@
     <A HREF="https://apps.apple.com/app/healpix-viewer/id1660836459"><IMG SRC="../images/download-mac-store.svg" HEIGHT="60" BORDER="0" HSPACE="32" VSPACE="16" ALIGN="right" ALT="Download on App Store"></IMG></A>
 
     <H3>Stable binary releases</H3>
-    <UL>
+    <UL STYLE="margin-top: 0px">
       <LI><A HREF="release/HEALPix Viewer 007 2023-05-21.zip">HEALPix Viewer v1.0 (build 007)</A>
     </UL>
     See <A HREF="https://github.com/andrei-v-frolov/healpix-viewer/blob/main/CHANGES.md">change log</A> for complete development history.
