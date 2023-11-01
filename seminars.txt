@@ -1,3 +1,21 @@
+November 7, 2023 14:00 in P8445B
+Prof. Marcin Sawicki (Saint Mary’s)
+JWST’s distant universe as seen by CANUCS
+
+The James Webb Space Telescope has been the most anticipated astronomical observatory of the first part of the 21st century. And it has not disappointed: since the beginning of Webb’s science operations just over a year ago, amazing new discoveries made by JWST have been shedding new light on our understanding of the Universe and its contents. Having built of Webb’s four science instruments, NIRISS, Canadians are fully engaged in this research, learning about the Universe from the era of Cosmic Dawn (when galaxies were first forming) through Cosmic Noon (when the Universe was bursting with star formation), through to the current cosmic epoch. Along the way so far we have observed young galaxies getting assembled from their building blocks, found some of the first star clusters to have formed after the Big Bang, and saved cosmology as we know it from premature reports of its demise. This talk will give an overview of how Canada came to be a key player in Webb and will describe some of the results to have come from CANUCS, which stands for "Canadian NIRISS Unbiased Cluster Survey" and which is - at 200 hours of Guaranteed Time Observations - the largest JWST program to observe the distant Universe behind massive, gravitationally-lensing galaxy clusters.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
+
+
+October 31, 2023 14:00 in P8445B
+Prof. Shinji Mukohyama (YITP, Kyoto)
+Dynamical approach to the cosmological constant revisited
+
+The cosmological constant (cc) problem is one of the most difficult problems in theoretical physics and cosmology. The observational upper bound on the cc is smaller than what is naively expected quantum mechanically by 120 orders of magnitude. At present there is no theory that can convincingly explain this small value. In this talk I present a cosmological model of an early-time scenario that incorporates a relaxation process of the would-be large vacuum energy, followed by a reheating era connecting to the standard hot big bang universe.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">Zoom</A>
+
+
 September 14, 2023 13:00 in P8445B
 Prof. Prajval Shastri (Indian Institute of Astrophysics)
 Different angles on accreting supermassive black holes
