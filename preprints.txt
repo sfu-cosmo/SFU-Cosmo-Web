@@ -549,3 +549,7 @@ Astrophysical foreground cleanup using non-local means
 SCG-2023-06 [2307.05475]
 K.~Jedamzik and L.~Pogosian
 Primordial magnetic fields and the Hubble tension
+
+SCG-2024-01 [2405.13373]
+J.~Barenboim, A.~V.~Frolov, and G.~Kunstatter
+No drama in 2D black hole evaporation

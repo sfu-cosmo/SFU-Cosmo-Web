@@ -20,8 +20,8 @@ def parse(fp):
         try:
             p = preprint()
             
-            p.id, p.arxiv = re.match('(.*)\s+\[(.*)\]', fp.skip()).groups()
-            p.year = re.match('\w+-(\d+)-\d+', p.id).group(1)
+            p.id, p.arxiv = re.match(r'(.*)\s+\[(.*)\]', fp.skip()).groups()
+            p.year = re.match(r'\w+-(\d+)-\d+', p.id).group(1)
             
             p.authors = fp.skip()
             p.authors = re.sub(anyofus, r'<B>\1</B>', p.authors)
