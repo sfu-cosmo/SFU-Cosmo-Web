@@ -553,3 +553,7 @@ Primordial magnetic fields and the Hubble tension
 SCG-2024-01 [2405.13373]
 J.~Barenboim, A.~V.~Frolov, and G.~Kunstatter
 No drama in 2D black hole evaporation
+
+SCG-2024-02 [2404.09379]
+S.~Castello, Z.~Wang, L.~Dam, C.~Bonvin, and L.~Pogosian
+Disentangling modified gravity from a dark force with gravitational redshift
