@@ -1,3 +1,10 @@
+January 22, 2025 15:30 in P8445A
+Prof. Kazuya Koyama (ICG, Porstmouth)
+Theory activities in Euclid
+
+I will present results from activities within the theory working group in the Euclid collaboration. Our main focus is the forecasts for Euclid’s abilities to constrains models beyond Lambda-CDM models. I will also present the efforts to validate the pipeline in beyond Lambda-CDM models including the comparison of N-body simulations, measurements of the power spectrum and the implementation of emulators to the likelihood code.
+
+
 November 7, 2023 14:00 in P8445B
 Prof. Marcin Sawicki (Saint Mary’s)
 JWST’s distant universe as seen by CANUCS
