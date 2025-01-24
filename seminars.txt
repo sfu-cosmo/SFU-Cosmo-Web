@@ -1,3 +1,10 @@
+January 24, 2025 14:30 in BLU9660
+Prof. Dragan Huterer (Michigan)
+Cosmological results from DESI (physics colloquium)
+
+The standard model of cosmology contains two mysterious components, dark matter and dark energy, that dominate the dynamics of the universe yet whosephysical origin is not well understood. I will briefly review the history and status of dark energy, the component that causes the accelerated expansion of the universe. I will also explain the physics behind how dark energy is constrained with cosmological observations. Then I will present and discuss cosmological results from the measurement of "baryon acoustic oscillations" in the first year of observations from the Dark Energy Spectroscopic Instrument (DESI Y1). These results, when combined with other data, have indicated a possible new anomaly in the behavior of dark energy, and provided unprecedented constraints on neutrino mass and primordial non-Gaussianity.
+
+
 January 22, 2025 15:30 in P8445A
 Prof. Kazuya Koyama (ICG, Porstmouth)
 Theory activities in Euclid
