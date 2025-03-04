@@ -557,3 +557,7 @@ No drama in 2D black hole evaporation
 SCG-2024-02 [2404.09379]
 S.~Castello, Z.~Wang, L.~Dam, C.~Bonvin, and L.~Pogosian
 Disentangling modified gravity from a dark force with gravitational redshift
+
+SCG-2024-03 [2502.20452]
+Pan-Experiment Galactic Science Group
+Full-sky models of galactic microwave emission and polarization at sub-arcminute scales for the Python Sky Model
