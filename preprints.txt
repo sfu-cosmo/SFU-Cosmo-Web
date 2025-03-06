@@ -561,3 +561,11 @@ Disentangling modified gravity from a dark force with gravitational redshift
 SCG-2024-03 [2502.20452]
 Pan-Experiment Galactic Science Group
 Full-sky models of galactic microwave emission and polarization at sub-arcminute scales for the Python Sky Model
+
+SCG-2024-04 [2503.00636]
+M.~Abitbol et. al.
+The Simons Observatory: Science goals and forecasts for the enhanced Large Aperture Telescope
+
+SCG-2024-05 [2503.03191]
+J.~Barenboim, A.~V.~Frolov, and G.~Kunstatter
+Evaporation of regular black holes in 2D dilaton gravity
