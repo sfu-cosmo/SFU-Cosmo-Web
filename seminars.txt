@@ -1,3 +1,10 @@
+March 12, 2025 at 15:30 in P8445A
+Dr. Yukari Uchibori (UBC)
+The quest to capture dark energy
+
+Dark energy is a mysterious entity driving the accelerated expansion of the universe. Its nature remains one of the biggest open questions in modern cosmology. The Canadian Hydrogen Intensity Mapping Experiment (CHIME), a novel radio interferometer, is designed to probe this mystery by mapping the large-scale structure of the universe through the 21 cm emission line of neutral hydrogen. CHIME specifically measures the expansion rate during the critical epoch when dark energy’s influence became non-negligible. This seminar provides an overview of CHIME’s innovative design, observational techniques, and recent breakthroughs, including the first successful detections of 21 cm emission through cross-correlation studies. It also highlights CHIME’s broader contributions to astrophysics, such as fast radio burst and pulsar research. Additionally, the seminar introduces key cosmological concepts necessary to understand CHIME’s mission, ensuring accessibility to physicists at all levels, including undergraduates.
+
+
 January 24, 2025 14:30 in BLU9660
 Prof. Dragan Huterer (Michigan)
 Cosmological results from DESI (physics colloquium)
