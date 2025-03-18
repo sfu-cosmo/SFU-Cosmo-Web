@@ -1,4 +1,11 @@
-March 12, 2025 at 15:30 in P8445A
+March 19, 2025 at 15:30 in P8445A
+Dr. David Miller (UBC)
+Probing stellar evolution with the white dwarf initial-final mass relation
+
+The initial-final mass relation (IFMR) links the final mass of a white dwarf (WD) to the initial mass of its progenitor star, making it a fundamental tool for understanding stellar evolution. It plays a crucial role in setting core-collapse supernova rates, compact object formation, and the broader evolution of galaxies through star formation and chemical enrichment. Open clusters provide an ideal setting for studying the IFMR, since all stars in a cluster form at roughly the same time, allowing for direct progenitor mass estimates. This talk will cover the IFMR, relevant stellar evolution processes, and its broader astrophysical significance, with sufficient background to ensure accessibility to a general physics audience. I will also highlight recent advancements in refining the IFMR using Gaia DR3 data, including a major update based on spectroscopically confirmed hydrogen-atmosphere WDs in open clusters and comparisons with alternative approaches.
+
+
+March 12, 2025 at 15:30 in P8445B
 Dr. Yukari Uchibori (UBC)
 The quest to capture dark energy
 
