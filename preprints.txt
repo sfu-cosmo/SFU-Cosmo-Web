@@ -558,6 +558,18 @@ SCG-2024-02 [2404.09379]
 S.~Castello, Z.~Wang, L.~Dam, C.~Bonvin, and L.~Pogosian
 Disentangling modified gravity from a dark force with gravitational redshift
 
+SCG-2024-03 [2405.20306]
+L.~Pogosian, G.-B.~Zhao, and K.~Jedamzik
+A consistency test of the cosmological model at the epoch of recombination using DESI BAO and Planck measurements
+
+SCG-2024-04 [2406.09204]
+Z.~Wang, D.~Saadeh, K.~Koyama, L.~Pogosian, B.~Bose, L.~Yi, and G.-B.~Zhao
+Extending MGCAMB tests of gravity to nonlinear scales
+
+SCG-2024-05 [2411.16678]
+S.~H.~Mirpoorian, K.~Jedamzik, and L.~Pogosian
+Modified recombination and the Hubble tension
+
 SCG-2025-01 [2502.20452]
 Pan-Experiment Galactic Science Group
 Full-sky models of galactic microwave emission and polarization at sub-arcminute scales for the Python Sky Model
@@ -570,7 +582,14 @@ SCG-2025-03 [2503.03191]
 J.~Barenboim, A.~V.~Frolov, and G.~Kunstatter
 Evaporation of regular black holes in 2D dilaton gravity
 
-SCG-2025-04 [2504.00227]
-P.~Arras, J.~Roth, M.~Reinecke, R.~A.~Perley, A.~Frolov, R.~Westermann, and T.~A.~Enßlin
+SCG-2025-04 [2503.09599]
+K.~Jedamzik, L.~Pogosian, and T.~Abel
+Hints of primordial magnetic fields at recombination and implications for the Hubble tension
 
+SCG-2025-05 [2504.00227]
+P.~Arras, J.~Roth, M.~Reinecke, R.~A.~Perley, A.~Frolov, R.~Westermann, and T.~A.~Enßlin
 Bayesian imaging of interferometric data from polarized electromagnetic signals
+
+SCG-2025-06 [2504.01669]
+E.~Di Valentino et. al.
+The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics
