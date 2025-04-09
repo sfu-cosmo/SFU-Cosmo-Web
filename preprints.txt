@@ -593,3 +593,7 @@ Bayesian imaging of interferometric data from polarized electromagnetic signals
 SCG-2025-06 [2504.01669]
 E.~Di Valentino et. al.
 The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics
+
+SCG-2025-07 [2504.06118]
+G.~Gu et. al.
+Dynamical dark energy in light of the DESI DR2 baryonic acoustic oscillations measurements
