@@ -597,3 +597,11 @@ The CosmoVerse White Paper: Addressing observational tensions in cosmology with 
 SCG-2025-07 [2504.06118]
 G.~Gu et. al.
 Dynamical dark energy in light of the DESI DR2 baryonic acoustic oscillations measurements
+
+SCG-2025-08 [2504.15274]
+S.~H.~Mirpoorian, K.~Jedamzik, and L.~Pogosian
+Is dynamical dark energy necessary? DESI BAO and modified recombination
+
+SCG-2025-09 [2504.19830]
+A.~Nezhadsafavi and L.~Pogosian
+Cosmic strings in the complex symmetron model
