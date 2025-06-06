@@ -1,3 +1,10 @@
+June 2, 2025, at 15:00 in P8445B
+Helena Garcia Escudero (UC Irvine)
+Beyond the Comfort of ΛCDM: Massive neutrinos, extra neutrinos, and other surprises in cosmology
+
+Recent theoretical and observational insights suggest that the six-parameter ΛCDM model may no longer adequately describe cosmology. While datasets such as CMB anisotropies, BAO, type Ia supernovae, and large-scale structure generally align with ΛCDM, they often favor conflicting parameter spaces. Laboratory experiments confirm that neutrinos have mass, affecting cosmological observations through their gravitational effects. Furthermore, the Hubble tension remains a significant challenge to standard ΛCDM. This tension arises from discrepancies in the Hubble parameter values, derived either indirectly and model-dependently from the angular scale of standard rulers or more directly from the brightness of standard candles. In this talk, I will review the impact of neutrinos in cosmology, the current constraints on their mass hierarchy, and their role as a potential source of additional radiation. I will also address the subtle but persistent negative neutrino mass anomaly and its implications for model extensions beyond ΛCDM. Finally, assuming the Hubble tension is real, I will confirm that additional radiation density, possibly from neutrinos, could alleviate this tension.
+
+
 March 19, 2025 at 15:30 in P8445A
 Dr. David Miller (UBC)
 Probing stellar evolution with the white dwarf initial-final mass relation
