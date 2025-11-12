@@ -605,3 +605,7 @@ Is dynamical dark energy necessary? DESI BAO and modified recombination
 SCG-2025-09 [2504.19830]
 A.~Nezhadsafavi and L.~Pogosian
 Cosmic strings in the complex symmetron model
+
+SCG-2025-10 [2510.18298]
+J.~Barenboim, A.~V.~Frolov, and G.~Kunstatter
+Quantum-corrected Bondi mass for 2D Hawking radiation
