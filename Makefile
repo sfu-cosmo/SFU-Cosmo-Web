@@ -3,6 +3,9 @@
 # Makefile for SFU Cosmology website
 ################################################################
 
+# Cheetah configuration
+CHEETAH = $(shell python -m site --user-base)/bin/cheetah
+
 # Files
 templates = $(patsubst template/%.tmpl,compiled/%.py,$(shell find template -name '*.tmpl'))
 htmls = $(addprefix html/,index.html seminars/arxives.html seminars/webcal.ics) 
@@ -37,7 +40,7 @@ html/seminars/arxives.html: seminars.txt parser/seminars.py
 
 # pre-compile Cheetah templates
 compiled/%.py: template/%.tmpl layout.tmpl
-	cheetah-2.7 compile --idir $(dir $<) --odir $(dir $@) $(notdir $<)
+	$(CHEETAH) compile --idir $(dir $<) --odir $(dir $@) $(notdir $<)
 
 # fill in pre-compiled template (generic rule)
 html/%.html html/%.ics: compiled/%.py
