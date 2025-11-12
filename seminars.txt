@@ -1,3 +1,38 @@
+November 17, 2025, at 14:30 in P8445B
+Dr. Afif Omar (UVic)
+Probing Hadronic Dark Matter Annihilation with Big Bang Nucleosynthesis
+
+The first elements in the Universe were synthesized within a few minutes after the Big Bang, in the epoch known as Big Bang Nucleosynthesis (BBN). Precise measurements from astrophysical observations, the cosmic microwave background (CMB), and nuclear reaction rates render BBN an essentially parameter-free theory, making it a powerful test of new physics. In this talk, I will show how BBN can be used to probe residual annihilations of sub-GeV thermal relic dark matter (DM). I will focus on candidates with velocity-suppressed annihilation channels and show that DM annihilation to pions and kaons beyond freeze-out, and their subsequent interaction with protons and neutrons prior to the deuterium bottleneck provide a sensitivity to annihilation that surpasses that of the CMB and indirect detection in the galaxy.
+
+
+November 10, 2025, at 14:30 in P8445B
+Dr. Qinrui Liu (SFU)
+High-energy cosmic neutrinos: A unique window to the universe
+
+The universe is a natural laboratory for investigating physics. The unique properties of neutrinos make them excellent cosmic messengers to explore astronomy, particle physics, and cosmology. The IceCube experiment discovered TeV-PeV neutrinos of cosmic origin. These neutrinos provide the only unobstructed view of cosmic accelerators that power the highest energy radiation from the universe while also offering a beam to study fundamental physics. Observations of high-energy cosmic neutrinos have yielded significant results in recent years, including the identification of extragalactic sources and emissions from the Galactic Plane, and the coming years are anticipated to mark a golden age for discoveries. In this talk, I will discuss ongoing efforts in neutrino source studies, the implications of the neutrino flavor composition, and the potential of probing dark matter and new physics. I will also remark on the detection prospects of the next-generation neutrino telescopes in addressing challenging questions.
+
+
+October 27, 2025, at 14:30 in SSB7109
+Prof. Levon Pogosian (SFU)
+A theorist's perspective on cosmological tensions
+
+With the increased precision of different types of cosmological measurements, certain tensions emerged between some of the datasets when interpreted within the standard Lambda Cold Dark Matter (LCDM) model. Most notable of them is the Hubble Tension, referring to the 5-sigma disagreement between the value of the Hubble constant predicted by the LCDM fit to cosmic microwave background (CMB) measurements and its direct determination from Cepheid-calibrated Type IA supernova. I will review the observational evidence for the tensions and some of the theoretical proposals aimed at solving them.
+
+
+October 20, 2025, at 14:30 in P8445B
+Dr. Meng-Xiang Lin (SFU)
+Cosmological tensions and interactions between dark matter and dark energy
+
+The nature of dark matter and dark energy remains one of the most profound mysteries in modern cosmology. In addition to these theoretical challenges, recent cosmological observations have revealed potential signs of new physics beyond the standard ΛCDM paradigm. In this talk, I will begin by briefly reviewing current cosmological tensions, including the latest DESI evidence for dynamical dark energy, the Hubble tension, and the S8 tension. I will then explore possible new physics underlying these tensions, with a particular focus on interactions between dark matter and dark energy. I will demonstrate that a simple coupling between the two components can simultaneously address two distinct anomalies: the DESI-indicated dynamical dark energy and the S8 tension. We propose a stable and technically natural particle physics realization of this idea, which exhibits an apparent phantom crossing behavior in the dark energy equation of state, consistent with DESI findings. The possible resolutions to the Hubble tension will also be discussed.
+
+
+October 10, 2025, at 14:30 in AQ3149
+Prof. Francis Halzen (University of Wisconsin-Madison)
+IceCube: The first decade of neutrino astronomy (physics colloquium)
+
+Below the geographic South Pole, the IceCube project has transformed one cubic kilometer of natural Antarctic ice into a neutrino detector. IceCube detects more than 100,000 neutrinos per year in the GeV to 10 PeV energy range. Among those, we have isolated a flux of high-energy neutrinos originating beyond our Galaxy, with an energy flux that is comparable to that of the extragalactic high-energy gamma-ray flux observed by astronomers. With a decade of data, we have identified their first sources, which point to the obscured dense cores associated with the supermassive black holes at the centers of active galaxies as the origin of high-energy neutrinos and high-energy cosmic rays. We recently also observed neutrinos originating in our own Milky Way which is, interestingly, not a prominent feature in the neutrino sky.
+
+
 June 2, 2025, at 15:00 in P8445B
 Helena Garcia Escudero (UC Irvine)
 Beyond the Comfort of ΛCDM: Massive neutrinos, extra neutrinos, and other surprises in cosmology
