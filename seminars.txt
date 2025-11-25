@@ -1,3 +1,12 @@
+December 1, 2025, at 14:30 in P8445B
+Prof. Kevork Abazajian (UC Irvine)
+Successes and challenges in neutrino cosmology and structure formation
+
+Cosmology has delivered on the promise of high sensitivity to neutrino properties of their total mass and number, with mass measurements now at precisions more than an order of magnitude better than from the laboratory. Cosmic microwave background observations, large scale structure surveys, baryon acoustic oscillation measures, and Type Ia supernovae surveys all inform us of cosmological matter and energy content and measure the clustering of matter, and provide these constraints. I will give an overview of the physics of these sensitivities to neutrino properties in the standard picture, along with their model dependencies. Significant tensions exist in several key observations, including the local Hubble expansion rate. These have surprising implications for neutrinos. I will also discuss the apparent anomalous massive galaxies discovered by JWST and their consequences for structure formation.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
 November 24, 2025, at 15:30 in P8445B
 Prof. Gopolang Mohlabeng (SFU)
 Searching for light accelerated dark matter
