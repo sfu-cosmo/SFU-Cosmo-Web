@@ -1,3 +1,12 @@
+January 19, 2026, at 14:30 in P8445B
+Dr. Jiayi Chen (SFU)
+Probing new physics with the Higgs-vector-boson coupling with the ATLAS detector
+
+Thirteen years after the discovery of the Higgs boson, the LHC program has entered a precision era in the study of this fundamental particle, which couples to all massive states in the Standard Model. In particular, the Higgs-vector-boson interaction provides a powerful window for precision tests, as potential deviations from the Standard Model may arise from charge-parity (CP) violating effects. Such CP violation is a key ingredient required to explain the matter–antimatter asymmetry of the Universe. This seminar will present the Effective Field Theory framework used to systematically probe CP-violating Higgs couplings, and will discuss recent experimental and theoretical advancements that enhance the precision of Higgs measurements using the Run-2 dataset collected by the ATLAS detector at a center-of-mass energy of 13 TeV.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
 December 1, 2025, at 14:30 in P8445B
 Prof. Kevork Abazajian (UC Irvine)
 Successes and challenges in neutrino cosmology and structure formation
