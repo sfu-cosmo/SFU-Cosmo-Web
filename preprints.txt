@@ -609,3 +609,7 @@ Cosmic strings in the complex symmetron model
 SCG-2025-10 [2510.18298]
 J.~Barenboim, A.~V.~Frolov, and G.~Kunstatter
 Quantum-corrected Bondi mass for 2D Hawking radiation
+
+SCG-2025-11 [2512.15833]
+Simons Observatory Collaboration
+The Simons Observatory: forecasted constraints on primordial gravitational waves with the expanded array of Small Aperture Telescopes
