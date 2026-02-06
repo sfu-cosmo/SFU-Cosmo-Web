@@ -613,3 +613,7 @@ Quantum-corrected Bondi mass for 2D Hawking radiation
 SCG-2025-11 [2512.15833]
 Simons Observatory Collaboration
 The Simons Observatory: forecasted constraints on primordial gravitational waves with the expanded array of Small Aperture Telescopes
+
+SCG-2026-01 [2511.16801]
+J.~D.~Peñalba~Quispitupa, G.~F.~Quispe~Peña, and J.~T.~Galvez~Ghersi
+Numerical tiling-based simulations of decoherence in multifield models of inflation
