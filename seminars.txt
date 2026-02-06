@@ -1,3 +1,12 @@
+January 26, 2026, at 14:30 in P8445B
+Dr. Javier Acevedo (UVic)
+Celestial probes of dark matter in the galactic center
+
+Celestial bodies serve as large scattering targets for dark matter, offering complementary sensitivity to direct and indirect searches via their potential heating and annihilation signatures. Most existing studies have focused on such effects on nearby stars and planets. By contrast, there has been less focus on the galactic center, where both stellar and dark matter densities are orders of magnitude higher than anywhere else in the Milky Way. I will show that, despite its distance, the innermost parsec of our Galaxy provides a unique laboratory for probing dark matter interactions beyond current experimental limits.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
 January 19, 2026, at 14:30 in P8445B
 Dr. Jiayi Chen (SFU)
 Probing new physics with the Higgs-vector-boson coupling with the ATLAS detector
@@ -133,18 +142,7 @@ April 11, 2023 17:00 in <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY
 Prof. Shinji Mukohyama (Kyoto)
 Effective field theory of black hole perturbations with timelike scalar profile
 
-Many dark energy (DE) models are based on a scalar field with timelike
-gradient. In this talk we begin with a review of the systematic
-construction of the effective field theory (EFT) describing
-perturbations around the Minkowski background with a timelike scalar
-profile and its extension to cosmological backgrounds, i.e. the ghost
-condensation and the EFT of inflation/DE. If one hopes to learn
-something about the EFT of DE from black holes (BHs) then one needs to
-consider BH solutions with timelike scalar profiles. We thus extend
-the EFT to arbitrary backgrounds. Finally, as an application of the
-general EFT, we study odd-parity perturbations around a spherically
-symmetric, static black hole background with a timelike scalar field
-responsible for DE and compute quasi-normal mode frequencies.
+Many dark energy (DE) models are based on a scalar field with timelike gradient. In this talk we begin with a review of the systematic construction of the effective field theory (EFT) describing perturbations around the Minkowski background with a timelike scalar profile and its extension to cosmological backgrounds, i.e. the ghost condensation and the EFT of inflation/DE. If one hopes to learn something about the EFT of DE from black holes (BHs) then one needs to consider BH solutions with timelike scalar profiles. We thus extend the EFT to arbitrary backgrounds. Finally, as an application of the general EFT, we study odd-parity perturbations around a spherically symmetric, static black hole background with a timelike scalar field responsible for DE and compute quasi-normal mode frequencies.
 
 <BR><BR>References:
 <A HREF="https://arxiv.org/abs/2204.00228">arXiv:2204.00228</A>;
@@ -214,12 +212,7 @@ March 8, 2022 12:30 in P8445A
 Prof. Tanmay Vachaspati (Arizona State University)
 Electroweak monopoles, magnetic fields, and topological defect formation
 
-I will argue that the vacuum manifold of the standard model of particle physics is better 
-viewed as a Hopf fibered three sphere and that the model contains both magnetic monopoles 
-and strings. The Kibble mechanism is applied to electroweak symmetry breaking to obtain the 
-monopole-string network and to obtain an estimate for the cosmological magnetic field. 
-A rigorous analysis of the quantum formation of topological defects will also be discussed
-with results that can be compared to those using the Kibble-Zurek mechanism.
+I will argue that the vacuum manifold of the standard model of particle physics is better viewed as a Hopf fibered three sphere and that the model contains both magnetic monopoles and strings. The Kibble mechanism is applied to electroweak symmetry breaking to obtain the monopole-string network and to obtain an estimate for the cosmological magnetic field. A rigorous analysis of the quantum formation of topological defects will also be discussed with results that can be compared to those using the Kibble-Zurek mechanism.
 
 <BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/61384563656?pwd=NGVDR0poY3Z2NHRkWHhSS09QZ1BiUT09">connect here</A>
 
@@ -563,12 +556,7 @@ January 12, 2015, 12:00 in P8445B
 Prof. Misao Sasaki (YITP, Kyoto University)
 Reviving open inflation
 
-The scenario of open inflation once popular in the 1990's was abandoned
-when the WMAP team announced in 2003 that our Universe is almost flat.
-However, as the precision of observational data has increased, the possibility
-to test the present curvature parameter of &Omega;<sub>K</sub> &sim; 0.01-0.001 has
-become not unrealistic. I argue that open inflation can explain some of recent
-cosmological data better than others, and it may be a new window to the
+The scenario of open inflation once popular in the 1990's was abandoned when the WMAP team announced in 2003 that our Universe is almost flat. However, as the precision of observational data has increased, the possibility to test the present curvature parameter of &Omega;<sub>K</sub> &sim; 0.01-0.001 has become not unrealistic. I argue that open inflation can explain some of recent cosmological data better than others, and it may be a new window to the
 physics of the Universe at or even before inflation.
 
 
@@ -604,592 +592,261 @@ October 3, 2014, 14:30 in AQ3005
 Prof. Gabor Kunstatter (University of Winnipeg)
 The black hole information loss problem: Is there light at the end of the tunnel? (physics colloquium)
 
-There is substantial evidence that black holes exist in binary star systems
-and at the center of most galaxies, including our own. Hawking's famous
-calculation of the mid 1970's proved that black holes evaporate by emitting
-radiation that does not contain any information about the state of the matter
-that formed the black hole. This leads to one of the deepest conundra of
-modern theoretical physics: what happens to this information once the
-evaporation is complete? Is it lost forever to the outside world or does it
-somehow emerge at the final stages of evaporation?
+There is substantial evidence that black holes exist in binary star systems and at the center of most galaxies, including our own. Hawking's famous calculation of the mid 1970's proved that black holes evaporate by emitting radiation that does not contain any information about the state of the matter that formed the black hole. This leads to one of the deepest conundra of modern theoretical physics: what happens to this information once the evaporation is complete? Is it lost forever to the outside world or does it somehow emerge at the final stages of evaporation?
 
 <p>
-After a brief review of black holes and the evidence for their existence, I
-will describe in more detail the nature of the black hole information loss
-paradox. I will then list several proposed resolutions. Finally I will offer a
-different, more mundane solution to the problem based on the fact that the
-singularity which is thought to lurk at the center of all black holes and lies
-at the heart of the conundrum cannot be realized in nature. I will use a
-simple phenomenological model to argue that taming the singularity resolves
-the conundrum by allowing the information to emerge at the end of the
-evaporation process.
+After a brief review of black holes and the evidence for their existence, I will describe in more detail the nature of the black hole information loss paradox. I will then list several proposed resolutions. Finally I will offer a different, more mundane solution to the problem based on the fact that the singularity which is thought to lurk at the center of all black holes and lies at the heart of the conundrum cannot be realized in nature. I will use a simple phenomenological model to argue that taming the singularity resolves the conundrum by allowing the information to emerge at the end of the evaporation process.
 
 
 October 2, 2014, 16:00 in P8445A
 Prof. Gabor Kunstatter (University of Winnipeg)
 The stability of AdS spacetime in Einstein-Gauss-Bonnet gravity
 
-Recently it has been argued that spherically symmetric AdS spacetime is
-unstable against the formation of black holes for a large class of arbitrarily
-small perturbations. Einstein's action undoubtedly acquires higher order
-corrections at short distance scales. The simplest of these, the so-called
-Gauss-Bonnet term, is second order in curvature and yields equations of motion
-that are second order in derivatives of the metric. I will present results of
-the numerical analysis of spherically symmetric massless scalar field collapse
-in five dimensional AdS spacetime in Einstein-Gauss-Bonnet gravity. The change
-in dynamics at short distances and high curvature has intriguing consequences
-for black hole formation and the stability of AdS spacetime.
+Recently it has been argued that spherically symmetric AdS spacetime is unstable against the formation of black holes for a large class of arbitrarily small perturbations. Einstein's action undoubtedly acquires higher ordercorrections at short distance scales. The simplest of these, the so-called Gauss-Bonnet term, is second order in curvature and yields equations of motion that are second order in derivatives of the metric. I will present results of the numerical analysis of spherically symmetric massless scalar field collapse in five dimensional AdS spacetime in Einstein-Gauss-Bonnet gravity. The change in dynamics at short distances and high curvature has intriguing consequences for black hole formation and the stability of AdS spacetime.
 
 
 September 3, 2014, 16:15 in P8445A
 Dr. Yin-Zhe Ma (UBC)
 Searching for missing baryons
 
-Previous studies of galaxy formation have shown that only 10 per cent of the
-baryons are in compact objects, while 90 per cent of them are missing.
-Numerical simulation shows that the missing baryons are in a state of diffuse
-plasma with temperature 10^5 to 10^7 Kevlin, which is hard to be detected by
-X-ray observations. In this talk, we present a thermal Sunyaev-Zeldovich -
-Lensing cross-correlation (from the Canada France Hawaii Lensing Survey
-(CFHTLenS) and Planck’s thermal Sunyaev Zeldovich maps), and constrain the
-diffuse baryon component with the various pressure profile. We find that the 1
-and 2 halo terms detected at 3.96&sigma; and 3.67&sigma; confidence level
-(CL) respectively. The effective virial temperature of the isothermal gas is
-found to be in the range 7*10<sup>5</sup>--3*10<sup>8</sup> K. In addition, by
-stacking the pairs of luminous red galaxies, we can place a constraint on the
-temperature of the filament in between the dark matter halos.
+Previous studies of galaxy formation have shown that only 10 per cent of the baryons are in compact objects, while 90 per cent of them are missing. Numerical simulation shows that the missing baryons are in a state of diffuse plasma with temperature 10^5 to 10^7 Kevlin, which is hard to be detected by X-ray observations. In this talk, we present a thermal Sunyaev-Zeldovich - Lensing cross-correlation (from the Canada France Hawaii Lensing Survey (CFHTLenS) and Planck’s thermal Sunyaev Zeldovich maps), and constrain the diffuse baryon component with the various pressure profile. We find that the 1 and 2 halo terms detected at 3.96&sigma; and 3.67&sigma; confidence level (CL) respectively. The effective virial temperature of the isothermal gas is found to be in the range 7*10<sup>5</sup>--3*10<sup>8</sup> K. In addition, by stacking the pairs of luminous red galaxies, we can place a constraint on the temperature of the filament in between the dark matter halos.
 
 
 August 15, 2014, 14:00 in P8445B
 Prof. Dmitri Pogosyan (University of Alberta)
 Topology of the Universe from Planck CMB data
 
-Cosmic Microwave Background provides us data on the structure of our Universe
-from the largest observable distances. In this talk I will discuss what limits
-are placed by the recent Planck data on the possibility that our Universe has
-complex  multi-connected space, and how this analysis is performed.
+Cosmic Microwave Background provides us data on the structure of our Universe from the largest observable distances. In this talk I will discuss what limits are placed by the recent Planck data on the possibility that our Universe has complex multi-connected space, and how this analysis is performed.
 
 
 May 6, 2014, 16:00 in Saywell 10081
 Prof. Rocky Kolb (University of Chicago)
 The Quantum and the Cosmos (public lecture)
 
-The laws of the quantum describe the behavior of elementary particles
-and other phenomena in the submicroscopic world. But understanding the
-largest structures in the cosmos also requires knowledge of the quantum
-world. This inner space/outer space connection may hold the key to
-understanding the nature of the dark matter holding together our galaxy
-and the mysterious dark energy pulling apart our universe, as well as
-understanding the cosmic seeds of structure that grew to produce
-everything we see in the cosmos.
+The laws of the quantum describe the behavior of elementary particles and other phenomena in the submicroscopic world. But understanding the largest structures in the cosmos also requires knowledge of the quantum world. This inner space/outer space connection may hold the key to understanding the nature of the dark matter holding together our galaxy and the mysterious dark energy pulling apart our universe, as well as understanding the cosmic seeds of structure that grew to produce everything we see in the cosmos.
 
 <BR><BR>
 
-Edward W. Kolb, known as Rocky Kolb is a cosmologist and a professor
-at the University of Chicago as well as the dean of Physical Sciences.
-He has worked on many aspects of the big bang cosmology, including
-baryogenesis, nucleosynthesis and dark matter. He is author, with
-Michael Turner, of the popular textbook The Early Universe
-(Addison-Wesley, 1990). Additionally, alongside his co-author Michael
-Turner, Kolb was awarded the 2010 Dannie Heineman Prize for Astrophysics.
+Edward W. Kolb, known as Rocky Kolb is a cosmologist and a professor at the University of Chicago as well as the Dean of Physical Sciences. He has worked on many aspects of the big bang cosmology, including baryogenesis, nucleosynthesis and dark matter. He is author, with Michael Turner, of the popular textbook The Early Universe (Addison-Wesley, 1990). Additionally, alongside his co-author Michael Turner, Kolb was awarded the 2010 Dannie Heineman Prize for Astrophysics.
 
 
 April 8, 2014, 14:00 in P8445B
 Dr. Zhiqi Huang (CITA, University of Toronto)
 Inflation trajectories after Planck and BICEP2
 
-I will discuss the parameter space of various inflation models after
-Planck and BICEP2. By reconstructing power spectra of primordial
-curvature fluctuations and gravitational waves, I will show that the
-simplest slow-roll single-field inflation models are not favored by
-the data any more.
+I will discuss the parameter space of various inflation models after Planck and BICEP2. By reconstructing power spectra of primordial curvature fluctuations and gravitational waves, I will show that the simplest slow-roll single-field inflation models are not favored by the data any more.
 
 
 March 4, 2014, 14:00 in P8445B
 Prof. Thomas Kephart (Vanderbilt University)
 Helicity conservation and generalized Beltrami fields
 
-We'll start with a review of magnetic helicity and the related Beltrami
-equation and then provide relativistic and non-abelian generalizations.
-Gauge invariance, variational principles, conserved currents, the
-energy-momentum tensor and choice of boundary conditions elucidate the
-subject. Applications will be discussed.
+We'll start with a review of magnetic helicity and the related Beltrami equation and then provide relativistic and non-abelian generalizations. Gauge invariance, variational principles, conserved currents, the energy-momentum tensor and choice of boundary conditions elucidate the subject. Applications will be discussed.
 
 
 January 28, 2014, 14:00 in P8445B
 Prof. Ivan Agullo (Louisiana State University)
 Conformal anomaly and primordial magnetic fields
 
-A long standing open question in cosmology concerns the origin of
-the magnetic field observed in galaxies and galaxy clusters. The
-claimed detection of a magnetic field in the intergalactic space
-provides further support to the proposal of a primordial origin.
-In this talk I will discuss how the well known conformal anomaly
-in quantum field theory in curved space-times is able to generate
-a sizable magnetic field during a phase of slow-roll inflation.
-The derivation is robust from the theoretical viewpoint and
-provides interesting lessons on the properties of quantum
-fields during inflation.
+A long standing open question in cosmology concerns the origin of the magnetic field observed in galaxies and galaxy clusters. The claimed detection of a magnetic field in the intergalactic space provides further support to the proposal of a primordial origin. In this talk I will discuss how the well known conformal anomaly in quantum field theory in curved space-times is able to generate a sizable magnetic field during a phase of slow-roll inflation. The derivation is robust from the theoretical viewpoint and provides interesting lessons on the properties of quantum fields during inflation.
 
 
 November 19, 2013, 14:00 in P8445B
 Jes Ford (UBC)
 Weighing galaxy clusters with weak lensing magnification
 
-Weak gravitational lensing is usually measured by quantifying the
-distortion of galaxy shapes. However, a different and complementary
-approach is to measure the magnification of distant background galaxies,
-which alters their observed number densities. I will give an introduction
-to lensing magnification, discuss recent progress made in this field, and
-show the results of applying this technique to measure stacked profiles of
-galaxy clusters in COSMOS and CFHTLenS.
+Weak gravitational lensing is usually measured by quantifying the distortion of galaxy shapes. However, a different and complementary approach is to measure the magnification of distant background galaxies, which alters their observed number densities. I will give an introduction to lensing magnification, discuss recent progress made in this field, and show the results of applying this technique to measure stacked profiles of galaxy clusters in COSMOS and CFHTLenS.
 
 
 November 12, 2013, 14:00 in P8445B
 Jun-Qi Guo (SFU)
 Spherical collapse in f(R) gravity
 
-The spherical scalar collapse in f(R) gravity is studied numerically.
-The f(R) theory is a modification of general relativity at low curvature
-scale and the Ricci curvature scalar decreases when the physical scalar
-field collapses to form a black hole. Consequently, the gravity transits
-from general relativity to f(R) gravity, and the scalar degree of freedom
-f' is released from a coupled state to a light state. Due to the gravity
-from the scalar sphere and the lightness of f', f' crosses the minimum of
-the potential and approaches zero near the singularity of the black hole.
-Near the singularity, in the equations of motion for the metric components
-and the scalar fields, the spacial derivative terms are negligible compared
-to the time derivative terms; the equations of motion are decoupled,
-transferring from partial differential equations to ordinary differential
-equations with respect to the coordinate time. The behaviors of the metric
-components and the scalar fields are described by the Kanser solutions.
-These results confirm the BKL conjecture. The final state of the scalar
-collapse in f(R) gravity will be discussed.
+The spherical scalar collapse in f(R) gravity is studied numerically. The f(R) theory is a modification of general relativity at low curvature scale and the Ricci curvature scalar decreases when the physical scalar field collapses to form a black hole. Consequently, the gravity transits from general relativity to f(R) gravity, and the scalar degree of freedom f' is released from a coupled state to a light state. Due to the gravity from the scalar sphere and the lightness of f', f' crosses the minimum of the potential and approaches zero near the singularity of the black hole. Near the singularity, in the equations of motion for the metric components and the scalar fields, the spacial derivative terms are negligible compared to the time derivative terms; the equations of motion are decoupled, transferring from partial differential equations to ordinary differential equations with respect to the coordinate time. The behaviors of the metric components and the scalar fields are described by the Kanser solutions. These results confirm the BKL conjecture. The final state of the scalar collapse in f(R) gravity will be discussed.
 
 
 November 1, 2013, 14:30 in AQ3150
 Prof. Neil Turok (Perimeter Institute)
 On quantum tunnelling (physics colloquium)
 
-One of the most basic but intriguing properties of quantum systems is their
-ability to "tunnel" between configurations which are classically disconnected.
-That is, processes which are  classically not just slow, but impossible,
-become possible. In this talk I will outline a new, elementary approach to quantum
-tunneling which emphasizes that the dominant classical trajectory is usually complex,
-i.e., includes an imaginary part rather than being purely real. Through combining
-the semiclassical approximation with the concepts of post-selection and weak
-measurement, sharp answers can be given to questions such as "how long did the
-tunneling take" and "where was the particle while it was tunneling?' Applications
-of this formalism span a vast range, from experimentally testing the "reality of reality"
-(!) to making sense of the inflationary multiverse and understanding the Hawking
-process of black hole evaporation.
+One of the most basic but intriguing properties of quantum systems is their ability to "tunnel" between configurations which are classically disconnected. That is, processes which are  classically not just slow, but impossible, become possible. In this talk I will outline a new, elementary approach to quantum tunneling which emphasizes that the dominant classical trajectory is usually complex, i.e., includes an imaginary part rather than being purely real. Through combining the semiclassical approximation with the concepts of post-selection and weak measurement, sharp answers can be given to questions such as "how long did the tunneling take" and "where was the particle while it was tunneling?' Applications of this formalism span a vast range, from experimentally testing the "reality of reality" (!) to making sense of the inflationary multiverse and understanding the Hawking process of black hole evaporation.
 
 
 October 29, 2013, 14:00 in P8445B
 Prof. Levon Pogosian (SFU)
 Primordial magnetism in CMB polarization
 
-A large scale B-mode signal in the CMB polarization would constitute a
-smoking gun of Inflation and is the main target of several ongoing and
-upcoming experiments. I will focus on distinguishing features of another
-potential source of primordial B-modes -- magnetic fields. In particular,
-the Faraday Rotation of CMB polarization provides a distinctive signature
-of cosmic magnetic fields through the characteristic frequency dependence
-and the mode-coupling correlations of the CMB variables. I will discuss
-constraints on primordial magnetism that can be expected from future CMB
-experiments, taking into account the obstruction caused by the magnetic
-field of the Milky Way.
+A large scale B-mode signal in the CMB polarization would constitute a smoking gun of Inflation and is the main target of several ongoing and upcoming experiments. I will focus on distinguishing features of another potential source of primordial B-modes -- magnetic fields. In particular, the Faraday Rotation of CMB polarization provides a distinctive signature of cosmic magnetic fields through the characteristic frequency dependence and the mode-coupling correlations of the CMB variables. I will discuss constraints on primordial magnetism that can be expected from future CMB experiments, taking into account the obstruction caused by the magnetic field of the Milky Way.
 
 
 October 22, 2013, 14:00 in P8445B
 Dr. Alireza Hojjati (SFU)
 Cosmology with strong lensing time delays
 
-Strong gravitational lensing of time variable sources such as quasars and
-supernovae creates observable time delays between the multiple images. Time
-delays can be used to measure cosmological parameters as well as probe the
-dark matter (sub-)structure within the lens galaxy.
+Strong gravitational lensing of time variable sources such as quasars and supernovae creates observable time delays between the multiple images. Time delays can be used to measure cosmological parameters as well as probe the dark matter (sub-)structure within the lens galaxy.
 
-I will describe how the time delays are measured and how we can use them in
-cosmology. I will also report on the observational status of strong lensing
-time delay measurements.
+I will describe how the time delays are measured and how we can use them in cosmology. I will also report on the observational status of strong lensing time delay measurements.
 
 
 October 8, 2013, 14:00 in P8445B
 Dr. Yin-Zhe Ma (UBC)
 Cosmic peculiar velocity field
 
-The peculiar velocity field is one of the important probe of large scale
-structure. Its prediction from linear perturbation theory of $\Lambda$CDM
-should be rigorous tested against observational data. In this talk, I will
-describe several statistical modeling that can utilize peculiar velocity
-field data to constrain cosmology. The first method is the cosmic Mach
-number, which quantify the ratio between bulk flow velocity and velocity
-dispersion which can be used as a sensitive test of growth of structure.
-We then constructed a hyper-parameter statistical method, to quantify the
-difference between the predicted velocity field from the density field
-probed by IRAS survey, and the direct measurement of galaxy velocities. We
-show that the hyper-parameter combination of ENEAR, Type-Ia supernovae and
-SFI++ catalogues can give a constraint on the amplitude of perturbation
-f&sigma;<sub>8</sub> = 0.38 &plusmn; 0.05, which is consistent with all other different
-measurements. If primordial non-Gaussianity exists on large scales, the
-difference between peculiar velocity field and linear-reconstructed
-density field will be differerent by a scale-dependent bias factor. We
-apply the state-of-art observational data and set up a constraint on fNL
-which is close to other large scale structure constraints. In addition, we
-provide an explanation of previously found large amplitude of bulk flow.
-We find that the bulk flow on 50 Mpc/h scales cannot provide strong
-evidence against LCDM model.
+The peculiar velocity field is one of the important probe of large scale structure. Its prediction from linear perturbation theory of $\Lambda$CDM should be rigorous tested against observational data. In this talk, I will describe several statistical modeling that can utilize peculiar velocity field data to constrain cosmology. The first method is the cosmic Mach number, which quantify the ratio between bulk flow velocity and velocity dispersion which can be used as a sensitive test of growth of structure. We then constructed a hyper-parameter statistical method, to quantify the difference between the predicted velocity field from the density field probed by IRAS survey, and the direct measurement of galaxy velocities. We show that the hyper-parameter combination of ENEAR, Type-Ia supernovae and SFI++ catalogues can give a constraint on the amplitude of perturbation f&sigma;<sub>8</sub> = 0.38 &plusmn; 0.05, which is consistent with all other different measurements. If primordial non-Gaussianity exists on large scales, the difference between peculiar velocity field and linear-reconstructed density field will be differerent by a scale-dependent bias factor. We apply the state-of-art observational data and set up a constraint on fNL which is close to other large scale structure constraints. In addition, we provide an explanation of previously found large amplitude of bulk flow. We find that the bulk flow on 50 Mpc/h scales cannot provide strong evidence against LCDM model.
 
 
 October 4, 2013, 14:30 in AQ3150
 Prof. Joseph Polchinski (KITP)
 The black hole information paradox, alive and kicking (physics colloquium)
 
-hought experiments have played an important role in figuring out the laws of
-physics. For the unification of quantum mechanics and gravity, where the phenomena
-take place in extreme regimes, they are even more crucial. Hawking’s 1976 paper
-"Breakdown of Predictability in Gravitational Collapse" presented one of the great
-thought experiments in the history of physics, arguing that black holes destroy
-information in a way that requires a modification of the laws of quantum mechanics.
-Skeptics for years failed to poke holes in Hawking's argument, but concluded that
-if quantum mechanics is to be saved then our understanding of spacetime must break
-down in a radical way. For a time it seemed that Maldacena's discovery of
-gauge/gravity duality had resolved the issue, but recent developments have
-opened many new questions.
+hought experiments have played an important role in figuring out the laws of physics. For the unification of quantum mechanics and gravity, where the phenomena take place in extreme regimes, they are even more crucial. Hawking’s 1976 paper "Breakdown of Predictability in Gravitational Collapse" presented one of the great thought experiments in the history of physics, arguing that black holes destroy information in a way that requires a modification of the laws of quantum mechanics. Skeptics for years failed to poke holes in Hawking's argument, but concluded that if quantum mechanics is to be saved then our understanding of spacetime must break down in a radical way. For a time it seemed that Maldacena's discovery of gauge/gravity duality had resolved the issue, but recent developments have opened many new questions.
 
 
 October 1, 2013, 14:00 in P8445B
 Ali Narimani (UBC)
 Minimal parameterizations for modified gravity
 
-The increasing precision of cosmological data provides us with an opportunity
-to test general relativity (GR) on the largest accessible scales.
-Parameterizing modified gravity models facilitates the systematic testing of
-the predictions of GR, and gives a framework for detecting possible deviations
-from it. Several different parameterizations have already been suggested, some
-linked to classifications of theories, and others more empirically motivated.
-Here we describe a particular new approach which casts modifications to
-gravity through two free functions of time and scale, which are directly
-linked to the field equations, but also easy to confront with observational
-data. We compare our approach with other existing methods of parameterizing
-modied gravity, specifically the parameterized post-Friedmann approach and the
-older method using the parameter set {&mu;,&gamma;}. We explain the
-connection between our parameters and the physics that is most important for
-generating cosmic microwave background anisotropies. Some qualitative features
-of this new parameterization, and therefore modifications to the gravitational
-equations of motion, are illustrated in a toy model, where the two functions
-are simply assumed to be constant parameters.
+The increasing precision of cosmological data provides us with an opportunity to test general relativity (GR) on the largest accessible scales. Parameterizing modified gravity models facilitates the systematic testing of the predictions of GR, and gives a framework for detecting possible deviations from it. Several different parameterizations have already been suggested, some linked to classifications of theories, and others more empirically motivated. Here we describe a particular new approach which casts modifications to gravity through two free functions of time and scale, which are directly linked to the field equations, but also easy to confront with observational data. We compare our approach with other existing methods of parameterizing modied gravity, specifically the parameterized post-Friedmann approach and the older method using the parameter set {&mu;,&gamma;}. We explain the connection between our parameters and the physics that is most important for generating cosmic microwave background anisotropies. Some qualitative features of this new parameterization, and therefore modifications to the gravitational equations of motion, are illustrated in a toy model, where the two functions are simply assumed to be constant parameters.
 
 
 September 20, 2013, 14:30 in AQ3150
 Prof. Christopher Stubbs (Harvard University)
 The dark energy crisis in the longer term (physics colloquium)
 
-The discovery of the accelerating expansion of the Universe, driven
-by "Dark Energy", is an indication that our understanding of fundamental
-physics is incomplete.  In particular, the Dark Energy mystery lies
-at the intersection of gravity and quantum mechanics where we have trouble
-knitting together a consistent theoretical picture.  In some ways our
-current situation is similar to the circumstances before the advent
-of quantum mechanics, with experimental results that don't fit into our
-existing theoretical framework.  I will present an overview of the
-Dark Energy crisis we face, review some of the work in progress, and
-sketch out some scenarios that might lie in our longer term future.
+The discovery of the accelerating expansion of the Universe, driven by "Dark Energy", is an indication that our understanding of fundamental physics is incomplete.  In particular, the Dark Energy mystery lies at the intersection of gravity and quantum mechanics where we have trouble knitting together a consistent theoretical picture. In some ways our current situation is similar to the circumstances before the advent of quantum mechanics, with experimental results that don't fit into our existing theoretical framework. I will present an overview of the Dark Energy crisis we face, review some of the work in progress, and sketch out some scenarios that might lie in our longer term future.
 
 
 September 10, 2013, 14:00 in P8445B
 Prof. Andrei Frolov (SFU)
 Intermittent non-Gaussianity
 
-I will talk about phase transitions and entropy production at the end
-of inflation in the early universe. Dynamics of preheating can convert
-isocurvature modes of light fields generated during inflation into curvature
-fluctuations imprinted in observable CMB temperature anisotropy. Curvature
-fluctuations thus produced are typically non-Gaussian, and caustics in phase
-space evolution can lead to intermittent patterns on the sky. I will discuss
-their observational signatures, and our efforts to construct local
-non-Gaussianity estimators to map out such signal in real data.
+I will talk about phase transitions and entropy production at the end of inflation in the early universe. Dynamics of preheating can convert isocurvature modes of light fields generated during inflation into curvature fluctuations imprinted in observable CMB temperature anisotropy. Curvature fluctuations thus produced are typically non-Gaussian, and caustics in phase space evolution can lead to intermittent patterns on the sky. I will discuss their observational signatures, and our efforts to construct local non-Gaussianity estimators to map out such signal in real data.
 
 
 November 22, 2012, 13:30 in P8445B
 Dr. Alireza Hojjati (Institute for the Early Universe, Ewha W. U.)
 Strong lensing and time-delay measurements
 
-Measurements of the time delays between the multiple images of gravitationally
-lensed quasars at high redshifts are recognized to possess complementary
-information to other probes in constraining cosmological parameters. I will
-describe the basic physics of the time delay due to strong lensing and some of
-the technical difficulties in its measurements. I then describe how we can do
-cosmology with such information.
+Measurements of the time delays between the multiple images of gravitationally lensed quasars at high redshifts are recognized to possess complementary information to other probes in constraining cosmological parameters. I will describe the basic physics of the time delay due to strong lensing and some of the technical difficulties in its measurements. I then describe how we can do cosmology with such information.
 
 
 November 8, 2012, 15:00 in P8445A
 Dr. Alireza Hojjati (Institute for the Early Universe, Ewha W. U.)
 Lyman-alpha forest as a cosmological probe
 
-Absorption of the ultra violet light (the Lyman-alpha lines) offers a 
-unique probe of the neutral Hydrogen along the line of sight of quasars, 
-which in turn is a way to trace dark matter distribution at high 
-redshifts. After an introduction to the basics, I discuss some of the 
-theoretical assumptions and approximations applied in describing the 
-phenomena and how they can impact the estimation of cosmological parameters.
+Absorption of the ultra violet light (the Lyman-alpha lines) offers a unique probe of the neutral Hydrogen along the line of sight of quasars, which in turn is a way to trace dark matter distribution at high redshifts. After an introduction to the basics, I discuss some of the theoretical assumptions and approximations applied in describing the phenomena and how they can impact the estimation of cosmological parameters.
 
 
 March 8, 2012, 14:00 in P8445B
 Prof. Jarah Evslin (IHEP, Beijing)
 Galaxy-sized monopoles as dark matter?
 
-I describe work in progress on a proposed dark matter candidate: giant 't
-Hooft-Polyakov monopoles in a new, extremely weakly coupled, dark nonabelian
-gauge sector. Each galactic halo consists of a single monopole with some
-charge Q.  The monopole density profile corresponds to a cored,
-pseudo-isothermal halo, while Dirac quantization yields a minimum halo mass,
-resolving the missing satellite problem.  A key prediction is that the outer
-halo radius is Q-independent, and so dwarf spheroidal halos extend an order of
-magnitude beyond the farthest stars, and generally beyond the tidal radius.
-Microlensing, wide binary and bullet cluster bounds are easily satisfied.
+I describe work in progress on a proposed dark matter candidate: giant 't Hooft-Polyakov monopoles in a new, extremely weakly coupled, dark nonabelian gauge sector. Each galactic halo consists of a single monopole with some charge Q. The monopole density profile corresponds to a cored, pseudo-isothermal halo, while Dirac quantization yields a minimum halo mass, resolving the missing satellite problem. A key prediction is that the outer halo radius is Q-independent, and so dwarf spheroidal halos extend an order of magnitude beyond the farthest stars, and generally beyond the tidal radius. Microlensing, wide binary and bullet cluster bounds are easily satisfied.
 
 
 February 23, 2012, 14:00 in P8445B
 Prof. Jonathan Thornburg (Indiana University)
 Modelling extreme mass ratio binary black hole inspirals for eLISA
 
-Consider a stellar-mass black hole (mass &sim; 10 solar masses) in a
-close orbit around a supermassive black hole (mass &sim; 10<sup>6</sup> solar
-masses).  In this talk I'll discuss the challenge of trying to model
-the orbital dynamics and gravitational-wave (GW) emission of such an
-"EMRI" system as it evolves under the influence of the gravitational
-radiation-reaction "self-force".  Because of the highly asymmetric
-mass ratio the orbital-decay timescale is much longer than the orbital
-period, so a direct "numerical relativity" solution of the Einstein
-equations would be both impractically expensive and insufficiently
-accurate.  Instead, we can use methods based on black hole perturbation
-theory, treating the small black hole as a perturbation of a background
-(Schwarzschild or Kerr) spacetime.  I'll outline some of the analytical
-and computational challenges of these analyses, describe recent
-progress in surmounting these challenges, and discuss EMRI systems
-as potential GW sources for the proposed eLISA/NGO space-based GW
-observatory.
+Consider a stellar-mass black hole (mass &sim; 10 solar masses) in a close orbit around a supermassive black hole (mass &sim; 10<sup>6</sup> solar masses). In this talk I'll discuss the challenge of trying to model the orbital dynamics and gravitational-wave (GW) emission of such an "EMRI" system as it evolves under the influence of the gravitational radiation-reaction "self-force". Because of the highly asymmetric mass ratio the orbital-decay timescale is much longer than the orbital period, so a direct "numerical relativity" solution of the Einstein equations would be both impractically expensive and insufficiently accurate. Instead, we can use methods based on black hole perturbation theory, treating the small black hole as a perturbation of a background (Schwarzschild or Kerr) spacetime. I'll outline some of the analytical and computational challenges of these analyses, describe recent progress in surmounting these challenges, and discuss EMRI systems as potential GW sources for the proposed eLISA/NGO space-based GW observatory.
 
 
 February 7, 2012, 14:00 in P8445B
 Prof. Scott Dodelson (Fermilab)
 Gravitational lensing
 
-One of the most powerful probes of dark energy is weak gravitational lensing.
-After reviewing the prospects for future measurements of lensing and the
-constraints expected on dark energy and modified gravity, I present our recent
-results on lensing in Stripe 82 of the Sloan Digital Sky Survey.
+One of the most powerful probes of dark energy is weak gravitational lensing. After reviewing the prospects for future measurements of lensing and the constraints expected on dark energy and modified gravity, I present our recent results on lensing in Stripe 82 of the Sloan Digital Sky Survey.
 
 
 January 17, 2012, 14:00 in P8445B
 Prof. Levon Pogosian (SFU)
 Fables of reconstruction: controlling bias in the dark energy equation of state
 
-We develop an efficient, non-parametric Bayesian method for reconstructing the
-time evolution of the dark energy equation of state w(z) from observational
-data. Of particular importance is the choice of prior, which must be chosen
-carefully to minimise variance and bias in the reconstruction. Using a
-principal component analysis, we show how a correlated prior can be used to
-create a smooth reconstruction and also avoid bias in the mean behaviour of
-w(z). We test our method using Wiener reconstructions based on Fisher matrix
-projections, and also against more realistic MCMC analyses of simulated data
-sets for Planck and a Euclid-like mission.
+We develop an efficient, non-parametric Bayesian method for reconstructing the time evolution of the dark energy equation of state w(z) from observational data. Of particular importance is the choice of prior, which must be chosen carefully to minimise variance and bias in the reconstruction. Using a principal component analysis, we show how a correlated prior can be used to create a smooth reconstruction and also avoid bias in the mean behaviour of w(z). We test our method using Wiener reconstructions based on Fisher matrix projections, and also against more realistic MCMC analyses of simulated data sets for Planck and a Euclid-like mission.
 
 
 November 29, 2011, 14:00 in P8445B
 Daniel Thomas (Imperial College)
 Making gravity count: Cluster numbers and other cosmological observables in model independent modified gravity
 
-Model-independent parameterisations of modified gravity have attracted
-a lot of attention over the past few years and numerous combinations of
-experiments and observables have been suggested to constrain the
-parameters used in these models. Galaxy clusters have been mentioned,
-but not looked at as extensively in the literature as some other probes.
-Here we look at adding galaxy clusters into the mix of observables and
-examine how they could improve the constraints on the modified gravity
-parameters. We find that cluster counts significantly improve the
-constraints obtained from combining Cosmic Microwave Background and weak
-lensing measurements. A key part of the forecast is the use of cluster
-mass functions, which are prescriptions for predicting the expected
-number of clusters given the linear theory matter power spectrum. I will
-examine how robust these mass function predictions are in a modified
-gravity context, using the results of a suite of N-body simulations.
+Model-independent parameterisations of modified gravity have attracted a lot of attention over the past few years and numerous combinations of experiments and observables have been suggested to constrain the parameters used in these models. Galaxy clusters have been mentioned, but not looked at as extensively in the literature as some other probes. Here we look at adding galaxy clusters into the mix of observables and examine how they could improve the constraints on the modified gravity parameters. We find that cluster counts significantly improve the constraints obtained from combining Cosmic Microwave Background and weak lensing measurements. A key part of the forecast is the use of cluster mass functions, which are prescriptions for predicting the expected number of clusters given the linear theory matter power spectrum. I will examine how robust these mass function predictions are in a modified gravity context, using the results of a suite of N-body simulations.
 
 
 November 25, 2011, 14:30 in AQ3149
 Prof. Levon Pogosian (SFU)
 Lambda, w and beyond (physics colloquium)
 
-Accelerating expansion of the universe is well-established, but the physics
-behind it remains unknown. While the cosmological constant, Lambda, seems like
-a safe bet, other theoretical proposals have not been ruled out. Fortunately,
-upcoming astronomical surveys of large scale structure will dramatically
-improve our ability to test Lambda, and this will be the subject of my talk.
+Accelerating expansion of the universe is well-established, but the physics behind it remains unknown. While the cosmological constant, Lambda, seems like a safe bet, other theoretical proposals have not been ruled out. Fortunately, upcoming astronomical surveys of large scale structure will dramatically improve our ability to test Lambda, and this will be the subject of my talk.
 
 
 November 22, 2011, 14:00 in P8445B
 Jun-Qi Guo (SFU)
 Scalar wave propagation in Schwarzschild metric in some usual coordinates
 
-Analytic results show that the geodesics of Schwarzchild black hole in
-Schwarzchild coordinate can not penetrate the apparent horizon. Painleve,
-Eddington-Finkelstein, and Kruskal coordinates are proposed to avoid this
-problem.
-In this talk, under the numerical approach, scalar wave propagation in these
-coordinates will exemplify the above statements. It shows that the wave indeed
-can not and can penetrate the apparent horizon in Schwarzchild and Kruskal
-coordinates, respectively. The situations in Painleve, Eddington-Finkelstein
-coordinates will also be discussed. 
-The numerical results provide a deeper understanding on the Schwarzchild
-metric and the coordinate systems.
+Analytic results show that the geodesics of Schwarzchild black hole in Schwarzchild coordinate can not penetrate the apparent horizon. Painleve, Eddington-Finkelstein, and Kruskal coordinates are proposed to avoid this problem. In this talk, under the numerical approach, scalar wave propagation in these coordinates will exemplify the above statements. It shows that the wave indeed can not and can penetrate the apparent horizon in Schwarzchild and Kruskal coordinates, respectively. The situations in Painleve, Eddington-Finkelstein coordinates will also be discussed.  The numerical results provide a deeper understanding on the Schwarzchild metric and the coordinate systems.
 
 
 November 15, 2011, 14:00 in P8445B
 Archisman Ghosh (University of Kentucky)
 Cosmological singularities and AdS/CFT
 
-Singularities in general relativity are expected to be cured by a quantum
-theory of gravity. String theory is a prospective candidate for quantum
-gravity and holographic correspondences like AdS/CFT that arise from string
-theory might shed some light into the nature of singularities. These
-correspondences map a theory of gravity to a dual non-gravitational field
-theory in a lower number of dimensions. While the theory of gravity might
-not be tractable near the singularity, the corresponding field theory might
-be well-behaved. We come up with a model of cosmology where curvatures
-become large at some time, thus resembling a big crunch, but whose field
-theory dual remains well-behaved. Our analysis in the field theory indicates
-that we have a bouncing cosmology with a thermal distribution of radiation
-and a possible formation of a small black hole after the bounce.
+Singularities in general relativity are expected to be cured by a quantum theory of gravity. String theory is a prospective candidate for quantum gravity and holographic correspondences like AdS/CFT that arise from string theory might shed some light into the nature of singularities. These correspondences map a theory of gravity to a dual non-gravitational field theory in a lower number of dimensions. While the theory of gravity might not be tractable near the singularity, the corresponding field theory might be well-behaved. We come up with a model of cosmology where curvatures become large at some time, thus resembling a big crunch, but whose field theory dual remains well-behaved. Our analysis in the field theory indicates that we have a bouncing cosmology with a thermal distribution of radiation and a possible formation of a small black hole after the bounce.
 
 
 October 21, 2011, 15:30 in AQ3149
 Prof. Andrei Frolov (SFU)
 Staring at the sky (physics colloquium)
 
-Cosmic microwave background (CMB) carries to us a snapshot of the Universe
-from the times when it was much younger than it is today. Small anisotropies
-in CMB temperature are caused by fluctuations of gravitational potential at
-recombination, which photons have to climb out of. In inflationary cosmology,
-these are created by primordial quantum fluctuations of the field driving the
-accelerated expansion of the Universe, and are essentially Gaussian random
-noise of nearly scale-invariant spectrum. CMB anisotropy spectrum has been
-mapped out to exquisite precision over the last decade. Is there anything new
-we could see? In this talk, I will discuss searching for non-Gaussianity in
-the CMB - the distortions and patterns hidden in the noise, and what they
-could tell us about the early Univese physics.
+Cosmic microwave background (CMB) carries to us a snapshot of the Universe from the times when it was much younger than it is today. Small anisotropies in CMB temperature are caused by fluctuations of gravitational potential at recombination, which photons have to climb out of. In inflationary cosmology, these are created by primordial quantum fluctuations of the field driving the accelerated expansion of the Universe, and are essentially Gaussian random noise of nearly scale-invariant spectrum. CMB anisotropy spectrum has been mapped out to exquisite precision over the last decade. Is there anything new we could see? In this talk, I will discuss searching for non-Gaussianity in the CMB - the distortions and patterns hidden in the noise, and what they could tell us about the early Univese physics.
 
 
 November 1, 2011, 14:00 in P8445B
 Prof. Andrei Frolov (SFU)
 Critical collapse and solitons in classical conformal field theory
 
-I will talk about the fate of a localized wavepacket in a classical
-conformal field theory with attractive interaction
-V(&phi;) = -&frac14; &lambda; &phi;&#x2074;.
-As potential is unbounded from below, homogeneous field collapses to
-singularity in finite time. However, finite size wavepacket can disperse
-before it collapses. Competition between the two outcomes results in a
-critical behavior, much like the one seen in gravitational collapse. I
-calculate the critical exponents, and show that there are static regular
-soliton-like solutions in the theory.
+I will talk about the fate of a localized wavepacket in a classical conformal field theory with attractive interaction V(&phi;) = -&frac14; &lambda; &phi;&#x2074;. As potential is unbounded from below, homogeneous field collapses to singularity in finite time. However, finite size wavepacket can disperse before it collapses. Competition between the two outcomes results in a critical behavior, much like the one seen in gravitational collapse. I calculate the critical exponents, and show that there are static regular soliton-like solutions in the theory.
 
 
 October 18, 2011, 14:00 in P8445B
 Dr. Yin-Zhe Ma (UBC)
 Cosmology on large and small cosmic scales
 
-In this talk, I am going to test the concordance cosmology in three different
-cosmic scales. (1) On the super-horizon scale, Copi et. al. (2009)
-have been arguing that the lack of large angular correlations of the CMB
-temperature field provides strong evidence against the standard, statistically
-isotropic, LCDM cosmology. I am going to argue that the ad-hoc
-discrepancy is due to the sub-optimal estimator of the low-l multipoles, and a
-posteriori statistics, which exaggerates the statistical significance.
-(2) LCDM model also predict the existence of primordial gravitational wave,
-for which B-mode polarization will be a powerful tool to distinguish different
-models of the early Universe; (3) On Galactic scales, Watkins et. al.
-(2008) shows that the very large bulk flow prefers a very large density
-fluctuation, which seems to contradict to the LCDM model. We provide a
-physical explanation for this big bulk flow, based on the assumption that CMB
-frame does not coincide with matter rest frame, resulting in the tilted
-Universe. We show that the 'tilted Universe' could well explain the
-bulk flow phenomena and more importantly, the constraints for this tilted
-Universe can lead to the constraint on the number of e-folds of inflation; (4)
-In addition, cosmic Mach Number from peculiar velocity catalog may provide a
-powerful test of the growth of the structure.
+In this talk, I am going to test the concordance cosmology in three different cosmic scales. (1) On the super-horizon scale, Copi et. al. (2009) have been arguing that the lack of large angular correlations of the CMB temperature field provides strong evidence against the standard, statistically isotropic, LCDM cosmology. I am going to argue that the ad-hoc discrepancy is due to the sub-optimal estimator of the low-l multipoles, and a posteriori statistics, which exaggerates the statistical significance. (2) LCDM model also predict the existence of primordial gravitational wave, for which B-mode polarization will be a powerful tool to distinguish different models of the early Universe; (3) On Galactic scales, Watkins et. al. (2008) shows that the very large bulk flow prefers a very large density fluctuation, which seems to contradict to the LCDM model. We provide a physical explanation for this big bulk flow, based on the assumption that CMB frame does not coincide with matter rest frame, resulting in the tilted Universe. We show that the 'tilted Universe' could well explain the bulk flow phenomena and more importantly, the constraints for this tilted Universe can lead to the constraint on the number of e-folds of inflation; (4) In addition, cosmic Mach Number from peculiar velocity catalog may provide a powerful test of the growth of the structure.
 
 
 October 25, 2011, 14:00 in P8445B
 Ali Narimani (UBC)
 Dimensionless cosmology
 
-Although it is possible that some fundamental physical constants could vary in
-time, it is important to only consider dimensionless combinations, such as the
-fine structure constant or the equivalent coupling constant for gravity. An
-additional feature of the standard model of cosmology raises an extra
-complication, namely that the epoch at which we live is a crucial part of the
-model. This can be defined by giving the value of any one of the evolving
-cosmological parameters. It takes some care to avoid inconsistent results for
-constraints on variable constants, which could be caused by effectively fixing
-more than one parameter today. In this talk I will describe a dimensionless
-approach to astrophysics and cosmology  through the calculations of the mass
-of a star, Big Bang Neucleosynthesis, and the Cosmic Microwave Background. I
-will also go through some examples in the literature that are either wrong or
-incomplete due to being dimensional or overly constraining the cosmological
-epoch.
+Although it is possible that some fundamental physical constants could vary in time, it is important to only consider dimensionless combinations, such as the fine structure constant or the equivalent coupling constant for gravity. An additional feature of the standard model of cosmology raises an extra complication, namely that the epoch at which we live is a crucial part of the model. This can be defined by giving the value of any one of the evolving cosmological parameters. It takes some care to avoid inconsistent results for constraints on variable constants, which could be caused by effectively fixing more than one parameter today. In this talk I will describe a dimensionless approach to astrophysics and cosmology through the calculations of the mass of a star, Big Bang Neucleosynthesis, and the Cosmic Microwave Background. I will also go through some examples in the literature that are either wrong or incomplete due to being dimensional or overly constraining the cosmological epoch.
 
 
 September 15, 2011, 14:00 in P8445B
 Prof. Tanmay Vachaspati (Arizona State University)
 Primordial magnetic fields from the electroweak epoch
 
-I will discuss the generation of cosmological magnetic fields at the
-electroweak epoch, their evolution, and potential observational signatures.
+I will discuss the generation of cosmological magnetic fields at themelectroweak epoch, their evolution, and potential observational signatures.
 
 
 March 18, 2011, 15:30 in B9201
 Prof. Lam Hui (Columbia University)
 Equivalence principle and cosmic acceleration (physics colloquium)
 
-Recent attempts to modify gravity at long distances
-to explain cosmic acceleration generally introduce new degrees
-of freedom, for instance a scalar, that must be screened
-in the solar system to satisfy stringent experimental constraints.
-We will discuss how such screening mechanisms might lead to order
-unity equivalence principle violations - in suitable environments -
-namely, objects with different degrees of screening fall
-at different rates. Proposals to observe such effects, or rule
-out such theories, will be discussed. We will also discuss screening
-mechanisms that are robust against this kind of equivalence principle
-violation.
+Recent attempts to modify gravity at long distances to explain cosmic acceleration generally introduce new degrees of freedom, for instance a scalar, that must be screened in the solar system to satisfy stringent experimental constraints. We will discuss how such screening mechanisms might lead to order unity equivalence principle violations - in suitable environments - namely, objects with different degrees of screening fall at different rates. Proposals to observe such effects, or rule out such theories, will be discussed. We will also discuss screening mechanisms that are robust against this kind of equivalence principle violation.
 
 
 March 15, 2011, 14:00 in P8445B
 Prof. Lam Hui (Columbia University)
 Bubble collisions in the early universe
 
-The dynamics of bubble collisions in the early universe will be
-discussed. In particular, I will describe a mechanism to transition
-into a new vacuum that is classical, as opposed to quantum.
-The process can be understood as the collision of solitons in 1+1
-dimensions. Our universe can reside in such a classically produced
-bubble, as opposed to the more familiar Coleman-de-Lucia bubble.
-Cosmological implications will be discussed.
+The dynamics of bubble collisions in the early universe will be discussed. In particular, I will describe a mechanism to transition into a new vacuum that is classical, as opposed to quantum. The process can be understood as the collision of solitons in 1+1 dimensions. Our universe can reside in such a classically produced bubble, as opposed to the more familiar Coleman-de-Lucia bubble. Cosmological implications will be discussed.
 
 
 March 4, 2011, 15:30 in B9201
 Prof. Ed Copeland (University of Nottingham)
 Models of dark energy (physics colloquium)
 
-I briefly review models of dark energy. These include models of a
-cosmological constant including those arising in string theory, and dynamical
-models where a scalar field may be responsible for the observed late time
-acceleration through to the possibility that we are not fully in control of
-the gravity sector and the acceleration may be some manifestation of modified
-gravity. All cases require some degree of fine tuning for the models to be
-compatible with observation.
+I briefly review models of dark energy. These include models of a cosmological constant including those arising in string theory, and dynamical models where a scalar field may be responsible for the observed late time acceleration through to the possibility that we are not fully in control of the gravity sector and the acceleration may be some manifestation of modified gravity. All cases require some degree of fine tuning for the models to be compatible with observation.
 
 
 March 1, 2011, 14:00 in P8445B
@@ -1203,291 +860,119 @@ January 14, 2011, 15:30 in AQ3154
 Prof. John Mather (NASA Goddard Space Flight Center)
 James Webb Space Telescope: Progress and scientific promise (physics colloquium)
 
-The James Webb Space Telescope is the planned successor for the Hubble Space
-Telescope, and will extend the reach of astronomers farther out in space and
-farther back in time, to within a few hundred million years of the Big Bang.
-Designed to observe at wavelengths from 0.6 to 28 &mu;m, it will open new
-frontiers in science. With its huge aperture of 6.5 meters, and its optics
-cooled to 40 K, it will probe the unknown with extraordinary sensitivity.  It
-will be used to study beginnings: the first luminous objects to form after the
-Big Bang, the first galaxies, perhaps the first black holes, and closer to
-home, the formation of stars like the Sun and planets like the Earth, and even
-the atmospheres of planets around other stars. I will show the design for the
-telescope and explain how it will operate in deep space, a million miles from
-the Earth at the Sun-Earth Lagrange point L2. The observatory is under
-construction and the hardest technical problems have been solved.
+The James Webb Space Telescope is the planned successor for the Hubble Space Telescope, and will extend the reach of astronomers farther out in space and farther back in time, to within a few hundred million years of the Big Bang. Designed to observe at wavelengths from 0.6 to 28 &mu;m, it will open new frontiers in science. With its huge aperture of 6.5 meters, and its optics cooled to 40 K, it will probe the unknown with extraordinary sensitivity. It will be used to study beginnings: the first luminous objects to form after the Big Bang, the first galaxies, perhaps the first black holes, and closer to home, the formation of stars like the Sun and planets like the Earth, and even the atmospheres of planets around other stars. I will show the design for the telescope and explain how it will operate in deep space, a million miles from the Earth at the Sun-Earth Lagrange point L2. The observatory is under construction and the hardest technical problems have been solved.
 
 
 December 7, 2010, 14:00 in P8445B
 Prof. Kris Starosta (SFU)
 Shell structure of nuclei and evolution of the Universe
 
-The success of the shell model applied to atomic nuclei derives its origins
-from the existence of a set of "magic" numbers corresponding to
-particularly stable proton and neutron configurations in nuclei along, or
-close to, the line of &beta; stability. However, for certain exotic nuclei new
-magic numbers appear while the established ones disappear. The modification of
-magic numbers of the nuclear shell model becomes available for direct studies
-following recent progress in measurements with rare exotic beams. The impact
-of nuclear structure on nucleosynthesis, distribution of elements, and
-evolution of the Universe will be discussed and a research program aimed at
-exploration of shell evolution away from the line of stability will be
-presented.
+The success of the shell model applied to atomic nuclei derives its origins from the existence of a set of "magic" numbers corresponding to particularly stable proton and neutron configurations in nuclei along, or close to, the line of &beta; stability. However, for certain exotic nuclei new magic numbers appear while the established ones disappear. The modification of magic numbers of the nuclear shell model becomes available for direct studies following recent progress in measurements with rare exotic beams. The impact of nuclear structure on nucleosynthesis, distribution of elements, and evolution of the Universe will be discussed and a research program aimed at exploration of shell evolution away from the line of stability will be presented.
 
 
 October 19, 2010, 14:00 in P8445B
 Dr. Adam Moss (UBC)
 Precision cosmology defeats void models for acceleration
 
-The suggestion that we occupy a privileged position near the centre of a
-large, nonlinear, and nearly spherical void has recently attracted much
-attention as an alternative to dark energy. Putting aside the philosophical
-problems with this scenario, we perform the most complete and up-to-date
-comparison with cosmological data. We use supernovae and the full cosmic
-microwave background spectrum as the basis of our analysis. We also include
-constraints from radial baryonic acoustic oscillations, the local Hubble rate,
-age, big bang nucleosynthesis, the Compton y-distortion, and for the first
-time include the local amplitude of matter fluctuations, \sigma_8. These all
-paint a consistent picture in which voids are in severe tension with the data.
-In particular, void models predict a very low local Hubble rate, suffer from
-an "old age problem", and predict much less local structure than is observed.
+The suggestion that we occupy a privileged position near the centre of a large, nonlinear, and nearly spherical void has recently attracted much attention as an alternative to dark energy. Putting aside the philosophical problems with this scenario, we perform the most complete and up-to-date comparison with cosmological data. We use supernovae and the full cosmic microwave background spectrum as the basis of our analysis. We also include constraints from radial baryonic acoustic oscillations, the local Hubble rate, age, big bang nucleosynthesis, the Compton y-distortion, and for the first time include the local amplitude of matter fluctuations, \sigma_8. These all paint a consistent picture in which voids are in severe tension with the data. In particular, void models predict a very low local Hubble rate, suffer from an "old age problem", and predict much less local structure than is observed.
 
 
 November 9, 2010, 14:00 in P8445B
 Dr. Cosimo Bambi (IPMU)
 Accretion process in Kerr space-time with arbitrary value of the spin parameter
 
-A fundamental limit for a rotating black hole is the Kerr bound |a<SUB>*</SUB>|
-&le; 1, where a<SUB>*</SUB> is the spin parameter. At least in some
-circumstances, we can expect that astrophysical black holes rotate close to
-this limit. On the contrary, if current black hole candidates are not Kerr
-black holes but, say, compact bodies made of exotic matter, the Kerr bound
-does not make sense and the maximum value of |a_<SUB>*</SUB>| may be either
-smaller or larger than 1. Here I discuss the effects of the spin parameter
-in the accretion process onto a compact object and the observational
-signatures in the case |a<SUB>*</SUB>| > 1.
+A fundamental limit for a rotating black hole is the Kerr bound |a<SUB>*</SUB>| &le; 1, where a<SUB>*</SUB> is the spin parameter. At least in some circumstances, we can expect that astrophysical black holes rotate close to this limit. On the contrary, if current black hole candidates are not Kerr black holes but, say, compact bodies made of exotic matter, the Kerr bound does not make sense and the maximum value of |a_<SUB>*</SUB>| may be either smaller or larger than 1. Here I discuss the effects of the spin parameter in the accretion process onto a compact object and the observational signatures in the case |a<SUB>*</SUB>| > 1.
 
 
 September 22, 2010, 14:00 in P8445A
 Prof. Wolfgang Rau (Queen's University)
 Dark matter search with CDMS and SuperCDMS
 
-Even though we know about its existence since more than
-3/4 of a century, we have yet to unveil the nature of the
-Dark Matter which dominates the matter content of the
-Universe.
-The Cryogenic Dark Matter Search Experiment (CDMS) employs
-cryogenic germanium detectors to identify direct
-interactions of Weakly Interacting Massive dark matter
-Particles (WIMPs) with ordinary matter. These detectors
-are well adapted to discriminate the abundant background
-radiation from the rare nuclear recoils expected from
-WIMP interactions.
-After a short introduction we will discuss the latest
-results from CDMS as well as plans for the next phase,
-SuperCDMS, which started at the CDMS location in northern
-Minnesota, but is expected to eventually move to SNOLAB,
-the new Canadian underground laboratory near Sudbury, ON.
+Even though we know about its existence since more than 3/4 of a century, we have yet to unveil the nature of the Dark Matter which dominates the matter content of the Universe. The Cryogenic Dark Matter Search Experiment (CDMS) employs cryogenic germanium detectors to identify direct interactions of Weakly Interacting Massive dark matter Particles (WIMPs) with ordinary matter. These detectors are well adapted to discriminate the abundant background radiation from the rare nuclear recoils expected from WIMP interactions. After a short introduction we will discuss the latest results from CDMS as well as plans for the next phase, SuperCDMS, which started at the CDMS location in northern Minnesota, but is expected to eventually move to SNOLAB, the new Canadian underground laboratory near Sudbury, ON.
 
 
 September 14, 2010, 14:00 in P8445B
 Prof. Stephane Coutu (PennState)
 Highest energy physics with the Pierre Auger Observatory
 
-The Earth is continually bombarded by particles from the cosmos, the so-called
-cosmic rays discovered almost exactly 100 years ago by Viktor Hess. Some of
-these are heralds of the most energetic processes in the Universe since the
-Big Bang. Because they can be excruciatingly rare, on the order of one
-particle per sq. km per century, extraordinary efforts are required to detect
-these messengers with good statistical accuracy. The Pierre Auger Observatory
-in Argentina is the largest instrument in the world to detect the air showers
-generated when these particles strike the Earth's atmosphere. Covering an area
-of 3000 sq. km, utilizing a hybrid combination of surface detector stations
-and nitrogen fluorescence telescopes, and in operation since 2004, Auger now
-dominates the world's sample of cosmic particles at energies beyond 10^18 eV,
-orders of magnitude beyond the reach of the most powerful accelerator
-laboratories either in existence or conceivable in the future. From the Auger
-measurements, crucial information and new puzzles emerge on the sources of
-these particles, their propagation to us over cosmological distances, and
-their atmospheric interactions in a realm beyond accelerator studies. The
-Auger results will be presented and the state of the field will be reviewed,
-as will ongoing and future developments.
+The Earth is continually bombarded by particles from the cosmos, the so-called cosmic rays discovered almost exactly 100 years ago by Viktor Hess. Some of these are heralds of the most energetic processes in the Universe since the Big Bang. Because they can be excruciatingly rare, on the order of one particle per sq. km per century, extraordinary efforts are required to detect these messengers with good statistical accuracy. The Pierre Auger Observatory in Argentina is the largest instrument in the world to detect the air showers generated when these particles strike the Earth's atmosphere. Covering an area of 3000 sq. km, utilizing a hybrid combination of surface detector stations and nitrogen fluorescence telescopes, and in operation since 2004, Auger now dominates the world's sample of cosmic particles at energies beyond 10^18 eV, orders of magnitude beyond the reach of the most powerful accelerator laboratories either in existence or conceivable in the future. From the Auger measurements, crucial information and new puzzles emerge on the sources of these particles, their propagation to us over cosmological distances, and their atmospheric interactions in a realm beyond accelerator studies. The Auger results will be presented and the state of the field will be reviewed, as will ongoing and future developments.
 
 
 February 9, 2010, 13:30 in P8445A
 Jun-Qi Guo (SFU)
 Dynamics of the homogeneous universe of the logarithmic f(R) model
 
-The universe is a dynamical system. In this talk, a short introduction to the
-dynamical analysis will be given. Its applications to cosmology that have been
-studied in some references will be briefly discussed. Then this method will be
-put on the homogeneous universe of the logarithmic f(R) model. The solutions
-give an expanding universe as we expected and a contracting one as well.
+The universe is a dynamical system. In this talk, a short introduction to the dynamical analysis will be given. Its applications to cosmology that have been studied in some references will be briefly discussed. Then this method will be put on the homogeneous universe of the logarithmic f(R) model. The solutions give an expanding universe as we expected and a contracting one as well.
 
 
 January 12, 2010, 13:30 in P8445A
 Prof. Levon Pogosian (SFU)
 Cosmological tests of General Relativity - A look at the principals
 
-Future weak lensing surveys will allow us to trace the evolution of galaxy
-clustering and gravitational potentials through multiple epochs -- the
-cosmological equivalent of tomography. This will offer an exciting opportunity
-to test the validity of Einstein equations of General Relativity (GR) which
-set the relations between the lensing potential, matter inhomogeneities and
-curvature perturbations. We introduce two arbitrary functions of time and
-scale that describe a general modification of GR in the linear regime. We then
-use a Principal Component Analysis (PCA) to find the eigenmodes of these
-functions that surveys like DES and LSST, along with CMB and SN data, will
-constrain. PCA gives a model-independent forecast of how many parameters
-describing deviations from GR can be constrained, as well as the redshifts and
-scales on which data is most sensitive to the departures.
+Future weak lensing surveys will allow us to trace the evolution of galaxy clustering and gravitational potentials through multiple epochs - the cosmological equivalent of tomography. This will offer an exciting opportunity to test the validity of Einstein equations of General Relativity (GR) which set the relations between the lensing potential, matter inhomogeneities and curvature perturbations. We introduce two arbitrary functions of time and scale that describe a general modification of GR in the linear regime. We then use a Principal Component Analysis (PCA) to find the eigenmodes of these functions that surveys like DES and LSST, along with CMB and SN data, will constrain. PCA gives a model-independent forecast of how many parameters describing deviations from GR can be constrained, as well as the redshifts and scales on which data is most sensitive to the departures.
 
 
 December 3, 2009, 14:00 in P8445B
 Dr. Adam Moss (UBC)
 Dark energy: Violations of isotropy and homogeneity
 
-Dark energy is one of the biggest mysteries in cosmology. In this talk
-I discuss two alternatives, each with very different physical origins,
-which have the unusual properties that they break fundamental cosmological
-principles of isotropy and homogeneity. In the first model, I extend the
-fluid approximation used to model stress-energy components in cosmology,
-and treat dark energy as a stiff fluid. Such models are stable, even
-when the pressure is negative, making them natural candidates to describe
-the dark energy. I show how this model can be extended to the anisotropic
-case, in an attempt to explain usual features in the CMB maps. In the second,
-I discuss whether we can remove the need for dark energy altogether. In this
-case,  we have to sacrifice the Copernican principle and live near a large,
-non-linear, and close to spherical underdense region of the Universe.
+Dark energy is one of the biggest mysteries in cosmology. In this talk I discuss two alternatives, each with very different physical origins, which have the unusual properties that they break fundamental cosmological principles of isotropy and homogeneity. In the first model, I extend the fluid approximation used to model stress-energy components in cosmology, and treat dark energy as a stiff fluid. Such models are stable, even when the pressure is negative, making them natural candidates to describe the dark energy. I show how this model can be extended to the anisotropic case, in an attempt to explain usual features in the CMB maps. In the second, I discuss whether we can remove the need for dark energy altogether. In this case, we have to sacrifice the Copernican principle and live near a large, non-linear, and close to spherical underdense region of the Universe.
 
 
 December 3, 2009, 16:00 in P8445?
 Dr. Neil Barnaby (CITA)
 Nonlocal inflation
 
-The inflationary paradigm has been extremely successful in accounting
-for cosmological observations, however, it still lacks a firm motivation
-from fundamental theory.  Attempts to embed inflation into theories of
-physics beyond the standard model, such as string theory, have been
-stymied by the difficulty of constructing flat scalar field potentials.
-I will discuss how this difficulty can be evaded by taking advantage of
-the higher derivative structure of string field theory. I will show that
-these nonlocal inflation models are predictive, they generically lead to
-nongaussian signatures in the CMB. At the formal level these theories
-have a rich mathematical structure. After discussing the complications
-that can arise when working with high derivative theories, I will describe
-recent progress in understanding the initial value problem for infinite
-order differential equations.
+The inflationary paradigm has been extremely successful in accounting for cosmological observations, however, it still lacks a firm motivation from fundamental theory. Attempts to embed inflation into theories of physics beyond the standard model, such as string theory, have been stymied by the difficulty of constructing flat scalar field potentials. I will discuss how this difficulty can be evaded by taking advantage of the higher derivative structure of string field theory. I will show that these nonlocal inflation models are predictive, they generically lead to nongaussian signatures in the CMB. At the formal level these theories have a rich mathematical structure. After discussing the complications that can arise when working with high derivative theories, I will describe recent progress in understanding the initial value problem for infinite order differential equations.
 
 
 December 1, 2009, 14:00 in P8445A
 Dr. Neil Barnaby (CITA)
 Nongaussian fluctuations from particle production during inflation
 
-In a variety of inflation models, the motion of the inflaton may
-trigger the production of some iso-curvature particles during inflation,
-for example via parametric resonance or a phase transition. Inflationary
-particle production provides a new mechanism for generating cosmological
-perturbations (infra-red cascading) and can also slow the motion of the
-inflaton on a steep potential. Moreover, such models provide a novel
-example of non-decoupling of high scale physics during inflation.
-I will discuss the observational consequences of inflationary particle
-production, including the generation of features in the primordial power
-spectrum and large nongaussianities with a unique shape of bispectrum.
-Finally, I will discuss various realizations of this scenario in string
-theory and supersymmetry.
+In a variety of inflation models, the motion of the inflaton may trigger the production of some iso-curvature particles during inflation, for example via parametric resonance or a phase transition. Inflationary particle production provides a new mechanism for generating cosmological perturbations (infra-red cascading) and can also slow the motion of the inflaton on a steep potential. Moreover, such models provide a novel example of non-decoupling of high scale physics during inflation. I will discuss the observational consequences of inflationary particle production, including the generation of features in the primordial power spectrum and large nongaussianities with a unique shape of bispectrum. Finally, I will discuss various realizations of this scenario in string theory and supersymmetry.
 
 
 November 3, 2009, 14:00 in P8445A
 Dr. Federico Urban (UBC)
 The QCD nature of dark energy
 
-The origin of the observed dark energy could be explained entirely
-within the standard model, with no new fields required. I will show
-how the low-energy sector of the chiral QCD Lagrangian, once embedded
-in a spacetime with non-trivial topology, gives rise to a cosmological
-vacuum energy density which can be can be presented entirely in terms
-of QCD parameters and the Hubble constant, and whose numerical value
-is astonishingly close to the observed value today. The QCD Veneziano
-ghost (responsible for the solution of the axial U(1) problem) plays
-a crucial role in the computation of the vacuum energy, because
-the ghost's properties at very large but finite distances slightly
-deviate from their infinite volume Minkowski values. After a
-(detailed) review of the mechanism in a non-expanding universe
-I will describe our attempts to understand the dynamics of the
-ghost field in a FLRW universe, and mention several possible ways
-(primarily cosmological) for this proposal to be tested.
+The origin of the observed dark energy could be explained entirely within the standard model, with no new fields required. I will show how the low-energy sector of the chiral QCD Lagrangian, once embedded in a spacetime with non-trivial topology, gives rise to a cosmological vacuum energy density which can be can be presented entirely in terms of QCD parameters and the Hubble constant, and whose numerical value is astonishingly close to the observed value today. The QCD Veneziano ghost (responsible for the solution of the axial U(1) problem) plays a crucial role in the computation of the vacuum energy, because the ghost's properties at very large but finite distances slightly deviate from their infinite volume Minkowski values. After a (detailed) review of the mechanism in a non-expanding universe I will describe our attempts to understand the dynamics of the ghost field in a FLRW universe, and mention several possible ways (primarily cosmological) for this proposal to be tested.
 
 
 October 20, 2009, 14:00 in P8445A
 Alkistis Pourtsidou (University of Nottingham)
 Cosmic strings with junctions
 
-If cosmic superstrings are formed, they necessarily come in two
-different types which can interact with each other and become entangled,
-thus forming Y-shaped junctions. This is a novel property, not present
-in the conventional cosmic string scenario, and an interesting question
-is how the presence of junctions affects the dynamics of a cosmic
-superstring network. We focus on the evolution and stability of cosmic
-strings with junctions, and we discuss potential observational consequences.
+If cosmic superstrings are formed, they necessarily come in two different types which can interact with each other and become entangled, thus forming Y-shaped junctions. This is a novel property, not present in the conventional cosmic string scenario, and an interesting question is how the presence of junctions affects the dynamics of a cosmic superstring network. We focus on the evolution and stability of cosmic strings with junctions, and we discuss potential observational consequences.
 
 
 October 8, 2009, 14:00 in P8445A
 Dr. Niayesh Afshordi (Perimeter Institute)
 Stellar black holes, and the origin of cosmic acceleration
 
-The cosmological constant problem is arguably the deepest gap in our
-understanding of modern physics. The discovery of cosmic acceleration
-in the past decade and its surprising coincidence with cosmic structure
-formation has added an extra layer of complexity to the problem. I will
-describe how revisiting/revising some standard assumptions in the theory
-of gravity can decouple the quantum vacuum from geometry, which can
-potentially solve the cosmological constant problem. I will then argue
-that a possible fascinating outcome of such a theory is to relate black
-hole formation to cosmic acceleration, providing a possible solution to
-the cosmic coincidence. A diverse range of experimental/observational
-probes over the next decade will tell us whether we are close to the
-end of this century-old mystery, which in turn could shed light on the
-nature of quantum gravity and black holes.
+The cosmological constant problem is arguably the deepest gap in our understanding of modern physics. The discovery of cosmic acceleration in the past decade and its surprising coincidence with cosmic structure formation has added an extra layer of complexity to the problem. I will describe how revisiting/revising some standard assumptions in the theory of gravity can decouple the quantum vacuum from geometry, which can potentially solve the cosmological constant problem. I will then argue that a possible fascinating outcome of such a theory is to relate black hole formation to cosmic acceleration, providing a possible solution to the cosmic coincidence. A diverse range of experimental/observational probes over the next decade will tell us whether we are close to the end of this century-old mystery, which in turn could shed light on the nature of quantum gravity and black holes.
 
 
 September 29, 2009, 14:00 in P8445A
 Dr. Yifu Cai (IHEP, China)
 An alternative to inflation: matter bounce cosmology
 
-In this talk, I will introduce the basic idea of matter bounce and its
-specific realization by applying a Lee-Wick scalar in the early universe.
-As an alternative to inflation, matter bounce can give a scale-invariant
-spectrum required by CMB observations as inflation did. Moreover, it
-predicts large and negative non-gaussianities which are expected to be
-detected or ruled out by near future observations.
+In this talk, I will introduce the basic idea of matter bounce and its specific realization by applying a Lee-Wick scalar in the early universe. As an alternative to inflation, matter bounce can give a scale-invariant spectrum required by CMB observations as inflation did. Moreover, it predicts large and negative non-gaussianities which are expected to be detected or ruled out by near future observations.
 
 
 September 11, 2009, 14:30 in AQ3153
 Prof. Maxim Pospelov (University of Victoria/Perimeter)
 Dark forces (physics colloquium)
 
-Physics of dark matter and dark energy, discovered via their gravitational
-interaction, may hide further surprises. In my talk, I will review recent
-developments with direct and indirect searches of dark matter that perhaps
-give us a hint on the existence of "dark forces".The search for dark forces at
-the new luminosity frontier will become an important part of modern particle
-physics. I will discuss some of the recent theoretical and experimental
-developments in this field.
+Physics of dark matter and dark energy, discovered via their gravitational interaction, may hide further surprises. In my talk, I will review recent developments with direct and indirect searches of dark matter that perhaps give us a hint on the existence of "dark forces".The search for dark forces at the new luminosity frontier will become an important part of modern particle physics. I will discuss some of the recent theoretical and experimental developments in this field.
 
 
 July 21, 2009, 14:00 in P8445B
 Dr. Daniele Steer (APC, Paris)
 Multi-field DBI inflation: primordial perturbations and non-Gaussianities
 
-In this talk I discuss some aspects of multiple-field inflation, and more
-specifically so-called Dirac-Born-Infeld (DBI)  inflation. DBI inflation
-emerges when one tries to embed inflation in a string-theory setting, and is
-based on the motion of a brane in a higher dimensional space-time: the
-directions in which the brane can move correspond to the different
-inflationary fields. We discuss the (correct!) action for DBI-inflation and
-then calculate some of its observational cosmological consequences,
-particularly for non-gaussianities in the CMB.
+In this talk I discuss some aspects of multiple-field inflation, and more specifically so-called Dirac-Born-Infeld (DBI)  inflation. DBI inflation emerges when one tries to embed inflation in a string-theory setting, and is based on the motion of a brane in a higher dimensional space-time: the directions in which the brane can move correspond to the different inflationary fields. We discuss the (correct!) action for DBI-inflation and then calculate some of its observational cosmological consequences, particularly for non-gaussianities in the CMB.
 
 
 May 5, 2009, 14:00 in P8445B
@@ -1501,274 +986,112 @@ March 27, 2009, 14:30 in AQ3182
 Prof. Suzanne Staggs (Princeton University)
 The impact of the last 13 billion years and of the first 10<SUP>-35</SUP> seconds on the CMB (physics colloquium)
 
-Beyond its revelations to date on the structure, dynamics
-and contents of the universe, the cosmic microwave background
-(CMB) radiation has more physical data to be mined. We describe
-two experimental approaches designed to complement the reach of
-the WMAP and Planck satellites. The first is the Atacama
-Cosmology Telescope (ACT) project. ACT is mapping the CMB sky
-in three frequency bands (145, 215 and 265 GHz) with a resolution
-5-10 times better than that of those satellites. The fine-scale
-anisotropy of the CMB reflects the primordial power spectrum of
-density fluctuations, but also encodes details of its interactions
-with the rest of the universe in its 13-billion-year flight.
-Moreover, these details depend on fundamental quantiites of
-the universe including the mass of the neutrino, the equation of
-state of the dark energy, and the nature of the dark matter.
-The second experimental approach we describe is measurement of
-the large-scale polarization anisotropy of the CMB; we will
-mention both the QUI ExperimenT (QUIET) and the Atacama
-B-mode Search (ABS). Gravitational waves generated during any
-inflationary epoch (in the first 10 atto-attoseconds) can
-give rise to a specific pattern in the tensor field of the
-CMB polarization observed on the celestial sphere, dubbed
-B-modes, which has no other primordial source.
+Beyond its revelations to date on the structure, dynamics and contents of the universe, the cosmic microwave background (CMB) radiation has more physical data to be mined. We describe two experimental approaches designed to complement the reach of the WMAP and Planck satellites. The first is the Atacama Cosmology Telescope (ACT) project. ACT is mapping the CMB sky in three frequency bands (145, 215 and 265 GHz) with a resolution 5-10 times better than that of those satellites. The fine-scale anisotropy of the CMB reflects the primordial power spectrum of density fluctuations, but also encodes details of its interactions with the rest of the universe in its 13-billion-year flight. Moreover, these details depend on fundamental quantiites of the universe including the mass of the neutrino, the equation of state of the dark energy, and the nature of the dark matter. The second experimental approach we describe is measurement of the large-scale polarization anisotropy of the CMB; we will mention both the QUI ExperimenT (QUIET) and the Atacama B-mode Search (ABS). Gravitational waves generated during any inflationary epoch (in the first 10 atto-attoseconds) can give rise to a specific pattern in the tensor field of the CMB polarization observed on the celestial sphere, dubbed B-modes, which has no other primordial source.
 
 
 January 23, 2009, 14:30 in P8445B
 Prof. Fotini Markopoulou (Perimeter)
 Two ways to derive a spacetime in quantum gravity
 
-I will give a short introduction to the problem of quantum gravity
-and will discuss two approaches to solving it. Both of these
-approaches can be seen as problems in statistical / condensed matter
-physics, where the task is to derive general relativity as the
-effective theory. The first, causal dynamical triangulations, is a
-new universality class of statistical systems with microscopic
-causality whose properties lead to a dynamical derivation of the four
-dimensions of our spacetime. The second, quantum graphity, is an
-extension of the Levin-Wen string network condensation to a model of
-emergent locality and matter.
+I will give a short introduction to the problem of quantum gravity and will discuss two approaches to solving it. Both of these approaches can be seen as problems in statistical / condensed matter physics, where the task is to derive general relativity as the effective theory. The first, causal dynamical triangulations, is a new universality class of statistical systems with microscopic causality whose properties lead to a dynamical derivation of the four dimensions of our spacetime. The second, quantum graphity, is an extension of the Levin-Wen string network condensation to a model of emergent locality and matter.
 
 
 March 10, 2009, 14:00 in P8445A
 Prof. Phil Gregory (UBC)
 Mining for extra-solar planets with a Bayesian MCMC Kepler periodogram
 
-Are we on the threshold of discovering life elsewhere in the
-universe? With the mounting discoveries of extra-solar planets there
-is a sense that we are well underway. Astronomers searching for the
-small signals induced by planets inevitably face significant
-statistical challenges.  This talk illustrates how a Bayesian
-re-analysis of published radial velocity data sets is providing strong
-evidence for additional planetary candidates. The Bayesian nonlinear
-model fitting is accomplished with a new hybrid Markov chain Monte Carlo
-(HMCMC) algorithm which incorporates parallel tempering, simulated
-annealing and  the genetic algorithm. Each of these components facilitate
-the detection of a global minimum in &chi;<SUP>2</SUP>. By combining all
-three, the HMCMC greatly increase the probability of realizing this goal
-in a blind search of the parameter space. When applied to the Kepler
-problem it acts as a powerful multi-planet Kepler periodogram for both
-parameter estimation and model selection. The algorithm is embedded in
-a unique two stage adaptive control system that automates the tuning
-of the MCMC proposal distribution parameters through an annealing
-operation. The HMCMC algorithm is very general and applicable to many
-other nonlinear model fitting problems.
+Are we on the threshold of discovering life elsewhere in the universe? With the mounting discoveries of extra-solar planets there is a sense that we are well underway. Astronomers searching for the small signals induced by planets inevitably face significant statistical challenges. This talk illustrates how a Bayesian re-analysis of published radial velocity data sets is providing strong evidence for additional planetary candidates. The Bayesian nonlinear model fitting is accomplished with a new hybrid Markov chain Monte Carlo (HMCMC) algorithm which incorporates parallel tempering, simulated annealing and the genetic algorithm. Each of these components facilitate the detection of a global minimum in &chi;<SUP>2</SUP>. By combining all three, the HMCMC greatly increase the probability of realizing this goal in a blind search of the parameter space. When applied to the Kepler problem it acts as a powerful multi-planet Kepler periodogram for both parameter estimation and model selection. The algorithm is embedded in a unique two stage adaptive control system that automates the tuning of the MCMC proposal distribution parameters through an annealing operation. The HMCMC algorithm is very general and applicable to many other nonlinear model fitting problems.
 
 
 March 3, 2009, 14:00 in P8445A
 Dr. John Ward (University of Victoria)
 Gravitational wave constraints on multi-brane inflation
 
-The vanilla model of DBI-inflation has essentially been
-ruled out by the WMAP 5 year data. The generation of large
-non-Gaussianities and a detectable level of tensor perturbations are
-incompatible.
-In this talk I will discuss a phenomenological class of non-canonical
-inflationary models that could yield both a large level of
-non-Gaussian perturbations and a detectable tensor spectrum. I will
-then discuss how this model can be realised in a string theory
-setting.
+The vanilla model of DBI-inflation has essentially been ruled out by the WMAP 5 year data. The generation of large non-Gaussianities and a detectable level of tensor perturbations are incompatible. In this talk I will discuss a phenomenological class of non-canonical inflationary models that could yield both a large level of non-Gaussian perturbations and a detectable tensor spectrum. I will then discuss how this model can be realised in a string theory setting.
 
 
 February 24, 2009, 14:00 in P8445A
 Prof. Adam Ritz (University of Victoria)
 Probing pseudoscalar perturbations with CMB polarization
 
-I'll discuss the use of CMB polarization as a probe of new light
-pseudoscalar degrees of freedom weakly coupled to photons. The
-stochastic pseudoscalar fluctuations generated during inflation
-provide a mechanism for converting E-mode polarization to B-mode
-during photon propagation from the surface of last scattering.
-The efficiency of this conversion process is controlled by the
-dimensionless ratio H/(2&pi; f<SUB>a</SUB>), where H is the Hubble
-scale during inflation, and f<SUB>a</SUB><SUP>-1</SUP> is the
-strength of the pseudoscalar coupling to photons. The current
-observational limits on the B-mode constrain this ratio to be
-less than 0.07, which in many models of inflation translates
-to a sensitivity to values of f<SUB>a</SUB> in excess of
-10<SUP>14</SUP> GeV, surpassing the sensitivity of other tests. 
+I'll discuss the use of CMB polarization as a probe of new light pseudoscalar degrees of freedom weakly coupled to photons. The stochastic pseudoscalar fluctuations generated during inflation provide a mechanism for converting E-mode polarization to B-mode during photon propagation from the surface of last scattering. The efficiency of this conversion process is controlled by the dimensionless ratio H/(2&pi; f<SUB>a</SUB>), where H is the Hubble scale during inflation, and f<SUB>a</SUB><SUP>-1</SUP> is the strength of the pseudoscalar coupling to photons. The current observational limits on the B-mode constrain this ratio to be less than 0.07, which in many models of inflation translates to a sensitivity to values of f<SUB>a</SUB> in excess of 10<SUP>14</SUP> GeV, surpassing the sensitivity of other tests. 
 
 
 February 20, 2009, 14:30 in AQ3182
 Prof. Mark Trodden (Syracuse University)
 Gravitational approaches to cosmic acceleration (physics colloquium)
 
-Among the possible explanations for the observed acceleration of the
-universe, perhaps the boldest is the idea that new gravitational
-physics might be the culprit. In this colloquium I will discuss some
-of the challenges of constructing a sensible phenomenological extension
-of General Relativity, give examples of some candidate models of
-modified gravity and survey existing observational constraints on
-this approach. I will conclude by discussing how we might hope to
-distinguish between modifications of General Relativity and dark energy
-as competing hypotheses to explain cosmic acceleration.
+Among the possible explanations for the observed acceleration of the universe, perhaps the boldest is the idea that new gravitational physics might be the culprit. In this colloquium I will discuss some of the challenges of constructing a sensible phenomenological extension of General Relativity, give examples of some candidate models of modified gravity and survey existing observational constraints on this approach. I will conclude by discussing how we might hope to distinguish between modifications of General Relativity and dark energy as competing hypotheses to explain cosmic acceleration.
 
 
 February 3, 2009, 14:00 in P8445A
 Dr. Subinoy Das (UBC)
 Late forming dark matter
 
-Similarity of energy densities of dark matter and dark
-energy at the present epoch motivates us to inquire about an unified
-view of these two, i.e. to ask whether the same substance can behave
-as dark matter at early epoch and make a transition to dark energy at
-later time. I will discuss how neutrino physics can give us such
-scenario where dark matter is formed at much later time unlike weak
-scale neutralino and in particular I will discuss its cosmological
-signature in large scale structure formation and its possible decay to
-light fermions like neutrino.
+Similarity of energy densities of dark matter and dark energy at the present epoch motivates us to inquire about an unified view of these two, i.e. to ask whether the same substance can behave as dark matter at early epoch and make a transition to dark energy at later time. I will discuss how neutrino physics can give us such scenario where dark matter is formed at much later time unlike weak scale neutralino and in particular I will discuss its cosmological signature in large scale structure formation and its possible decay to light fermions like neutrino.
 
 
 January 27, 2009, 14:00 in P8445A
 Dr. Edward Chapin (UBC)
 Detecting massive star-forming galaxies at z>1 using BLAST and SCUBA-2 submillimetre wavelength surveys
 
-We currently believe that we live in a Universe whose mass
-distribution is dominated by cold dark matter. This model does a
-remarkable job of explaining how the mild inhomogeneities in the
-primordial plasma, imprinted on the Cosmic Microwave Background,
-evolved into the complex web of large-scale structures observed in the
-local Universe. However, we are only just beginning to understand the
-details of how smaller objects such as stars, galaxies and clusters
-formed and evolved within the gravitational potential of dark matter.
-A crucial step in this process is to map out the distribution of
-light-emitting matter with redshift. While optical surveys using the
-Hubble Space Telescope and ground-based optical telescopes in the
-1990's made great progress detecting "normal" galaxies to high
-redshifts (z>1), it has become clear during the last decade that
-longer wavelength studies in the IR--mm regime are required to detect
-galaxies in their earliest stages, as they are often optically
-obscured by dust, and hence absent from even the deepest optical
-images. I will discuss some recent Balloon-borne Large Aperture
-Submillimeter Telescope (BLAST) results from our 2006 campaign from
-McMurdo, Antarctica. I will also cover future surveys with the SPIRE
-camera for the Herschel Satellite, and the SCUBA-2 camera that will
-operate on the 15-m James Clerk Maxwell Telescope in Hawaii.
+We currently believe that we live in a Universe whose mass distribution is dominated by cold dark matter. This model does a remarkable job of explaining how the mild inhomogeneities in the primordial plasma, imprinted on the Cosmic Microwave Background, evolved into the complex web of large-scale structures observed in the local Universe. However, we are only just beginning to understand the details of how smaller objects such as stars, galaxies and clusters formed and evolved within the gravitational potential of dark matter. A crucial step in this process is to map out the distribution of light-emitting matter with redshift. While optical surveys using the Hubble Space Telescope and ground-based optical telescopes in the 1990's made great progress detecting "normal" galaxies to high redshifts (z>1), it has become clear during the last decade that longer wavelength studies in the IR--mm regime are required to detect galaxies in their earliest stages, as they are often optically obscured by dust, and hence absent from even the deepest optical images. I will discuss some recent Balloon-borne Large Aperture Submillimeter Telescope (BLAST) results from our 2006 campaign from McMurdo, Antarctica. I will also cover future surveys with the SPIRE camera for the Herschel Satellite, and the SCUBA-2 camera that will operate on the 15-m James Clerk Maxwell Telescope in Hawaii.
 
 
 November 14, 2008, 14:30 in AQ3181
 Prof. Robert Brandenberger (McGill University)
 String theory and the very early universe (physics colloquium)
 
-The inflationary universe scenario is the current paradigm of early
-universe cosmology. However, current realizations of inflation suffer
-from some serious conceptual problems. Superstring theory provides the
-framework for developing a new theory of the very early universe. I will
-discuss a new cosmological model ("string gas cosmology") which is based
-on a number of key ingredients of superstring theory. According to this
-model, the universe began not with a phase of inflation, but as a hot
-string soup, and the cosmological inhomogeneities we can measure today
-were seeded by thermal fluctuations of this gas of strings.
+The inflationary universe scenario is the current paradigm of early universe cosmology. However, current realizations of inflation suffer from some serious conceptual problems. Superstring theory provides the framework for developing a new theory of the very early universe. I will discuss a new cosmological model ("string gas cosmology") which is based on a number of key ingredients of superstring theory. According to this model, the universe began not with a phase of inflation, but as a hot string soup, and the cosmological inhomogeneities we can measure today were seeded by thermal fluctuations of this gas of strings.
 
 
 October 2, 2008, 14:00 in IRMACS
 Prof. Andrei Frolov (SFU)
 A singularity problem with f(R) dark energy
 
-I will talk about a curvature singularity problem appearing on
-non-linear level that generally plagues f(R) models that modify Einstein
-gravity in the infrared. It is caused by the fact that for the effective
-scalar degree of freedom, the curvature singularity is at a finite field
-value and energy level, and can be easily accessed by the field dynamics
-in the presence of matter. Consequences for observational viability are
-grave: regular static solutions for neutron stars do not exist in many
-IR-modified f(R) models. I will discuss whether the theory can be saved
-by an UV-completion.
+I will talk about a curvature singularity problem appearing on non-linear level that generally plagues f(R) models that modify Einstein gravity in the infrared. It is caused by the fact that for the effective scalar degree of freedom, the curvature singularity is at a finite field value and energy level, and can be easily accessed by the field dynamics in the presence of matter. Consequences for observational viability are grave: regular static solutions for neutron stars do not exist in many IR-modified f(R) models. I will discuss whether the theory can be saved by an UV-completion.
 
 
 September 25, 2008, 14:00 in IRMACS
 Prof. Dmitri Korotkin (Concordia University)
 Canonical quantization of Einstein-Rosen gravitational waves with two polarizations
 
-We shall discuss the canonical quantization of the essentially nonlinear
-midisuperspace model describing cylindrically symmetric gravitational
-waves with two polarizations.  This model is a sufficiently complicated
-toy model of quantum gravity. Our approach provides a non-linear
-generalization of the quantization of the collinearly polarized
-Einstein-Rosen gravitational waves. The main technical tool we use is the
-theory of quantum integrable systems and quantum groups.
+We shall discuss the canonical quantization of the essentially nonlinear midisuperspace model describing cylindrically symmetric gravitational waves with two polarizations.  This model is a sufficiently complicated toy model of quantum gravity. Our approach provides a non-linear generalization of the quantization of the collinearly polarized Einstein-Rosen gravitational waves. The main technical tool we use is the theory of quantum integrable systems and quantum groups.
 
 
 August 14, 2008, 11:00 in SSB7109
 Dr. Prashanth Jaikumar (Institute of Mathematical Sciences, CIT, India)
 Astrophysics of dense quark matter
 
-I will discuss the nature and possible consequences of phases of dense
-quark matter in neutron stars. After a brief summary of recent theoretical
-advances in this field, I will emphasize connections to observations of
-neutrino cooling, r-mode instabilities (gravitational waves) and
-heavy-element nucleosynthesis.
+I will discuss the nature and possible consequences of phases of dense quark matter in neutron stars. After a brief summary of recent theoretical advances in this field, I will emphasize connections to observations of neutrino cooling, r-mode instabilities (gravitational waves) and heavy-element nucleosynthesis.
 
 
 May 13, 2008, 11:00 in P8445B
 Dr. Mark Wyman (Perimeter Institute)
 N-body Degravitation
 
-A possible resolution to the cosmological constant problem may
-come from the graviton having a small mass or width. In this picture, the
-graviton carries extra polarizarions. Its helicity-0 or scalar mode is
-suppressed in regions of high density but becomes important on
-cosmological distance scales. We are solving the equations for this scalar
-component numerically as a part of an N-body simulation. This will allow
-us to quantify the impact of massive/resonance gravity on the formation of
-large scale structure for the first time.
+A possible resolution to the cosmological constant problem may come from the graviton having a small mass or width. In this picture, the graviton carries extra polarizarions. Its helicity-0 or scalar mode is suppressed in regions of high density but becomes important on cosmological distance scales. We are solving the equations for this scalar component numerically as a part of an N-body simulation. This will allow us to quantify the impact of massive/resonance gravity on the formation of large scale structure for the first time.
 
 
 April 1, 2008, 12:30 in IRMACS
 Dr. James Zibin (UBC)
 Restraining void models for cosmological acceleration
 
-The last decade has seen the compilation of strong evidence that
-the expansion of the Universe is currently accelerating.  The source
-for this acceleration is still a mystery, although probably the
-simplest view is that it is caused by a cosmological constant.  One
-alternative explanation which requires no new matter fields or
-modifications of gravity, but discards the Copernican Principle,
-involves a large nonlinear underdensity centred near us.  It is known
-that such a void can mimic some of the data by replacing increasing
-expasion rate in time with increasing expansion rate towards the void
-centre.  I discuss the difficulties that void models face, from the
-philosophical to the observational.  I also lay out a general
-relativistic framework for the evolution of linear perturbations on a
-spherical void background aimed at confronting with data.
+The last decade has seen the compilation of strong evidence that the expansion of the Universe is currently accelerating. The source for this acceleration is still a mystery, although probably the simplest view is that it is caused by a cosmological constant. One alternative explanation which requires no new matter fields or modifications of gravity, but discards the Copernican Principle, involves a large nonlinear underdensity centred near us.  It is known that such a void can mimic some of the data by replacing increasing expasion rate in time with increasing expansion rate towards the void centre. I discuss the difficulties that void models face, from the philosophical to the observational.  I also lay out a general relativistic framework for the evolution of linear perturbations on a spherical void background aimed at confronting with data.
 
 
 March 28, 2008, 14:30 in AQ3181
 Prof. Alexander Vilenkin (Tufts University)
 Many worlds in one (physics colloquium)
 
-Recent developments in cosmology suggest that the big bang was not a
-unique event in the cosmic history. Other bangs constantly erupt in
-remote parts of the universe, producing new worlds with great variety
-of physical properties. I will discuss the origin of this new worldview
-and its possible observational tests.
+Recent developments in cosmology suggest that the big bang was not a unique event in the cosmic history. Other bangs constantly erupt in remote parts of the universe, producing new worlds with great variety of physical properties. I will discuss the origin of this new worldview and its possible observational tests.
 
 
 February 22, 2008, 14:30 in AQ3181
 Prof. Andrei Frolov (SFU)
 Simulating the Big Bang (physics colloquium)
 
-The idea of inflation (a period of rapid quasi-exponential expansion
-of the Universe) neatly solves several issues in cosmology. But while
-the Universe is inflating, its contents is cold. Eventually, inflation
-has to end and the field driving the inflation has to decay, depositing
-its energy into high-energy particles. This process, known as reheating,
-starts the hot big bang as we know it. I will discuss basic models of
-resonant and tachyonic preheating, show recent numerical simulations
-of the inflaton decay (which turns out to be quite non-linear and violent),
-and explore how gravitational waves are produced in the process. If observed,
-they could allow a glimpse of physics at energies we know very little about.
+The idea of inflation (a period of rapid quasi-exponential expansion of the Universe) neatly solves several issues in cosmology. But while the Universe is inflating, its contents is cold. Eventually, inflation has to end and the field driving the inflation has to decay, depositing its energy into high-energy particles. This process, known as reheating, starts the hot big bang as we know it. I will discuss basic models of resonant and tachyonic preheating, show recent numerical simulations of the inflaton decay (which turns out to be quite non-linear and violent), and explore how gravitational waves are produced in the process. If observed, they could allow a glimpse of physics at energies we know very little about.
 
 
 February 7, 2008, 10:30 in IRMACS
@@ -1782,70 +1105,32 @@ February 7, 2008, 13:30 in SSB7172
 Prof. Scott Dodelson (Fermilab)
 Fundamental physics from space (special colloquium)
 
-The Standard Model of particle physics has been remarkably
-successful in explaining a wide variety of microscopic phenomena. This
-success is almost too good: we are searching for any hints of physics
-beyond the Standard Model. Over the last decade, evidence for new
-physics has come from an unlikely source: astrophysical
-observations. I describe some of these observations and explain how they
-are changing our view of the laws and constituents of the Universe.
+The Standard Model of particle physics has been remarkably successful in explaining a wide variety of microscopic phenomena. This success is almost too good: we are searching for any hints of physics beyond the Standard Model. Over the last decade, evidence for new physics has come from an unlikely source: astrophysical observations. I describe some of these observations and explain how they are changing our view of the laws and constituents of the Universe.
 
 
 February 5, 2008, 12:30 in IRMACS
 Dr. Aaron Berndsen (SFU)
 Long-lived relics in warped reheating
 
-The success of the inflationary paradigm has prompted numerous efforts
-seeking to realize inflation within the context of string theory.
-Warped inflation has, arguably, received the plupart of attention, and
-it results in several unique features. The reheating scenario is one
-of those features, resulting from a sequence of intermediary steps as
-opposed to a direct coupling between the inflaton and standard model
-particles. This talk will (briefly) review this unique framework for
-inflation and the process of reheating in brane inflation. The focus
-will be on the possibility of long-lived relics, and a means of
-accommodating their decay. The results are intriguing, and I will end
-the talk by breaking supersymmetry, and placing new constraints on the
-parameters of these constructions.
+The success of the inflationary paradigm has prompted numerous efforts seeking to realize inflation within the context of string theory. Warped inflation has, arguably, received the plupart of attention, and it results in several unique features. The reheating scenario is one of those features, resulting from a sequence of intermediary steps as opposed to a direct coupling between the inflaton and standard model particles. This talk will (briefly) review this unique framework for inflation and the process of reheating in brane inflation. The focus will be on the possibility of long-lived relics, and a means of accommodating their decay. The results are intriguing, and I will end the talk by breaking supersymmetry, and placing new constraints on the parameters of these constructions.
 
 
 January 22, 2008, 12:30 in IRMACS
 Dr. Richard Battye (University of Manchester)
 Constraints on inflation models which predict cosmic strings
 
-Most of the "best motivated" models of inflation predict the formation of a
-network of cosmic strings. This network can lead to a sub-dominant, but
-important contribution to the observed microwave anisotropies. We will discuss
-two models which fall into this category, SUSY hybrid inflation and brane
-inflation, and the constraints imposed on these models by the recent 3-year
-results from WMAP.
+Most of the "best motivated" models of inflation predict the formation of a network of cosmic strings. This network can lead to a sub-dominant, but important contribution to the observed microwave anisotropies. We will discuss two models which fall into this category, SUSY hybrid inflation and brane inflation, and the constraints imposed on these models by the recent 3-year results from WMAP.
 
 
 January 31, 2008, 13:00 in AQ4150
 Prof. Saurya Das (University of Lethbridge)
 Black holes and the problem of information loss (CAP Lecture)
 
-Starting from two fundamental principles of physics, namely the maximum
-speed of propagation of signals (speed of light) and reference frame
-independence of this speed, we arrive at the notion of spacetime continuum
-and the metric. When we try to incorporate acceleration or gravity in this
-picture, we show that spacetime must be curved. The amount of curvature
-depends on the matter content of the spacetime, and is governed by the
-Einstein equations. These equations also predict the existence of black
-holes - highly dense gravitating objects, from which (classically) nothing
-can escape, not even light. When quantum mechanics is taken into consideration,
-black holes are predicted to emit small amounts of thermal radiation and
-have large amounts of entropy. This also gives rise to the so-called
-'information loss problem', which says that information entering a
-black hole maybe lost forever, in apparent violation of quantum mechanics.
-We explore possible microscopic origins of black hole entropy and
-possible resolutions of the information loss problem.
+Starting from two fundamental principles of physics, namely the maximum speed of propagation of signals (speed of light) and reference frame independence of this speed, we arrive at the notion of spacetime continuum and the metric. When we try to incorporate acceleration or gravity in this picture, we show that spacetime must be curved. The amount of curvature depends on the matter content of the spacetime, and is governed by the Einstein equations. These equations also predict the existence of black holes - highly dense gravitating objects, from which (classically) nothing can escape, not even light. When quantum mechanics is taken into consideration, black holes are predicted to emit small amounts of thermal radiation and have large amounts of entropy. This also gives rise to the so-called 'information loss problem', which says that information entering a black hole maybe lost forever, in apparent violation of quantum mechanics. We explore possible microscopic origins of black hole entropy and possible resolutions of the information loss problem.
 
 <BR><BR>
 <FONT SIZE="-1"><I>
-This talk is a part of the <A HREF="https://www.cap.ca/edu/lect.html">CAP Lecture Tour</A> series,
-and should be accessible to a wide audience of non-specialists.
-Undergraduate students are encouraged to attend. 
+This talk is a part of the <A HREF="https://www.cap.ca/edu/lect.html">CAP Lecture Tour</A> series, and should be accessible to a wide audience of non-specialists. Undergraduate students are encouraged to attend. 
 </I></FONT>
 
 
@@ -1853,276 +1138,101 @@ January 15, 2008, 12:30 in IRMACS
 Mustafa Amin (Stanford/KIPAC)
 A framework for probing gravity and dark energy on cosmological scales
 
-Departures from the flat-LCDM model can occur in the geometry, expansion
-history and the growth of structure. In addition, the relationship between
-the non-relativistic matter distribution and metric perturbations depends
-on the theory of gravity and any additional fields that are present. This
-provides another means of distinguishing the alternatives to LCDM. I will
-briefly discuss kinematic constraints on the expansion history. I will
-then concentrate on our attempt to develop a framework for probing
-the matter-metric relationship on linear, sub-horizon scales in a
-scale-dependent manner.
+Departures from the flat-LCDM model can occur in the geometry, expansion history and the growth of structure. In addition, the relationship between the non-relativistic matter distribution and metric perturbations depends on the theory of gravity and any additional fields that are present. This provides another means of distinguishing the alternatives to LCDM. I will briefly discuss kinematic constraints on the expansion history. I will then concentrate on our attempt to develop a framework for probing the matter-metric relationship on linear, sub-horizon scales in a scale-dependent manner.
 
 
 January 24, 2008, 13:30 in SSB7172
 Prof. John Moffat (University of Toronto/Perimeter)
 Modified gravity and its consequences for astronomy, astrophysics and cosmology
 
-The consequences of a modified gravity (MOG) are explored. The
-theory successfully explains the dispersion velocities of globular
-clusters, the rotation curves of galaxies, the mass profiles of x-ray
-clusters, the Bullet Cluster and cosmological observations without exotic
-dark matter. An explanation of the accelerated expansion of the universe is
-obtained from the MOG field equations without Einstein's cosmological
-constant. I demonstrate how the solutions of the field equations can be
-derived directly from the action principle of the theory, without resorting
-to ad-hoc parameter choices of empirical formulae. After the values of
-integration constants are determined from observation, approximate
-solutions to the field equations of MOG are obtained that show excellent
-agreement with the data from the scale of the solar system to cosmological
-scales. With no undetermined free parameters, the theory can be used to
-make firm predictions that may be verifiable in the foreseeable future.
+The consequences of a modified gravity (MOG) are explored. The theory successfully explains the dispersion velocities of globular clusters, the rotation curves of galaxies, the mass profiles of x-ray clusters, the Bullet Cluster and cosmological observations without exotic dark matter. An explanation of the accelerated expansion of the universe is obtained from the MOG field equations without Einstein's cosmological constant. I demonstrate how the solutions of the field equations can be derived directly from the action principle of the theory, without resorting to ad-hoc parameter choices of empirical formulae. After the values of integration constants are determined from observation, approximate solutions to the field equations of MOG are obtained that show excellent agreement with the data from the scale of the solar system to cosmological scales. With no undetermined free parameters, the theory can be used to make firm predictions that may be verifiable in the foreseeable future.
 
 
 November 13, 2007, 14:30 in SSB7172
 Dr. Gong-Bo Zhao (SFU)
 Dark energy perturbation and its application on cosmology
 
-Dark Energy (DE) is amongst the biggest enigma in modern cosmology. The
-nature of dark energy dominates the fate of our universe and the
-perturbation of DE plays a crucial role in theoretical study as well as in
-the determination of cosmological parameters. 
-The latest astronomical observations, including supernova type Ia (SN Ia),
-cosmic microwave background (CMB) and large scale structure (LSS), mildly
-favor the equation of state w of DE crossing over the cosmological boundary
-during evolution. However, there exists divergence in perturbation equation
-when w crosses over -1, which gives rise to the classical difficulty in
-global fit of cosmological parameters. In this talk, I will firstly study
-the dark energy perturbation in theory and propose a strategy to handle the
-perturbation in parameter fitting based on Quintom model. Then I will
-investigate the correlations of dynamical dark energy with inflation
-parameters, neutrino mass and curvature of space-time. 
-The nature of neutrino is another challenge to modern physics. The mass of
-neutrino, which is beyond the standard model of particle physics, is of
-great significance theoretically. With the latest astronomical data, I will
-study the correlation between neutrino mass and inflationary parameters and
-the cosmological constraints of mass varying neutrinos. I will show that the
-neutrino mass limit can be relaxed dramatically if neutrino mass varies and
-mass varying neutrinos are favored at about 3 sigma for some data
-combination. This discovery challenges the fundamental particle physics and
-cosmology to a great extent.
+Dark Energy (DE) is amongst the biggest enigma in modern cosmology. The nature of dark energy dominates the fate of our universe and the perturbation of DE plays a crucial role in theoretical study as well as in the determination of cosmological parameters. The latest astronomical observations, including supernova type Ia (SN Ia), cosmic microwave background (CMB) and large scale structure (LSS), mildly favor the equation of state w of DE crossing over the cosmological boundary during evolution. However, there exists divergence in perturbation equation when w crosses over -1, which gives rise to the classical difficulty in global fit of cosmological parameters. In this talk, I will firstly study the dark energy perturbation in theory and propose a strategy to handle the perturbation in parameter fitting based on Quintom model. Then I will investigate the correlations of dynamical dark energy with inflation parameters, neutrino mass and curvature of space-time. The nature of neutrino is another challenge to modern physics. The mass of neutrino, which is beyond the standard model of particle physics, is of great significance theoretically. With the latest astronomical data, I will study the correlation between neutrino mass and inflationary parameters and the cosmological constraints of mass varying neutrinos. I will show that the neutrino mass limit can be relaxed dramatically if neutrino mass varies and mass varying neutrinos are favored at about 3 sigma for some data combination. This discovery challenges the fundamental particle physics and cosmology to a great extent.
 
 
 October 30, 2007, 14:30 in SSB7172
 Alessandra Silvestri (Syracuse University)
 Scale-dependent growth of structure in viable f(R) theories
 
-f(R) theories are an alternative approach at the phenomenon of cosmic
-acceleration, in which the Einstein-Hilbert action for gravity is modified
-by adding a function of the Ricci scalar, f(R). While at the background
-level viable f(R) models must closely mimic LCDM, the difference in their
-prediction for the growth of large scale structures can be sufficiently
-large to leave detectable signatures in future surveys. In this talk,
-after reviewing the conditions for the background viability of f(R)
-theories, I will focus on scalar perturbations. I will present in some
-details the dynamics of linear perturbations, showing what are the
-characteristic imprints of f(R) models in the large scale structure.
+f(R) theories are an alternative approach at the phenomenon of cosmic acceleration, in which the Einstein-Hilbert action for gravity is modified by adding a function of the Ricci scalar, f(R). While at the background level viable f(R) models must closely mimic LCDM, the difference in their prediction for the growth of large scale structures can be sufficiently large to leave detectable signatures in future surveys. In this talk, after reviewing the conditions for the background viability of f(R) theories, I will focus on scalar perturbations. I will present in some details the dynamics of linear perturbations, showing what are the characteristic imprints of f(R) models in the large scale structure.
 
 
 October 5, 2007, 14:30 in K9500
 Prof. Douglas Scott (UBC)
 The Standard Cosmological Model (physics colloquium)
 
-All empirical evidence relating to our Universe is currently well
-explained through a fairly simple model, composed of only a few key
-ingredients. The background is described by homogeneous and isotropic
-solutions within General Relativity, in which there is domination by
-vacuum energy and cold dark matter in a flat expanding geometry. On top
-of this background are fluctuations in density which were laid down at
-early times and are nearly scale-invariant, adiabatic and Gaussian.
-From these low amplitude seeds all of today's structure grew through
-gravitational instability. Within this "Standard Model" the Universe in
-which we live is described by fewer than 10 numbers, most of which are
-now known to at least the first digit. So what is left to do? How well
-should we determine the cosmological parameters? Where did these values
-come from? Are there more numbers that we haven't thought of yet? Is
-this Cosmological Standard Model anything like the Standard Model of
-Particle Physics?
+All empirical evidence relating to our Universe is currently well explained through a fairly simple model, composed of only a few key ingredients. The background is described by homogeneous and isotropic solutions within General Relativity, in which there is domination by vacuum energy and cold dark matter in a flat expanding geometry. On top of this background are fluctuations in density which were laid down at early times and are nearly scale-invariant, adiabatic and Gaussian. From these low amplitude seeds all of today's structure grew through gravitational instability. Within this "Standard Model" the Universe in which we live is described by fewer than 10 numbers, most of which are now known to at least the first digit. So what is left to do? How well should we determine the cosmological parameters? Where did these values come from? Are there more numbers that we haven't thought of yet? Is this Cosmological Standard Model anything like the Standard Model of Particle Physics?
 
 
 November 29, 2007, 14:30 in IRMACS
 Prof. Henk Hoekstra (University of Victoria)
 Weak lensing by large scale structure
 
-Intervening structures in the universe give rise to small distortions
-in the shapes of distant galaxies. By measuring this tiny coherent
-signal, we can study the mass distribution in the universe directly,
-without relying on baryonic tracers. This makes weak lensing by
-large-scale structures a powerful probe of cosmology. I will review
-the topic of "cosmic shear" and discuss how the signal is extracted
-from the data. I will present results from recent surveys, most
-notably the CFHT Legacy Survey. Finally I will discuss what will be
-required to significantly improve constraints on the properties of
-dark energy.
+Intervening structures in the universe give rise to small distortions in the shapes of distant galaxies. By measuring this tiny coherent signal, we can study the mass distribution in the universe directly, without relying on baryonic tracers. This makes weak lensing by large-scale structures a powerful probe of cosmology. I will review the topic of "cosmic shear" and discuss how the signal is extracted from the data. I will present results from recent surveys, most notably the CFHT Legacy Survey. Finally I will discuss what will be required to significantly improve constraints on the properties of dark energy.
 
 
 October 23, 2007, 14:30 in SSB7172
 Dr. Wan-Il Park (KAIST)
 A scenario of baryogenesis compatible with thermal inflation, and preheating
 
-Most of models of baryogenesis are incompatible with thermal inflation
-which is the most compelling solution of cosmological moduli problem. We
-propose a simple model in which the MSSM plus neutrino mass term (LHu)^2
-is supplemented by a minimal flaton sector to drive the thermal
-inflation. Under two very plausible assumptions, this model leads to
-thermal inflation followed by Affleck-Dine type leptogenesis along the
-LHu flat direction. The conservation of generated asymmetry in this
-model is non-trivial since Hubble parameter is negligible at the time of
-our Affleck-Dine leptogenesis. We demonstrate numerically that
-preheating does efficiently damp the amplitude of the Affleck-Dine field
-and that the lepton number is conserved as the result. 
+Most of models of baryogenesis are incompatible with thermal inflation which is the most compelling solution of cosmological moduli problem. We propose a simple model in which the MSSM plus neutrino mass term (LHu)^2 is supplemented by a minimal flaton sector to drive the thermal inflation. Under two very plausible assumptions, this model leads to thermal inflation followed by Affleck-Dine type leptogenesis along the LHu flat direction. The conservation of generated asymmetry in this model is non-trivial since Hubble parameter is negligible at the time of our Affleck-Dine leptogenesis. We demonstrate numerically that preheating does efficiently damp the amplitude of the Affleck-Dine field and that the lepton number is conserved as the result. 
 
 
 May 3, 2007, 13:00 in P8445B
 Prof. Tanmay Vachaspati (Case Western Reserve University)
 Formation of black holes 
 
-I discuss the formation of black holes by spherical domain wall collapse
-as seen by an asymptotic observer, using the functional Schrodinger
-formalism. To explore what signals such observers will see, I describe
-the radiation of a scalar quantum field in the collapsing domain wall
-background. The total energy flux radiated diverges when backreaction of
-the radiation on the collapsing wall is ignored, and the domain wall is
-seen by the asymptotic observer to evaporate by non-thermal radiation
-during the collapse process. Evaporation by pre-Hawking radiation opens
-the possibility that an asymptotic observer can never lose objects down
-a black hole. Together with the non-thermal nature of pre-Hawking
-radiation, this may resolve the black hole information loss problem.
+I discuss the formation of black holes by spherical domain wall collapse as seen by an asymptotic observer, using the functional Schrodinger formalism. To explore what signals such observers will see, I describe the radiation of a scalar quantum field in the collapsing domain wall background. The total energy flux radiated diverges when backreaction of the radiation on the collapsing wall is ignored, and the domain wall is seen by the asymptotic observer to evaporate by non-thermal radiation during the collapse process. Evaporation by pre-Hawking radiation opens the possibility that an asymptotic observer can never lose objects down a black hole. Together with the non-thermal nature of pre-Hawking radiation, this may resolve the black hole information loss problem.
 
 
 Apr 24, 2007, 14:00 in P8445B
 Dr. Evgeny Sorkin (UBC)
 The pinching black strings
 
-I discuss the black holes with various horizon topologies, that exist
-in the spacetimes with extra compactified dimensions, and the phase
-transitions between them. In this talk I particularize to the
-spacetime with a single compact dimension. The relevant black objects
-are the black string, whose horizon wraps the extra-dimensions, and
-the localized black hole. The uniform string becomes  unstable if 'too
-thin', and decays into a nonuniform state which apparently evolves
-until it pinches off and a localized black hole is formed. Currently,
-the dynamical evolution remains elusive, thus we are set to construct
-the phase diagram of the static solutions. In particular, the
-extremely non-uniform black strings are numerically constructed, and
-the local geometry near the pinch off is explored.
+I discuss the black holes with various horizon topologies, that exist in the spacetimes with extra compactified dimensions, and the phase transitions between them. In this talk I particularize to the spacetime with a single compact dimension. The relevant black objects are the black string, whose horizon wraps the extra-dimensions, and the localized black hole. The uniform string becomes  unstable if 'too thin', and decays into a nonuniform state which apparently evolves until it pinches off and a localized black hole is formed. Currently, the dynamical evolution remains elusive, thus we are set to construct the phase diagram of the static solutions. In particular, the extremely non-uniform black strings are numerically constructed, and the local geometry near the pinch off is explored.
 
 
 Mar 27, 2007, 14:00 in SSB7109
 Prof. Shinji Mukohyama (University of Tokyo)
 Cosmology with warped flux compactification
 
-Inflation in the early universe and the accelerated expansion of the
-late-time universe are two major quasi de Sitter phases in the history
-of our universe. Thus, any candidates for the unified theory of nature
-must allow 4-dimensional de Sitter or/and quasi de Sitter solutions.
-It is only recent that a consistent 4-dimensional de Sitter solution
-was found in string theory by using warped flux compactification and
-branes. In this talk I would like to discuss cosmological applications
-of models of warped flux compactification.
+Inflation in the early universe and the accelerated expansion of the late-time universe are two major quasi de Sitter phases in the history of our universe. Thus, any candidates for the unified theory of nature must allow 4-dimensional de Sitter or/and quasi de Sitter solutions. It is only recent that a consistent 4-dimensional de Sitter solution was found in string theory by using warped flux compactification and branes. In this talk I would like to discuss cosmological applications of models of warped flux compactification.
 
 
 Apr 19, 2007, 13:00 in P8445B
 Dr. Eric Peng (HIA/DAO, Victoria)
 Globular cluster systems and the early evolution of galaxies
 
-Globular clusters are among the oldest stellar populations in the
-local Universe, thus providing a unique window onto the earliest
-epochs of galaxy formation. As markers of the most intense periods of
-star formation, these old, massive star clusters are intricately
-entwined with the formation of the galaxies that host them. Some of
-their properties, but not all, mirror those of their host galaxies,
-and it is from both the similarities and differences that we can gain
-insight on galaxy evolution. I will present a view of globular
-cluster systems in 100 early-type galaxies from the ACS Virgo Cluster
-Survey, the most comprehensive and homogeneous data set of its type
-to date. I will describe some of the main results of the survey,
-including the metallicities and specific frequencies of our surveyed
-globular cluster systems, and discuss their implications for early
-galaxy formation.
+Globular clusters are among the oldest stellar populations in the local Universe, thus providing a unique window onto the earliest epochs of galaxy formation. As markers of the most intense periods of star formation, these old, massive star clusters are intricately entwined with the formation of the galaxies that host them. Some of their properties, but not all, mirror those of their host galaxies, and it is from both the similarities and differences that we can gain insight on galaxy evolution. I will present a view of globular cluster systems in 100 early-type galaxies from the ACS Virgo Cluster Survey, the most comprehensive and homogeneous data set of its type to date. I will describe some of the main results of the survey, including the metallicities and specific frequencies of our surveyed globular cluster systems, and discuss their implications for early galaxy formation.
 
 
 Apr 12, 2007, 13:00 in P8445B
 Dr. David Rapetti (KIPAC/Stanford)
 X-ray galaxy clusters as cosmological probes
 
-Late-time cosmic acceleration is currently one of the most
-intriguing questions in cosmology. The standard
-cosmological model now consists of a present-day Universe filled with
-approximately 4 per cent of normal baryonic matter, 23 per cent of
-cold dark matter (CDM) and 73 per cent of quantum vacuum energy (the
-cosmological constant, &Lambda;) that provides the late-time cosmic
-acceleration. However, any departure from this standard &Lambda;CDM
-model would suggest either a new energy component of the
-Universe, so-called dark energy, or a modified gravity theory,
-so-called dark gravity. Using X-ray galaxy clusters we have
-developed two independent and complementary experiments to constrain
-cosmic acceleration. Our first experiment measures distances to the
-largest and most relaxed X-ray galaxy clusters using their gas mass
-fraction f<SUB>gas</SUB>. This allows us to reconstruct cosmic expansion
-up to z ~ 1. This experiment also provides one of the most
-precise measurements of the mean matter density of the Universe.
-Combining this experiment with supernovae type Ia and cosmic
-microwave background data we obtain tight constraints on departures
-around the concordance &Lambda;CDM paradigm. Furthermore we use two
-different and complementary theoretical frameworks to explore
-departures from &Lambda;CDM. We find that &Lambda;CDM is still a
-robust description of current data at about the 1&sigma; level. Our
-second experiment measures the growth of structure which is a strong
-function of cosmological parameters. We count X-ray galaxy clusters
-above both a flux and a luminosity threshold at different redshifts
-(z &lt; 0.7) and compare this with precise theoretical predictions of the
-mass function. We obtain the tightest constraints to date for a single
-experiment on the equation of state of dark energy.
+Late-time cosmic acceleration is currently one of the most intriguing questions in cosmology. The standard cosmological model now consists of a present-day Universe filled with approximately 4 per cent of normal baryonic matter, 23 per cent of cold dark matter (CDM) and 73 per cent of quantum vacuum energy (the cosmological constant, &Lambda;) that provides the late-time cosmic acceleration. However, any departure from this standard &Lambda;CDM model would suggest either a new energy component of the Universe, so-called dark energy, or a modified gravity theory, so-called dark gravity. Using X-ray galaxy clusters we have developed two independent and complementary experiments to constrain cosmic acceleration. Our first experiment measures distances to the largest and most relaxed X-ray galaxy clusters using their gas mass fraction f<SUB>gas</SUB>. This allows us to reconstruct cosmic expansion up to z ~ 1. This experiment also provides one of the most precise measurements of the mean matter density of the Universe. Combining this experiment with supernovae type Ia and cosmic microwave background data we obtain tight constraints on departures around the concordance &Lambda;CDM paradigm. Furthermore we use two different and complementary theoretical frameworks to explore departures from &Lambda;CDM. We find that &Lambda;CDM is still a robust description of current data at about the 1&sigma; level. Our second experiment measures the growth of structure which is a strong function of cosmological parameters. We count X-ray galaxy clusters above both a flux and a luminosity threshold at different redshifts (z &lt; 0.7) and compare this with precise theoretical predictions of the mass function. We obtain the tightest constraints to date for a single experiment on the equation of state of dark energy.
 
 
 Apr 3, 2007, 14:00 in SSB7109
 Prof. Christian Armendariz-Picon (Syracuse)
 Do quantum excitations of the inflaton decay?
 
-The properties of the primordial perturbations seeded during a stage of
-inflation are determined by the quantum state of the inflaton.  This state is
-usually assumed to be the "vacuum", since one expects excited states to decay
-into the state of lowest energy. In the talk I discuss whether this assumption
-holds in the presence of a short-distance cut-off. I describe the calculation of
-transition probabilities between excited states and the vacuum, and discuss the
-implications of the results that I obtain.
+The properties of the primordial perturbations seeded during a stage of inflation are determined by the quantum state of the inflaton. This state is usually assumed to be the "vacuum", since one expects excited states to decay into the state of lowest energy. In the talk I discuss whether this assumption holds in the presence of a short-distance cut-off. I describe the calculation of transition probabilities between excited states and the vacuum, and discuss the implications of the results that I obtain.
 
 
 March 8, 2007, 13:00 in P8445B
 Dr. Catherine Heymans (UBC)
 Probing dark matter and dark energy with weak gravitational lensing
 
-Cosmology is the scientific study of the Universe, striving to answer the most
-fundamental questions about its origin, history and future.  Already we know
-that only a small fraction of our Universe is made up of the material that we
-are familiar with on Earth.  The rest is made up of an unknown Dark Matter
-component that surrounds all galaxies, and an unknown Dark Energy component that
-is responsible for the accelerating expansion of the Universe.  Measuring the
-exact quantities of each of our Universe's components is the great achievement
-of modern day Cosmology, revealing a rather sad fate for the Universe; it will
-simply expand forever becoming colder and emptier.  That we have no grasp of the
-nature and origin of dark matter or dark energy however remains rather
-unsatisfactory!
+Cosmology is the scientific study of the Universe, striving to answer the most fundamental questions about its origin, history and future.  Already we know that only a small fraction of our Universe is made up of the material that we are familiar with on Earth.  The rest is made up of an unknown Dark Matter component that surrounds all galaxies, and an unknown Dark Energy component that is responsible for the accelerating expansion of the Universe. Measuring the exact quantities of each of our Universe's components is the great achievement of modern day Cosmology, revealing a rather sad fate for the Universe; it will simply expand forever becoming colder and emptier.  That we have no grasp of the nature and origin of dark matter or dark energy however remains rather unsatisfactory!
 
 <BR><BR>
-In this talk I will describe a new technique, called `weak gravitational
-lensing', that can not only detect dark matter but also has the great promise of
-being able to measure the properties of dark energy.  I will discuss the physics
-that underpins this method and present maps of the distribution of dark matter
-across an area of sky the size of the full moon. I will also describe an
-exciting future NASA mission that will utilize this lensing technique to uncover
-the origin of the mysterious dark energy.
+In this talk I will describe a new technique, called `weak gravitational lensing', that can not only detect dark matter but also has the great promise of being able to measure the properties of dark energy.  I will discuss the physics that underpins this method and present maps of the distribution of dark matter across an area of sky the size of the full moon. I will also describe an exciting future NASA mission that will utilize this lensing technique to uncover the origin of the mysterious dark energy.
 
 
 Nov 23, 2006, 14:00 in P8445B
@@ -2135,145 +1245,60 @@ Mar 22, 2007, 13:00 in P8445B
 Prof. Ira Wasserman (Cornell)
 The neutron star in 1930 -- and today (special colloquium)
 
-The neutron had not yet been discovered in 1930, but it might have been.
-To understand neutron stars simply it is fun to ask how much could have
-been predicted about their properties if it had. After using this
-fictional device to introduce neutron stars, we will fast forward to
-today, where some of the issues remain the same as we could have deduced
-in 1930, but others are more subtle -- and potentially revealing about
-high density nuclear physics.
+The neutron had not yet been discovered in 1930, but it might have been. To understand neutron stars simply it is fun to ask how much could have been predicted about their properties if it had. After using this fictional device to introduce neutron stars, we will fast forward to today, where some of the issues remain the same as we could have deduced in 1930, but others are more subtle -- and potentially revealing about high density nuclear physics.
 
 
 Mar 23, 2007, 12:30 pm in P8445B
 Prof. Ira Wasserman (Cornell)
 Dynamics of the r mode instability of neutron stars
 
-One of the most important questions in high energy astrophysics is what
-sets the fastest possible rotational frequencies of neutron stars.
-Although requiring stability against rotational mass shedding set
-absolute upper bounds, for most equations of state these seem to be well
-above the fastest observed rotational frequencies. The r-mode -- a
-Rossby wave in a rotating fluid -- is destabilized via the emission of
-gravitational radiation in neutron stars at rotation rates below the
-absolute upper bounds. This talk will treat the important topic of how
-the instability saturates, which determines whether gravitational
-radiation is detectable from neutron stars suffering from this
-instability. Moreover, the question of whether the instability is ``too
-strong'' will also be discussed -- and what that might mean for neutron
-star physics.
+One of the most important questions in high energy astrophysics is what sets the fastest possible rotational frequencies of neutron stars. Although requiring stability against rotational mass shedding set absolute upper bounds, for most equations of state these seem to be well above the fastest observed rotational frequencies. The r-mode -- a Rossby wave in a rotating fluid -- is destabilized via the emission of gravitational radiation in neutron stars at rotation rates below the absolute upper bounds. This talk will treat the important topic of how the instability saturates, which determines whether gravitational radiation is detectable from neutron stars suffering from this instability. Moreover, the question of whether the instability is ``too strong'' will also be discussed -- and what that might mean for neutron star physics.
 
 
 1 February 2007, 13:00 in P8445B
 Dr. Adam Moss (UBC)
 Dark energy and the rubber band
 
-There is now strong evidence for an unknown form of dark energy
-pervading the universe. However, the microphysical explanation of this
-dark energy remains a mystery. The dark energy cannot be a normal fluid,
-as this leads to instabilities on the smallest scales. In this talk I
-discuss the possibility that the dark energy takes the form of an elastic
-medium. I explain the theoretical framework and cosmological signatures
-of such a model, and also discuss the possibility that the microphysical
-origin is a tangled network of cosmic strings and domain walls.
+There is now strong evidence for an unknown form of dark energy pervading the universe. However, the microphysical explanation of this dark energy remains a mystery. The dark energy cannot be a normal fluid, as this leads to instabilities on the smallest scales. In this talk I discuss the possibility that the dark energy takes the form of an elastic medium. I explain the theoretical framework and cosmological signatures of such a model, and also discuss the possibility that the microphysicalvorigin is a tangled network of cosmic strings and domain walls.
 
 
 16 January 2007, 14:00 in SSB7109
 Dr. Bojan Losic (University of Alberta)
 Aspects of nonlinear perturbation theory in cosmology
 
-I will review recent suggestions that nonlinear cosmological
-perturbations are important in slow-roll inflation models. Closely
-related issues in pure de Sitter spacetime will also be discussed,
-with the upshot that a reasonable notion of perturbative consistency
-directly implies a disturbing absence of nontrivial dynamics in de
-Sitter spacetime. The scope of the talk will be introductory.
+I will review recent suggestions that nonlinear cosmological perturbations are important in slow-roll inflation models. Closely related issues in pure de Sitter spacetime will also be discussed, with the upshot that a reasonable notion of perturbative consistency directly implies a disturbing absence of nontrivial dynamics in de Sitter spacetime. The scope of the talk will be introductory.
 
 
 11 January 2007, 13:00 in P8445B
 Prof. Krzysztof Sliwa (Tufts University)
 Supersymmetry for particle physicists
 
-The idea of Supersymmetry, together with the theoretical motivations for
-its introduction, is presented in a way that puts an emphasis on the
-main concepts rather than the technical details. The observational
-consequences of Supersymmetry, past searches, existing limits and
-prospects for possible observation of Supersymmetric particles in
-experiments at Large Hadron Collider at CERN are summarized.
+The idea of Supersymmetry, together with the theoretical motivations for its introduction, is presented in a way that puts an emphasis on the main concepts rather than the technical details. The observational consequences of Supersymmetry, past searches, existing limits and prospects for possible observation of Supersymmetric particles in experiments at Large Hadron Collider at CERN are summarized.
 
 
 5 December 2006, 13:00 in P8445B
 Prof. Jasper Wall (UBC)
 Submillimetre galaxies and star-formation in the early Universe
 
-Submm galaxies recently have been discovered in significant numbers
-using SCUBA, the sub-millimetre common-user bolometer array on the James
-Clerk Maxwell Telescope, Hawaii. Their spectra closely resemble 30-40K
-black-body; they are believed to be dust-shrouded progenitor galaxies
-with the dust heated by UV radiation from early generations of stars. If
-this is so, then star-forming rates in each pre-galaxy must be
-prodigious, say 1000 solar masses per year. The present day equivalents
-are suggested to be the so-called ULIRGs, ultra-luminous IR galaxies,
-such as NGC 6240 or Arp 220, whose enormous star-formation rates are
-attributed to major galaxy mergers. At last we have a completely
-identified sample of 35 submm galaxies, and my talk will describe how
-this sample - despite its small size - has enabled us to learn much
-about the cosmic space distribution and evolution of this key population
-of proto-galaxies.
+Submm galaxies recently have been discovered in significant numbers using SCUBA, the sub-millimetre common-user bolometer array on the James Clerk Maxwell Telescope, Hawaii. Their spectra closely resemble 30-40K black-body; they are believed to be dust-shrouded progenitor galaxies with the dust heated by UV radiation from early generations of stars. If this is so, then star-forming rates in each pre-galaxy must be prodigious, say 1000 solar masses per year. The present day equivalents are suggested to be the so-called ULIRGs, ultra-luminous IR galaxies, such as NGC 6240 or Arp 220, whose enormous star-formation rates are attributed to major galaxy mergers. At last we have a completely identified sample of 35 submm galaxies, and my talk will describe how this sample - despite its small size - has enabled us to learn much about the cosmic space distribution and evolution of this key population of proto-galaxies.
 
 
 30 November 2006, 14:00 in P8445B
 Prof. Marco Peloso (University of Minnesota)
 The role of SUSY flat directions in reheating
 
-Reheating after inflation describes all the particle physics processes
-occurring from the decay of the inflaton up to the establishment of
-thermal equilibrium. Due to the strong model dependence, it is one of
-the most unknown stages in the history of the universe. There is ongoing
-effort to determine the reheating temperature within different scenarios
-(from this quantity, one can then determine the amount of baryons and of
-unwanted relics, such as gravitinos, produced by the thermal bath). It
-has been argued that SUSY flat directions are naturally excited during
-inflation, and that they slow down thermalization, by providing a large
-effective mass to the fields they are coupled to. We discuss a
-nonperturbative decay channel for the flat directions which has been
-generally overlooked in the literature. It typically leads to a quick
-decay of the flat directions, and, arguably, to a suppression of their
-delaying effect for thermalization.
+Reheating after inflation describes all the particle physics processes occurring from the decay of the inflaton up to the establishment of thermal equilibrium. Due to the strong model dependence, it is one of the most unknown stages in the history of the universe. There is ongoing effort to determine the reheating temperature within different scenarios (from this quantity, one can then determine the amount of baryons and of unwanted relics, such as gravitinos, produced by the thermal bath). It has been argued that SUSY flat directions are naturally excited during inflation, and that they slow down thermalization, by providing a large effective mass to the fields they are coupled to. We discuss a nonperturbative decay channel for the flat directions which has been generally overlooked in the literature. It typically leads to a quick decay of the flat directions, and, arguably, to a suppression of their delaying effect for thermalization.
 
 
 22 November 2006, 12:45 in P8445B
 Prof. Ingrid Stairs (UBC)
 Relativistic binary pulsars
 
-Radio pulsars in double-neutron-star systems provide the best tests of
-strong-field gravitational theories. I will present recent observations
-of PSR B1534+12 and the double-pulsar system J0737-3039A/B. In both
-cases, the pulsar timing observations are sensitive to multiple
-relativistic corrections to the basic Keplerian orbit, and therefore
-yield multiple tests of general relativity, with the double pulsar
-providing the strongest test to date. I will also discuss observations
-of geodetic precession and implications for the formation of the two
-systems.
+Radio pulsars in double-neutron-star systems provide the best tests of strong-field gravitational theories. I will present recent observations of PSR B1534+12 and the double-pulsar system J0737-3039A/B. In both cases, the pulsar timing observations are sensitive to multiple relativistic corrections to the basic Keplerian orbit, and therefore yield multiple tests of general relativity, with the double pulsar providing the strongest test to date. I will also discuss observations of geodetic precession and implications for the formation of the two systems.
 
 
 4 October 2006, 12:45 in P8445A
 Dr. Serge Winitzki (Ludwig Maximilians University, Munich)
 Predictions in eternally inflating universe
 
-In generic models of cosmological inflation, quantum fluctuations
-strongly influence the spacetime metric and produce infinitely many
-regions where the end of inflation (reheating) is delayed until
-arbitrarily late times. The geometry of the resulting spacetime is
-highly inhomogeneous on scales of many Hubble sizes. The recently
-developed string-theoretic picture of the "landscape" presents a similar
-structure, where an infinite number of de Sitter and anti-de Sitter
-universes are nucleated via gravitational quantum tunneling. Since
-observers on the Earth have no information about their position within
-the eternally inflating landscape, the main question in this context is
-to obtain statistical predictions for quantities observed at a random
-location within the landscape. I describe the problems arising within
-this statistical framework, in particular, the need for a volume cut-off
-and the dependence of certain cut-off schemes on time slicing and on the
-initial conditions. I review the existing proposals for extracting
-predictions and give examples of their applications, in particular, to
-the cosmological constant problem.
+In generic models of cosmological inflation, quantum fluctuations strongly influence the spacetime metric and produce infinitely many regions where the end of inflation (reheating) is delayed until arbitrarily late times. The geometry of the resulting spacetime is highly inhomogeneous on scales of many Hubble sizes. The recently developed string-theoretic picture of the "landscape" presents a similar structure, where an infinite number of de Sitter and anti-de Sitter universes are nucleated via gravitational quantum tunneling. Since observers on the Earth have no information about their position within the eternally inflating landscape, the main question in this context is to obtain statistical predictions for quantities observed at a random location within the landscape. I describe the problems arising within this statistical framework, in particular, the need for a volume cut-off and the dependence of certain cut-off schemes on time slicing and on the initial conditions. I review the existing proposals for extracting predictions and give examples of their applications, in particular, to the cosmological constant problem.
