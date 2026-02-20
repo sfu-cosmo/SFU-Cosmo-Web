@@ -1,3 +1,10 @@
+February 23, 2026, at 14:30 in P8445B
+Dr. Bryce Cyr (MIT)
+CMB spectral distortions: The HOW, WHAT, and WHEN?
+
+In this talk, I will boldly attempt to cover the formalism, applications, and experimental prospects of future CMB spectrometers, aimed at measuring small deviations to the blackbody nature of the cosmic microwave background as a way to probe the precise thermal history of the Universe. I will begin with a gentle introduction to the cosmological thermalization problem, providing general motivation from both within and outside of the so-called standard models of cosmology and particle physics. Following this, I will show how current experimental data (from the 1990's) is able to constrain dark photons and dark atomic sectors, and highlight the potential gain in sensitivity that would come from a next-generation experiment such as FOSSIL or PIXIE. Finally, I will conclude with an overview of the experimental landscape, which after over two decades of inactivity, has had a flurry of exciting recent developments.
+
+
 January 26, 2026, at 14:30 in P8445B
 Dr. Javier Acevedo (UVic)
 Celestial probes of dark matter in the galactic center
