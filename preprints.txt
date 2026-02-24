@@ -617,3 +617,11 @@ The Simons Observatory: forecasted constraints on primordial gravitational waves
 SCG-2026-01 [2511.16801]
 J.~D.~Peñalba~Quispitupa, G.~F.~Quispe~Peña, and J.~T.~Galvez~Ghersi
 Numerical tiling-based simulations of decoherence in multifield models of inflation
+
+SCG-2026-02 [2508.08233]
+C.~Yuan, D.~F.~G.~Fiorillo, M.~Petropoulou, and Q.~Liu
+Coupled time-dependent proton acceleration and leptonic-hadronic radiation in turbulent supermassive black hole coronae
+
+SCG-2026-03 [2509.16202]
+H.~G.~Escudero, S.~H.~Mirpoorian, and L.~Pogosian
+Sound-horizon-agnostic inference of the Hubble constant and neutrino mass from BAO, CMB lensing, and galaxy weak lensing and clustering
