@@ -1,3 +1,12 @@
+March 16, 2026, at 14:30 in Zoom
+Prof. Lloyd Knox (UC Davis)
+The Hubble Constant problem
+
+Two different methods of inferring the current rate of expansion of space (the Hubble constant) agree to within 10% but nevertheless disagree at greater than 7 sigma. This discrepancy is interesting for the possibility that its origin lies in a failure of the standard cosmological model, our standard model for over two decades. In this talk I will describe what the expansion of space is, for those who don't think about general relativity every day, before presenting the two different methods, and discussing the case against systematic errors. Then I will mention the types of changes to the cosmological model that could potentially solve this Hubble constant problem, before focusing in on one solution method in particular: modifications to the transition from an ionized plasma to a neutral gas that occurred when the universe was a few hundred thousand years old. These modifications lead to observable predictions that are being tested now.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
 March 2, 2026, at 15:00 in P8445B
 Dr. Nick Rodd (LBNL)
 Discovering Dark Matter at CTAO
