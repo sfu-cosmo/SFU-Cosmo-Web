@@ -1,3 +1,12 @@
+March 23, 2026, at 14:30 in P8445B
+Dr. Farrukh Chishtie (Science and Innovation Foundation)
+Unified Standard Model with Emergent Gravity-Effective Field Theory
+
+I present the Unified Standard Model with Emergent Gravity-Effective Field Theory (USMEG-EFT), demonstrating for the first time a consistent unification of four-dimensional general relativity with the Standard Model within a fully renormalizable effective field theory framework. The approach employs a Lagrange multiplier field that enforces Einstein's equations at the path-integral level, systematically eliminating multi-loop graviton contributions and confining quantum gravity corrections to one loop. The resulting effective action exhibits characteristic logarithmic scale dependence ln(μ/Λ), which we prove mathematically using the Appelquist-Carazzone decoupling theorem establishes four-dimensional general relativity as an effective field theory with finite domain of validity below Λ<sub>grav</sub> ~ 10<sup>18</sup> GeV. Three independent theoretical analyses converge on this conclusion: canonical quantization reveals general covariance breakdown in dimensions greater than two, renormalization group analysis demonstrates logarithmic running without UV fixed points, and BRST symmetry analysis shows conditional nilpotency violated above the breakdown scale. The framework predicts exactly two transverse-traceless graviton polarization states - a parameter-free prediction definitively confirmed by LIGO-Virgo-KAGRA gravitational wave observations across dozens of detections, while alternative approaches (string theory, loop quantum gravity, asymptotic safety, Einstein-Cartan theory, and f(R) gravity) generically predict additional polarizations that are experimentally excluded. USMEG-EFT provides systematic integration with Standard Model physics through dimension-six SMEFT operators preserving SU(3) × SU(2) × U(1) gauge symmetries, yielding calculable quantum gravitational signatures including gravitational wave phase corrections and modified high-energy scattering cross-sections. These results resolve the long-standing unification challenge and demonstrate that complete unification is achievable without exotic new symmetries or extra dimensions within an explicitly acknowledged effective theory framework.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
 March 16, 2026, at 14:30 in Zoom
 Prof. Lloyd Knox (UC Davis)
 The Hubble Constant problem
