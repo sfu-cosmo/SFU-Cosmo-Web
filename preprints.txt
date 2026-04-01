@@ -625,3 +625,7 @@ Coupled time-dependent proton acceleration and leptonic-hadronic radiation in tu
 SCG-2026-03 [2509.16202]
 H.~G.~Escudero, S.~H.~Mirpoorian, and L.~Pogosian
 Sound-horizon-agnostic inference of the Hubble constant and neutrino mass from BAO, CMB lensing, and galaxy weak lensing and clustering
+
+SCG-2026-04 [2603.27080]
+G.~F.~Quispe~Peña, J.~D.~Peñalba~Quispitupa, and J.~T.~Gálvez~Ghersi
+Optimized numerical evolution of perturbations across sharp background trajectory turns in multifield inflation
