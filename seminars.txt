@@ -1,3 +1,66 @@
+October 26, 2026, at 14:30 in P8445B
+Dr. Theo Maurin (SFU)
+Piecing together the SM H->WW* semi-leptonic decay
+
+The Higgs field is the last component of the Standard Model, introducing the crucial and beautiful Higgs Mechanism, that give the fundamental particles their masses. The Higgs decay to vector bosons, offers a strong access to the parameters that characterise the electroweak interactions and Higgs properties. In this talk, I will present myself and share the full design of a novel analysis to search for the semi-leptonic SM H->WW* process in the ATLAS experiment, and contribute to both Higgs physics and quantum information studies at the LHC.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
+October 19, 2026, at 14:30 in P8445B
+Prof. Andrew Long (Rice)
+Looking through loops: CMB birefringence from axion strings
+
+Does the Universe contain a network of as-yet unseen topological defects?  In this talk I will discuss how current and next-generation measurements of CMB polarization may reveal a cosmic string network in the Universe today through the phenomenon of axion-induced birefringence.  We’ll discuss why axion strings are predicted to create an anisotropic birefringence signal, how this signal depends on the properties of the axion-like particle and its string network, how existing measurements of anisotropic birefringence place strong constraints on axion strings and their UV embeddings, and what are the implications for recently reported detections of isotropic cosmic birefringence.  
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
+October 6, 2026, at 11:30 in P8445B
+Prof. Xinyu Li (Tsinghua)
+Cosmology with Fuzzy Dark Matter model
+
+Fuzzy Dark Matter (FDM) is made up of ultralight bosons with mass around ~1e-22eV. It is proposed to solve the small scale problems of the cold dark matter while mimicking the CDM on the large scale. The dynamics of FDM is governed by the Schrödinger-Poisson equation. The wave nature of FDM exhibits novel phenomena including density fluctuations, formation of vortices and filaments, and oscillation of the soliton core at the halo centre. They can be used to observationally probe and constrain the FDM model through gravitational lensing and stellar dynamics.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
+September 28, 2026, at 14:30 in P8445B
+Dr. William Luszczak (SFU)
+Atmospheric muon observations near the base of a forming tornado
+
+Astroparticle physics can be thought of as the process of using astroparticle messengers and techniques to infer unique information about physical systems that are difficult to study via other methods. While traditionally this approach has been used to understand faraway astrophysical systems, this mode of thinking can also be used to better understand atmospheric processes on Earth. One way in which this can be achieved is through atmospheric muography: the flux of muons produced by cosmic ray interactions in the upper atmosphere is known to be correlated with atmospheric density, implying that this could be used as an avenue for novel meteorological measurement. This talk will discuss recent results and new opportunities for leveraging atmospheric muons as a meteorological tool, including applications to numerical weather prediction and early results from the deployment of a muon detector near tornadic storms.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
+April 27, 2026, at 14:30 in P8445B
+Dr. Carlos de Lima (TRIUMF)
+Atomic gas in nearby galaxies as a cosmological probe
+
+In this talk, I present a newly proposed search strategy for GeV-scale particles that couple predominantly to light quarks at the LHC. Such models have often been assumed to be experimentally indistinguishable from QCD jets. We demonstrate that this is not the case: these particles can be perturbatively produced at the LHC and promptly decay into only a few hadrons, giving rise to jets with anomalously low charged-track multiplicity and mass. I will also discuss possible improvements that can be made for HL-LHC.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
+April 20, 2026, at 14:30 in P8445B
+Prof. Kristine Spekkens (Queen’s)
+Atomic gas in nearby galaxies as a cosmological probe
+
+The atomic gas (HI) content of nearby galaxies provides important insight into how they form and evolve within the standard cosmology. In this talk, I will highlight some of my group's recent progress towards leveraging new facilities and surveys into statistical samples of gas-rich galaxy detections. I will first focus on searches for the low-mass end of the star forming galaxy population with targetted and widefield surveys, as well as prospects for dim and dark galaxy population studies with the Canadian Hydrogen Observatory and Radio Transient Detector (CHORD). I will then describe some of the first spatially resolved population studies of Milky Way-like HI disks using the widefield WALLABY survey that is now underway on the Australian SKA Pathfinder (ASKAP). This work paves the way for mapping HI disks across cosmic time with the SKA telescope when it comes online early in the next decade.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
+April 15, 2026, at 15:30 in P8445B
+Dr. Max Swiatlowski (TRIUMF)
+How pairs of Higgs bosons help us understand the Standard Model and beyond
+
+The discovery of the Higgs boson at the Large Hadron Collider completed the Standard Model, but many fundamental open questions in particle physics remain. One question is particularly simple: how could the Big Bang produce the matter-dominated universe we observe without anti-matter, which should have been produced in equal parts? As the LHC produces collisions faster than ever before, the huge datasets the ATLAS experiment is collecting can provide answers to this question, and others, by enabling the measurement of the extremely rare production of pairs of Higgs bosons. Though difficult to observe, these signatures can directly measure the shape of the Higgs potential: deviations from the Standard Model's expectations could allow us to understand not just the history of the early universe that created the matter/anti-matter asymmetry, but questions like the future stability of the universe. This talk will focus on the challenges to detecting Higgs boson pairs, and how to interpret them to understand the true shape of the Higgs potential and consequences for physics beyond the Standard Model. The latest results from the ATLAS (and CMS) experiment will be presented, and prospects for future measurements at the High-Luminosity LHC and next-generation colliders will be discussed.
+
+<BR><BR>Zoom: <A HREF="https://sfu.zoom.us/j/84975213690?pwd=LErSSSFj5F7bRm3F0Co5VKsOasbISr.1">Zoom</A>
+
+
 March 30, 2026, at 14:30 in P8445B
 Prof. Tanmay Vachaspati (Arizona State)
 Cosmological magnetic fields from electroweak symmetry breaking
